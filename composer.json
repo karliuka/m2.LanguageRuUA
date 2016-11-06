@@ -7,7 +7,7 @@
 		"OSL-3.0"
 		],
 	"require": {
-		"faonni/module-locale-ru_ua": "^2.0",
+		"faonni/module-locale-ru_ua": "^2.0"
 		},
 	"autoload": {
 		"files": [ "registration.php" ]
