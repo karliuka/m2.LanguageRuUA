@@ -563,7 +563,7 @@ Description,Описание
 Tags,Метки
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Ошибка 404</h1><p>Страница не найдена.</p>"
 "Community Edition","Community Edition"
-"Default Theme","Default Theme"
+"Default Theme","Шаблон по умолчанию"
 "Applied Theme","Applied Theme"
 "If no value is specified, the system default is used. The system default may be modified by third party extensions.","If no value is specified, the system default is used. The system default may be modified by third party extensions."
 "Design Rule","Design Rule"
@@ -1675,7 +1675,7 @@ Action,Действие
 Hidden,Скрыт
 "Alt Text","Альтернативный текст (alt)"
 Role,Роль
-"Image Size","Image Size"
+"Image Size","Размер изображения"
 {size},{size}
 "Image Resolution","Image Resolution"
 "{width}^{height} px","{width}^{height} px"
@@ -1833,15 +1833,15 @@ Template,Шаблон
 "Category Link Inline Template","Category Link Inline Template"
 Set,Набор
 "Category Information","Category Information"
-"Enable Category","Enable Category"
-"Include in Menu","Include in Menu"
+"Enable Category","Включить категорию"
+"Include in Menu","Добавить в меню"
 Content,Содержимое
 "Category Image","Category Image"
 "Add CMS Block","Добавить CMS блок"
 "Display Settings","Настройки отображения"
 Anchor,Anchor
 "Sort Products By","Sort Products By"
-"Use All","Use All"
+"Use All","Использовать все"
 "Default Product Sorting","Default Product Sorting"
 "Layered Navigation Price Step","Layered Navigation Price Step"
 "URL Key",Адрес
@@ -1862,7 +1862,7 @@ StatusText,StatusText
 Base,Base
 Image,Изображение
 "Allowed file types: jpeg, gif, png.","Разрешенные типы файлов: jpeg, gif, png."
-"Image Opacity","Image Opacity"
+"Image Opacity","Прозрачность изображения"
 "Example format: 200x300.","Пример формата: 200x300."
 "Image Position","Image Position"
 Small,Small
@@ -2031,7 +2031,7 @@ Total:,Всего:
 Password,Пароль
 "Forgot Your Password?","Забыли пароль?"
 "My billing and shipping address are the same","Мой платежный адрес и адрес доставки совпадают"
-Update,Update
+Update,Обновить
 Cancel,Отменить
 "Save in address book","Сохранить в адресной книге"
 "Estimated Total","Estimated Total"
@@ -2055,7 +2055,7 @@ Remove,Удалить
 "A letter with further instructions will be sent to your email.","Письмо с дальнейшими инструкциями будет отправлено на ваш адерс электронной почты."
 "Place Order","Оформить заказ"
 "Forgot an Item?","Forgot an Item?"
-"Edit Your Cart","Edit Your Cart"
+"Edit Your Cart","Изменить корзину"
 "Ship Here","Ship Here"
 "Ship To:",Получатель:
 edit,Редактировать
@@ -2160,7 +2160,7 @@ Pages,Страницы
 "A total of %1 record(s) have been enabled.","Включены записи (%1 шт.)."
 "Page Title","Заголовок страницы"
 "To apply changes you should fill in hidden required ""%1"" field","To apply changes you should fill in hidden required ""%1"" field"
-"You saved the page.","You saved the page."
+"You saved the page.","Вы сохранили страницу."
 "The directory %1 is not writable by server.","Папка %1 не доступна для записи сервером."
 "Make sure that static block content does not reference the block itself.","Убедитесь, что содержимое статичного блока не ссылается на ссылается на этот же блок."
 "CMS Block with id ""%1"" does not exist.","CMS блок с ид ""%1"" не существует."
@@ -2226,7 +2226,7 @@ Block,Блок
 "Select Block...","Выберите блок..."
 "CMS Static Block Default Template","CMS статичный блок - шаблон по умолчанию"
 "General Information","Общая информация"
-"Enable Block","Enable Block"
+"Enable Block","Включить блок"
 "Block Title","Заголовок блока"
 "Delete items","Удалить позиции"
 "Are you sure you wan't to delete selected items?","Вы действительно хотите удалить выбранные позиции?"
@@ -2335,7 +2335,7 @@ test2,test2
 Delete,Удалить
 "Current Configuration Scope:","Текущая область действия конфигурации:"
 Stores,Магазины
-"Group Label","Group Label"
+"Group Label","Название группы"
 "Some Label","Some Label"
 "Tab Label","Tab Label"
 "Allow everything","Разрешить все"
@@ -2460,7 +2460,7 @@ Cancel,Отменить
 "Disassociated Products","Disassociated Products"
 "These products are not associated.","These products are not associated."
 "Disable Product","Disable Product"
-"Enable Product","Enable Product"
+"Enable Product","Включить продукт"
 "Incl. Tax","Включая налог"
 "Select Associated Product","Select Associated Product"
 Done,Обработано
@@ -2964,7 +2964,7 @@ Password:,Пароль:
 "Confirm Your Account","Подтвердите вашу учётную запись"
 "Thank you for confirming your %store_name account.","Спасибо за подтверждение учётной записи на сайте %store_name."
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Для авторизации на нашем сайте и установке пароля, нажмите на <a href=""%create_password_url"">ссылку</a>:"
-"Hello,","Hello,"
+"Hello,","Здравствуйте,"
 "We have received a request to change the following information associated with your account at %store_name: email.","We have received a request to change the following information associated with your account at %store_name: email."
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>"
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","или по телефону <a href=""tel:%store_phone"">%store_phone</a>"
@@ -3153,7 +3153,7 @@ Jetline,Jetline
 "Jumbo box","Jumbo box"
 "DHL service is not available at %s date","DHL service is not available at %s date"
 "The response is in wrong format.","Ответ в неверном формате."
-"Error #%1 : %2","Error #%1 : %2"
+"Error #%1 : %2","Ошибка #%1 : %2"
 "We had to skip DHL method %1 because we couldn\'t find exchange rate %2 (Base Currency).","We had to skip DHL method %1 because we couldn\'t find exchange rate %2 (Base Currency)."
 "Zero shipping charge for '%1'","Zero shipping charge for '%1'"
 DHL,DHL
@@ -3289,7 +3289,7 @@ Unlimited,Неограниченно
 Yes,Да
 No,Нет
 "Use config","Использовать настройки конфигурации"
-"Upload File","Upload File"
+"Upload File","Закачать файл"
 URL,Ссылка
 attachment,вложение
 inline,построчно
@@ -3600,7 +3600,7 @@ Action,Действие
 "Logo Height","Высота логотипа"
 "Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".","Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px""."
 "Header Template","Шаблон верхней части"
-"Email template chosen based on theme fallback, when the ""Default"" option is selected.","Email template chosen based on theme fallback, when the ""Default"" option is selected."
+"Email template chosen based on theme fallback, when the ""Default"" option is selected.","Если выбрано значение по умолчанию, шаблон будет зависеть от используемой темы оформления."
 "Footer Template","Шаблон нижней части"
 "Change Encryption Key","Изменить ключ шифрования"
 "Encryption Key","Ключ шифрования"
@@ -3731,7 +3731,7 @@ OK,ОК
 To:,До:
 From:,От:
 Message:,Сообщение:
-Update,Update
+Update,Обновить
 "Gift options","Параметры подарка"
 Edit,Редактировать
 Delete,Удалить
@@ -4525,7 +4525,7 @@ No,Нет
 "Credit Card Information","Кредитная карта. Информация"
 "Place Order","Оформить заказ"
 "Forgot an Item?","Forgot an Item?"
-"Edit Your Cart","Edit Your Cart"
+"Edit Your Cart","Изменить корзину"
 "Payment Methods Section","Payment Methods Section"
 "Payment Services","Payment Services"
 "Payment Methods","Методы оплаты"
@@ -5278,7 +5278,7 @@ Role,Роль
 "Delete image","Удалить изображение"
 Hidden,Скрыт
 "Alt Text","Альтернативный текст (alt)"
-"Image Size","Image Size"
+"Image Size","Размер изображения"
 {size},{size}
 "Image Resolution","Image Resolution"
 "{width}^{height} px","{width}^{height} px"
@@ -6570,7 +6570,7 @@ Search,Поиск
 "You have item changes","You have item changes"
 Ok,ОК
 Operations,Операции
-Create,Create
+Create,Создать
 "Send Order Email","Send Order Email"
 "Accept or Deny Payment","Разрешить или запретить платёж"
 "Send Sales Emails","Send Sales Emails"
@@ -7157,7 +7157,7 @@ Swatch,Swatch
 "Sort Option","Сортировать варианты"
 Delete,Удалить
 "Choose a color","Choose a color"
-"Upload a file","Upload a file"
+"Upload a file","Закачать файл"
 Clear,Очистить
 "Step 2: Attribute Values","Шаг 2: Значения атрибутов"
 "Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Выберите значение из каждого атрибута для включения в этот товар. Каждая уникальная комбинация значений создаст товар с уникальным артикулом."
@@ -7174,8 +7174,8 @@ Options,Варианты
 "Swatch Image","Swatch Image"
 Image,Изображение
 "Allowed file types: jpeg, gif, png.","Разрешенные типы файлов: jpeg, gif, png."
-"Image Opacity","Image Opacity"
-"Image Size","Image Size"
+"Image Opacity","Прозрачность изображения"
+"Image Size","Размер изображения"
 "Example format: 200x300.","Пример формата: 200x300."
 "Image Position","Image Position"
 Code,Код
@@ -7947,7 +7947,7 @@ Resources,Ресурсы
 "If you requested this change, reset your password here:","Если вы делали запрос на изменение пароля, измените пароль по этой ссылке:"
 "If you did not make this request, you can ignore this email and your password will remain the same.","Если вы не делали запрос на изменение пароля, или решили не менять пароль, то просто проигнорируйте это письмо - пароль останется прежним."
 "Thank you,","Спасибо,"
-"Hello,","Hello,"
+"Hello,","Здравствуйте,"
 "We have received a request to change the following information associated with your account at %store_name: %changes.","We have received a request to change the following information associated with your account at %store_name: %changes."
 "If you have not authorized this action, please contact us immediately at %store_email","If you have not authorized this action, please contact us immediately at %store_email"
 "or call us at %store_phone","or call us at %store_phone"
@@ -8134,8 +8134,8 @@ message,сообщение
 Message,сообщение
 "Soap fault reason.","Soap fault reason."
 "Manage Customers","Управление клиентами"
-"Create Customer","Create Customer"
-"Edit Customer","Edit Customer"
+"Create Customer","Создать клиента"
+"Edit Customer","Редактировать клиента"
 "Get Customer","Get Customer"
 "Delete Customer","Удалить клиента"
 "Magento Web API","Magento Веб API"
