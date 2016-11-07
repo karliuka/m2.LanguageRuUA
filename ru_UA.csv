@@ -59,7 +59,7 @@ Actions,Действия
 "Order saving error: %1","Ошибка сохранения заказа: %1"
 "Please choose a payment method.","Пожалуйста, выберите метод оплаты."
 "We can\'t process your order right now. Please try again later.","Мы не можем обработать ваш заказ в данный момент. Пожалуйста, повторите попытку позже."
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again."
+"An error occurred on the server. Please try to place the order again.","Произошла ошибка на сервере. Пожалуйста, попробуйте разместить заказ позже."
 "Credit Card: xxxx-%1","Кредитная карта: xxxx-%1"
 "amount %1","сумма %1"
 failed.,failed.
@@ -410,7 +410,7 @@ Actions,Действия
 Loading...,Загружается...
 "We could not detect a size.","Мы не можем определить размер."
 "We don\'t recognize or support this file extension type.","Мы не распознали или не поддерживаем тип расширения этого файла."
-"Allow everything","Allow everything"
+"Allow everything","Разрешить все"
 "Magento Admin","Magento Admin"
 "Global Search","Global Search"
 Marketing,Маркетинг
@@ -1574,14 +1574,14 @@ Select...,Выберите...
 To,По
 Cancel,Отменить
 Done,Обработано
-"Add Selected","Add Selected"
+"Add Selected","Добавить выбранное"
 "Customizable Options","Customizable Options"
 "Custom options let customers choose the product variations they want.","Custom options let customers choose the product variations they want."
 "Add Option","Добавить вариант"
 "New Option","Новый вариант"
 "Select Product","Выберите товар"
 "Option Title","Заголовок варианта"
-"Add Value","Add Value"
+"Add Value","Добавить значение"
 Title,Заголовок
 "Option Type","Option Type"
 Required,Обязательно
@@ -1837,7 +1837,7 @@ Set,Набор
 "Include in Menu","Include in Menu"
 Content,Содержимое
 "Category Image","Category Image"
-"Add CMS Block","Add CMS Block"
+"Add CMS Block","Добавить CMS блок"
 "Display Settings","Настройки отображения"
 Anchor,Anchor
 "Sort Products By","Sort Products By"
@@ -1961,7 +1961,7 @@ Checkout,"Оформить заказ"
 "This quote item does not exist.","Эта позиция корзины не существует."
 "Display number of items in cart","Показывать количество позиций в корзине"
 "Display item quantities","Показывать количество товаров"
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again."
+"An error occurred on the server. Please try to place the order again.","Произошла ошибка на сервере. Пожалуйста, попробуйте разместить заказ позже."
 "Shipping address is not set","Адрес доставки не задан"
 "Unable to save address. Please check input data.","Не удается сохранить адрес. Пожалуйста проверьте входные данные."
 "Carrier with such method not found: %1, %2","Служба доставки с таким методом не найдена: %1, %2"
@@ -2072,7 +2072,7 @@ Next,Следующий
 "Items in Cart","шт. в корзине"
 "View Details",Подробнее
 "Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid."
-" Example: "," Example: "
+" Example: ",Пример:
 "If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice."
 "Review & Payments","Review & Payments"
 Shipping,Доставка
@@ -2338,7 +2338,7 @@ Stores,Магазины
 "Group Label","Group Label"
 "Some Label","Some Label"
 "Tab Label","Tab Label"
-"Allow everything","Allow everything"
+"Allow everything","Разрешить все"
 "Magento Admin","Magento Admin"
 Dashboard,"Панель управления"
 "Manage Stores","Управление магазинами"
@@ -3172,7 +3172,7 @@ Documents,Документы
 "Non documents","Non documents"
 None,Отсутствует
 "Field ",Поле
-" is required."," is required."
+" is required.",обязательно.
 "Enabled for Checkout","Включено для заказа"
 "Gateway URL","URL шлюза"
 Title,Заголовок
@@ -3301,7 +3301,7 @@ Links,Ссылки
 Title,Заголовок
 "Links can be purchased separately","Ссылки могут быть приобретены отдельно"
 "Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with \'_\'.","Для имён файлов рекомендуются цифры, буквы, тире и подчёркивания. Неподходящие символы будут заменены на \'_\'."
-"Add Link","Add Link"
+"Add Link","Добавить ссылку"
 Price,Цена
 File,Файл
 Sample,образец
@@ -3424,7 +3424,7 @@ Dropdown,"Выпадающий список"
 """%1"" is not a valid image format","""%1"" is not a valid image format"
 """%1"" width exceeds allowed value of %2 px.","""%1"" width exceeds allowed value of %2 px."
 """%1"" height exceeds allowed value of %2 px.","""%1"" height exceeds allowed value of %2 px."
-"""%1"" cannot contain more than %2 lines.","""%1"" cannot contain more than %2 lines."
+"""%1"" cannot contain more than %2 lines.","""%1"" не может содержать больше, чем %2 линии."
 """%1"" length must be equal or greater than %2 characters.","""%1"" length must be equal or greater than %2 characters."
 """%1"" length must be equal or less than %2 characters.","""%1"" length must be equal or less than %2 characters."
 "Attribute group does not belong to provided attribute set","Attribute group does not belong to provided attribute set"
@@ -3660,7 +3660,7 @@ status,Статус
 "Empty response","Пустой ответ"
 None,Отсутствует
 "Field ",Поле
-" is required."," is required."
+" is required.",обязательно.
 FedEx,FedEx
 "Enabled for Checkout","Включено для заказа"
 Title,Заголовок
@@ -4430,7 +4430,7 @@ No,Нет
 "For matching items only","Только для соответствующих товаров"
 "For shipment with matching items","Для доставки с соответствующими товарами"
 "Field ",Поле
-" is required."," is required."
+" is required.",обязательно.
 "Flat Rate","Фиксированная ставка"
 Enabled,Включено
 "Method Name","Название метода"
@@ -5343,7 +5343,7 @@ Subtotal,Итого
 "Cannot assign customer to the given cart. The cart belongs to different store.","Невозможно назначить клиента данной корзине. Корзина принадлежит другому магазину."
 "Cannot assign customer to the given cart. The cart is not anonymous.","Невозможно назначить клиента данной корзине. Корзина не анонимна."
 "Cannot assign customer to the given cart. Customer already has active cart.","Невозможно назначить клиента данной корзине. У клиента уже есть активная корзина."
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again."
+"An error occurred on the server. Please try to place the order again.","Произошла ошибка на сервере. Пожалуйста, попробуйте разместить заказ позже."
 "This item price or quantity is not valid for checkout.","Цена или количество этой позиции некорректны для заказа."
 "Please check the shipping address information. %1","Пожалуйста, проверьте адрес доставки. %1"
 "Please specify a shipping method.","Пожалуйста, укажите метод доставки."
@@ -6572,7 +6572,7 @@ Ok,ОК
 Operations,Операции
 Create,Create
 "Send Order Email","Send Order Email"
-"Accept or Deny Payment","Accept or Deny Payment"
+"Accept or Deny Payment","Разрешить или запретить платёж"
 "Send Sales Emails","Send Sales Emails"
 "Sales Section","Sales Section"
 "Sales Emails Section","Sales Emails Section"
@@ -6757,7 +6757,7 @@ Reports,Отчёты
 "Synonym group with id %1 cannot be deleted. %2","Synonym group with id %1 cannot be deleted. %2"
 "Merge conflict with existing synonym group(s): %1","Merge conflict with existing synonym group(s): %1"
 "All Websites","Все сайты"
-"    All Store Views","    All Store Views"
+"    All Store Views","Все витрины"
 "All Store Views","Все витрины"
 Delete,Удалить
 "Are you sure you want to delete synonym group with id: %1?","Are you sure you want to delete synonym group with id: %1?"
@@ -7735,7 +7735,7 @@ label,заголовок
 "United Parcel Service","United Parcel Service"
 "United Parcel Service XML","United Parcel Service XML"
 "Field ",Поле
-" is required."," is required."
+" is required.",обязательно.
 UPS,UPS
 "Access License Number","Access License Number"
 "Enabled for Checkout","Включено для заказа"
@@ -8069,7 +8069,7 @@ Return,Return
 Other,Другой
 None,Отсутствует
 "Field ",Поле
-" is required."," is required."
+" is required.",обязательно.
 USPS,USPS
 "Enabled for Checkout","Включено для заказа"
 "Gateway URL","URL шлюза"
