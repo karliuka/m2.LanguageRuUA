@@ -1000,7 +1000,7 @@ Forms,Формы
 "Product availability","Доступность товара"
 "Product Name","Название товара"
 Qty,Кол-во
-"Inventory Section","Inventory Section"
+"Inventory Section",Склад
 Inventory,Склад
 "Stock Options","Параметры наличия"
 "Decrease Stock When Order is Placed","Уменьшать количество товара в момент оформления заказа"
@@ -1746,7 +1746,7 @@ Adding...,Добавляется...
 Added,Добавлено
 "unselect all","Снять все"
 Inventory,Склад
-"Catalog Section","Catalog Section"
+"Catalog Section",Каталог
 "Product Fields Auto-Generation","Автоматическая генерация значений полей для товаров"
 "Mask for SKU","Маска для поля Артикул"
 "Use {{name}} as Product Name placeholder","Используйте {{name}} для получения названия товара"
@@ -2347,14 +2347,14 @@ Dashboard,"Панель управления"
 "Field 3.1","Поле 3.1"
 "Field 3.1.1","Поле 3.1.1"
 "Field 4","Поле 4"
-"Advanced Section","Расширенный раздел"
+"Advanced Section",Дополнительно
 "Advanced Admin Section","Расширенный раздел панели администрирования"
 "Design Section",Дизайн
-"General Section","Общий раздел"
-"System Section","Системный раздел"
-"Currency Setup Section","Настройки валют"
-"Developer Section","Для разработчика"
-"Web Section","Раздел Web"
+"General Section",Главное
+"System Section",Система
+"Currency Setup Section",Валюты
+"Developer Section",Разработчику
+"Web Section",Web
 "Store Email Addresses Section","Email адреса"
 "Email to a Friend","Отправить другу"
 "Use system value","Системное значение"
@@ -2506,7 +2506,7 @@ Submit,Отправить
 "Email: %email","Email: %email"
 "Phone Number: %telephone","Номер телефона: %telephone"
 "Comment: %comment","Комментарий: %comment"
-"Contacts Section","Contacts Section"
+"Contacts Section",Контакты
 Contacts,Контакты
 "Contact Us","свяжитесь с нами"
 "Enable Contact Us","Включить форму обратной связи"
@@ -2986,7 +2986,7 @@ Password:,Пароль:
 "Guest checkout is disabled.","Оформление заказа для гостей отключено."
 "All Customers","Все клиенты"
 "Now Online","Сейчас на сайте"
-"Customers Section","Customers Section"
+"Customers Section",Клиенты
 "Customer Configuration","Конфигурация клиента"
 "Account Sharing Options","Параметры разделения учётной записи"
 "Share Customer Accounts","Уровень разделения учётных записей"
@@ -4336,7 +4336,7 @@ Subscribe,Подписаться
 "You have been successfully subscribed to our newsletter.","Вы успешно подписались на нашу рассылку."
 "You have been unsubscribed from the newsletter.","Вы отменили подписку на рассылку."
 "Newsletter Template","Шаблоны рассылок"
-"Newsletter Section","Newsletter Section"
+"Newsletter Section","Новостная рассылка"
 "Subscription Options","Параметры подписки"
 "Allow Guest Subscription","Разрешить подписываться гостям"
 "Need to Confirm","Необходимо подтверждение"
@@ -4526,7 +4526,7 @@ No,Нет
 "Place Order","Оформить заказ"
 "Forgot an Item?","Forgot an Item?"
 "Edit Your Cart","Изменить корзину"
-"Payment Methods Section","Payment Methods Section"
+"Payment Methods Section","Методы оплаты"
 "Payment Services","Payment Services"
 "Payment Methods","Методы оплаты"
 "Billing Agreements","Платёжные соглашения"
@@ -4941,7 +4941,7 @@ Continue,Продолжить
 "Save credit card info for future use.","Save credit card info for future use."
 "Sorry, something went wrong.","Извините, что-то пошло не так."
 "Sorry, something went wrong. Please try again later.","Извините, что-то пошло не так. Пожалуйста, повторите попытку позже."
-"PayPal Section","PayPal Section"
+"PayPal Section",PayPal
 "PayPal Settlement","PayPal Settlement"
 Fetch,Получить
 Actions,Действия
@@ -5724,7 +5724,7 @@ Inactive,"Не активно"
 Feed,Поток
 "Miscellaneous Feeds","Различные потоки"
 "Get Feed","Получить поток"
-"RSS Feeds Section","RSS Feeds Section"
+"RSS Feeds Section",RSS
 "RSS Feeds","RSS потоки"
 "Rss Config","Конфигурация RSS"
 "Enable RSS","Включить RSS"
@@ -6574,7 +6574,7 @@ Create,Создать
 "Send Order Email","Send Order Email"
 "Accept or Deny Payment","Разрешить или запретить платёж"
 "Send Sales Emails","Send Sales Emails"
-"Sales Section","Sales Section"
+"Sales Section",Заказы
 "Sales Emails Section","Sales Emails Section"
 General,Основное
 "Hide Customer IP","Скрыть IP клиента"
@@ -7029,7 +7029,7 @@ Description,Описание
 "See our Shipping Policy","See our Shipping Policy"
 "Shipping Settings Section","Shipping Settings Section"
 "Shipping Policy Parameters Section","Shipping Policy Parameters Section"
-"Shipping Methods Section","Shipping Methods Section"
+"Shipping Methods Section","Методы доставки"
 "Shipping Settings","Настройки доставки"
 Origin,"Расположение магазина"
 Country,Страна
@@ -7082,7 +7082,7 @@ None,Отсутствует
 "Base Only","Только основную"
 All,Все
 "Sitemap Generation Warnings","Предупреждения при создании карты сайта"
-"XML Sitemap Section","XML Sitemap Section"
+"XML Sitemap Section","XML Sitemap"
 "Categories Options","Параметры категорий"
 Frequency,Периодичность
 Priority,Приоритет
@@ -7330,7 +7330,7 @@ Save,Сохранить
 "Grand Total Excl. Tax","Итого без налога"
 "Grand Total Incl. Tax","Итого, включая налог"
 Taxes,Налоги
-"Tax Section","Tax Section"
+"Tax Section",Налоги
 "Tax Classes","Налоговые классы"
 "Tax Class for Shipping","Налоговый класс на доставку"
 "Default Tax Class for Product","Налоговый класс для товара по умолчанию"
