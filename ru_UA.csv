@@ -40,8 +40,8 @@ Close,закрыть
 "System messages","Системные сообщения"
 "See All (","Просмотреть все ("
 " unread)"," не прочитано)"
-"Show Toolbar","Show Toolbar"
-"Show List","Show List"
+"Show Toolbar","Показать панель инструментов"
+"Show List","Показать список"
 "Use HTTPS to Get Feed","Использовать HTTPS для получения сообщений"
 "Update Frequency","Периодичность обновлений"
 "Last Update","Последнее обновление"
@@ -62,7 +62,7 @@ Actions,Действия
 "An error occurred on the server. Please try to place the order again.","Произошла ошибка на сервере. Пожалуйста, попробуйте разместить заказ позже."
 "Credit Card: xxxx-%1","Кредитная карта: xxxx-%1"
 "amount %1","сумма %1"
-failed.,failed.
+failed.,неудачно.
 successful.,успешно.
 "Authorize.Net Transaction ID %1.","Authorize.Net ИД транзакции %1."
 authorize,авторизовать
@@ -411,8 +411,8 @@ Loading...,Загружается...
 "We could not detect a size.","Мы не можем определить размер."
 "We don\'t recognize or support this file extension type.","Мы не распознали или не поддерживаем тип расширения этого файла."
 "Allow everything","Разрешить все"
-"Magento Admin","Magento Admin"
-"Global Search","Global Search"
+"Magento Admin","Панель администрирования Magento"
+"Global Search","Глобальный поиск"
 Marketing,Маркетинг
 "SEO & Search","SEO и Поиск"
 "User Content","Пользовательский контент"
@@ -425,9 +425,9 @@ Settings,Настройки
 Attributes,Атрибуты
 "Other Settings","Другие настройки"
 "Data Transfer","Обмен данными"
-"Magento Connect","Magento Connect"
+"Magento Connect","Менеджер расширений"
 "Connect Manager","Connect Manager"
-"Package Extensions","Package Extensions"
+"Package Extensions","Создание пакетов расширений"
 Tools,Иструменты
 "Web Setup Wizard","Помощник установки"
 Currency,Валюта
@@ -921,7 +921,7 @@ Always,Всегда
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Внимание</strong>: Captcha регистрозависимая."
 "Reload captcha","Обновить captcha"
 "Please type the letters below","Пожалуйста, введите буквы, показанные ниже"
-"Attention: Captcha is case sensitive.","Attention: Captcha is case sensitive."
+"Attention: Captcha is case sensitive.","Внимание: Captcha регистрозависимая."
 CAPTCHA,CAPTCHA
 "Enable CAPTCHA in Admin","Включить CAPTCHA в панели администрирования"
 Font,Шрифт
@@ -1568,9 +1568,9 @@ fl,fl
 Images,Изображения
 Select...,Выберите...
 "Advanced Pricing","Расширенное ценообразование"
-"Tier Price","Дифференцированные цены"
+"Tier Price","Оптовые цены"
 "Customer Group","Группа клиента"
-"Special Price From","Special Price From"
+"Special Price From","Специальная цена до"
 To,По
 Cancel,Отменить
 Done,Обработано
@@ -1677,7 +1677,7 @@ Hidden,Скрыт
 Role,Роль
 "Image Size","Размер изображения"
 {size},{size}
-"Image Resolution","Image Resolution"
+"Image Resolution","Разрешение изображения"
 "{width}^{height} px","{width}^{height} px"
 "Hide from Product Page","Скрыть со страницы товара"
 "Product Alerts","Оповещения о товаре"
@@ -2182,7 +2182,7 @@ Pages,Страницы
 "Directory %1 is not under storage root path.","Directory %1 is not under storage root path."
 LocalizedException,LocalizedException
 RuntimeException,RuntimeException
-Exception,ошибка
+Exception,Exception
 "Could not create a directory.","Could not create a directory."
 "All Store Views","Все витрины"
 Edit,Редактировать
@@ -2339,7 +2339,7 @@ Stores,Магазины
 "Some Label","Some Label"
 "Tab Label","Tab Label"
 "Allow everything","Разрешить все"
-"Magento Admin","Magento Admin"
+"Magento Admin","Панель администрирования Magento"
 Dashboard,"Панель управления"
 "Manage Stores","Управление магазинами"
 "Field 2","Поле 2"
@@ -2347,15 +2347,15 @@ Dashboard,"Панель управления"
 "Field 3.1","Поле 3.1"
 "Field 3.1.1","Поле 3.1.1"
 "Field 4","Поле 4"
-"Advanced Section","Advanced Section"
-"Advanced Admin Section","Advanced Admin Section"
-"Design Section","Design Section"
-"General Section","General Section"
-"System Section","System Section"
-"Currency Setup Section","Currency Setup Section"
-"Developer Section","Developer Section"
-"Web Section","Web Section"
-"Store Email Addresses Section","Store Email Addresses Section"
+"Advanced Section","Расширенный раздел"
+"Advanced Admin Section","Расширенный раздел панели администрирования"
+"Design Section",Дизайн
+"General Section","Общий раздел"
+"System Section","Системный раздел"
+"Currency Setup Section","Настройки валют"
+"Developer Section","Для разработчика"
+"Web Section","Раздел Web"
+"Store Email Addresses Section","Email адреса"
 "Email to a Friend","Отправить другу"
 "Use system value","Системное значение"
 "Add configurable attributes to the current Attribute Set (""%1"")","Добавление настраиваемых атрибутов в текущий набор атрибутов («%1»)"
@@ -4677,7 +4677,7 @@ Never,Никогда
 "Buyer claims that he did not receive goods or service.","Покупатель утверждает, что не получил товар или услугу."
 "Buyer claims that the goods or service received differ from merchant’s description of the goods or service.","Покупатель утверждает, что полученный товар или услуга отличается от описания, предоставленного продавцом."
 "Buyer claims that he/she did not authorize transaction.","Buyer claims that he/she did not authorize transaction."
-"A case that has been resolved and close requires a reimbursement.","A case that has been resolved and close requires a reimbursement"
+"A case that has been resolved and close requires a reimbursement.","A case that has been resolved and close requires a reimbursement."
 "Buyer claims that a possible duplicate payment was made to the merchant.","Покупатель утверждает, что возможно была произведена двойная оплата продавцу."
 "Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.","Покупатель утверждает, что полученный товар неудовлетворительного качества, бракованный или сломан."
 "Unknown reason. Please contact PayPal customer service.","Неизвестная причина. Пожалуйста, свяжитесь со службой поддержки клиентов PayPal."
