@@ -1,5 +1,5 @@
 "Read Details",Подробнее
-"Mark as Read","Пометить как прочитанное"
+"Mark as Read",Прочитано
 "Are you sure?","Вы уверены?"
 Remove,Удалить
 "Messages Inbox","Входящие сообщения"
@@ -745,7 +745,7 @@ Type,Тип
 Actions,Действия
 Yes,Да
 No,Нет
-Edit,Редактировать
+Edit,Изменить
 "Place Order","Оформить заказ"
 "Credit Card Information","Кредитная карта. Информация"
 "An error occured with payment processing.","An error occured with payment processing."
@@ -1308,7 +1308,7 @@ Cross-sells,"Перекрёстные продажи"
 "Position of Watermark for %1","Расположение водяного знака для %1"
 "Name in %1","Название в %1"
 Quantity,Количество
-Edit,Редактировать
+Edit,Изменить
 "Are you sure?","Вы уверены?"
 "Change Status","Изменить статус"
 "Update Attributes","Обновить атрибуты"
@@ -2000,7 +2000,7 @@ Subtotal,Итого
 "See price before order confirmation.","Просмотрите цены перед подтверждением заказа."
 "What's this?","Что это?"
 "Edit item parameters","Изменить параметры позиции"
-Edit,Редактировать
+Edit,Изменить
 "Remove item","Удалить позицию"
 "You have no items in your shopping cart.","Ваша корзина покупок пуста."
 "Click <a href=""%1"">here</a> to continue shopping.","Нажмите <a href=""%1"">сюда</a>, чтобы продолжить выбор товаров."
@@ -2058,7 +2058,7 @@ Remove,Удалить
 "Edit Your Cart","Изменить корзину"
 "Ship Here","Ship Here"
 "Ship To:",Получатель:
-edit,Редактировать
+edit,Изменить
 "Shipping Address","Адрес доставки"
 "New Address","Новый адрес"
 "Shipping Methods","Методы доставки"
@@ -2185,7 +2185,7 @@ RuntimeException,RuntimeException
 Exception,Exception
 "Could not create a directory.","Could not create a directory."
 "All Store Views","Все витрины"
-Edit,Редактировать
+Edit,Изменить
 Delete,Удалить
 "Delete ${ $.$data.title }","Удалить ${ $.$data.title }"
 "Are you sure you wan\'t to delete a ${ $.$data.title } record?","Вы действительно хотите удалить запись ${ $.$data.title }?"
@@ -2861,7 +2861,7 @@ InputException,InputException
 "some error","какая-то ошибка"
 Label,заголовок
 Select...,Выберите...
-Edit,Редактировать
+Edit,Изменить
 Visitor,Посетитель
 Customer,Клиент
 "No item specified.","Не указан элемент."
@@ -3733,7 +3733,7 @@ From:,От:
 Message:,Сообщение:
 Update,Обновить
 "Gift options","Параметры подарка"
-Edit,Редактировать
+Edit,Изменить
 Delete,Удалить
 "Allow Gift Messages on Order Level","Разрешить поздравительные сообщения на уровне заказа"
 "Allow Gift Messages for Order Items","Разрешить поздравительные сообщения для товаров заказа"
@@ -3962,7 +3962,7 @@ Email,"Электронная почта"
 "Uninstall the extension to remove this integration","Uninstall the extension to remove this integration"
 Remove,Удалить
 View,Просмотреть
-Edit,Редактировать
+Edit,Изменить
 Activate,Активировать
 Reauthorize,Reauthorize
 "Uninstall the extension to remove integration '%1'.","Uninstall the extension to remove integration '%1'."
@@ -4204,7 +4204,7 @@ Change,Изменить
 "Excl. Tax","Без налога"
 "Order Review","Подтверждение заказа"
 Item,Позиция
-Edit,Редактировать
+Edit,Изменить
 Price,Цена
 Subtotal,Итого
 Items,Позиции
@@ -4914,7 +4914,7 @@ Create...,Создать...
 "Update Shipping Method","Обновить метод доставки"
 "Sorry, no quotes are available for this order right now.","Извините, в данный момент отсутствуют варианты выбора для этого заказа."
 "Shipping Address","Адрес доставки"
-Edit,Редактировать
+Edit,Изменить
 "Buy now with PayPal","Купить через PayPal"
 "Edit Payment Information","Редактировать платёжную информацию"
 "Items in Your Shopping Cart","Товары в вашей корзине"
@@ -5616,7 +5616,7 @@ Title,Заголовок
 Type,Тип
 SKU,Артикул
 Action,Действие
-Edit,Редактировать
+Edit,Изменить
 Delete,Удалить
 "Are you sure?","Вы уверены?"
 "Update Status","Обновить статус"
@@ -6047,7 +6047,7 @@ Capture,снять
 "Total Paid","Всего оплачено"
 "Total Refunded","Всего возвращено"
 "Total Due","Требуется получить"
-Edit,Редактировать
+Edit,Изменить
 "Are you sure you want to send an order email to customer?","Вы действительно хотите отправить письмо о заказе клиенту?"
 "This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?"
 "Are you sure you want to void the payment?","Вы действительно хотите аннулировать этот платёж?"
@@ -6702,18 +6702,18 @@ Refunds,Возвраты
 Results,Результаты
 Uses,"Кол-во использований"
 "Search Terms","Поисковые запросы"
-"Search Synonyms","Search Synonyms"
-"New Synonym Group","New Synonym Group"
+"Search Synonyms",Синонимы
+"New Synonym Group","Новая группа"
 Back,Вернуться
-"Delete Synonym Group","Delete Synonym Group"
+"Delete Synonym Group",Удалить
 "Are you sure you want to delete this synonym group?","Are you sure you want to delete this synonym group?"
 Reset,Сбросить
-"Save and Continue Edit","Сохранить и продолжить редактирование"
-"Save Synonym Group","Save Synonym Group"
+"Save and Continue Edit","Сохранить и продолжить"
+"Save Synonym Group",Сохранить
 Search,Поиск
-"Add New Search Term","Добавить новый поисковый запрос"
-"Save Search","Сохранить поиск"
-"Delete Search","Удалить поиск"
+"Add New Search Term",Добавить
+"Save Search",Сохранить
+"Delete Search",Удалить
 "Edit Search '%1'","Редактировать поиск '%1'"
 "New Search","Новый поиск"
 "Search Information","Информация о поиске"
@@ -6734,7 +6734,7 @@ Marketing,Маркетинг
 "The synonym group has been deleted.","The synonym group has been deleted."
 "We can\'t find a synonym group to delete.","We can\'t find a synonym group to delete."
 "This synonyms group no longer exists.","This synonyms group no longer exists."
-"Edit Synonym Group","Edit Synonym Group"
+"Edit Synonym Group",Изменить
 "Synonym Group","Synonym Group"
 "Failed to delete %1 synonym group(s).","Failed to delete %1 synonym group(s)."
 "A total of %1 synonym group(s) have been deleted.","A total of %1 synonym group(s) have been deleted."
@@ -6745,7 +6745,7 @@ Marketing,Маркетинг
 "You deleted the search.","Вы удалили поиск."
 "We can\'t find a search term to delete.","Мы не можем найти поисковый запрос для удаления."
 "This search no longer exists.","Этот поиск больше не существует."
-"Edit Search","Редактировать поиск"
+"Edit Search",Изменить
 "Please select searches.","Пожалуйста, выберите поисковые запросы."
 "Total of %1 record(s) were deleted.","Записей удалено: %1."
 Reports,Отчёты
@@ -6774,16 +6774,16 @@ Hits,Посещения
 yes,Да
 no,Нет
 Action,Действие
-Edit,Редактировать
+Edit,Изменить
 Scope,"Область действия"
 "You can adjust the scope of this synonym group by selecting an option from the list.","You can adjust the scope of this synonym group by selecting an option from the list."
-Synonyms,Synonyms
+Synonyms,Синонимы
 "Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”","Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”"
 "Merge existing synonyms","Merge existing synonyms"
 "Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms."
-"Store View","Представление магазина"
+"Store View",Витрина
 Website,Сайт
-"Delete items","Удалить позиции"
+"Delete items",Удалить
 "Are you sure you want to delete the selected synonym groups?","Are you sure you want to delete the selected synonym groups?"
 "An error was encountered while performing delete operation.","An error was encountered while performing delete operation."
 "Account Activity","Account Activity"
@@ -7107,7 +7107,7 @@ ID,ИД
 "Link for Google","Ссылка для Google"
 "Last Generated","Последняя генерация"
 Action,Действие
-"Invalid store parameter.","Invalid store parameter."
+"Invalid store parameter.","Неверные параметры магазина."
 "Current store is not active.","Текущий магазин не активен."
 "Requested store is inactive","Запрошенный магазин не активен"
 "Requested store is not found","Запрошенный магазин не найден"
@@ -7134,9 +7134,9 @@ Language,Язык
 Configuration,Конфигурация
 "Various XML configurations that were collected across modules and merged","Various XML configurations that were collected across modules and merged"
 Layouts,Макеты
-"Layout building instructions","Layout building instructions"
+"Layout building instructions","Правила создания макета"
 "Blocks HTML output","Вывод HTML Блоков"
-"Page blocks HTML","Page blocks HTML"
+"Page blocks HTML","HTML блоки страницы"
 "Collections Data","Данные коллекций"
 "Collection data files","Collection data files"
 "Reflection Data","Reflection Data"
@@ -7466,7 +7466,7 @@ Message,сообщение
 Phrase,Фраза
 testMessage,тестовоеСообщение
 exception,ошибка
-Edit,Редактировать
+Edit,Изменить
 "We found no files.","Мы не нашли ни один файл."
 "Browse Files","Просмотр файлов"
 Scope:,Scope:
@@ -7547,7 +7547,7 @@ Store,Магазин
 "Embedded (Translation on Admin side)","Встроенный (Перевод на стороне панели администрирования)"
 "Translation Strategy","Стратегия перевода"
 Translations,Переводы
-"Translation files","Translation files"
+"Translation files","Файлы переводов"
 "Condition type ""%1"" is not allowed","Тип условия ""%1"" не разрешён"
 "The configuration parameter ""formElement"" is a required for ""%1"" field.","The configuration parameter ""formElement"" is a required for ""%1"" field."
 "Remove %1","Удалить %1"
@@ -7785,8 +7785,8 @@ ID,ИД
 Name,Название
 SKU,Артикул
 Status,Статус
-"Edit URL Rewrite for CMS page","Edit URL Rewrite for CMS page"
-"Add URL Rewrite for CMS page","Добавить новое правило URL для CMS страницы"
+"Edit URL Rewrite for CMS page","Редактировать правило URL для CMS страницы"
+"Add URL Rewrite for CMS page","Добавить правило URL для CMS страницы"
 "CMS page:","CMS страница:"
 "Please assign a website to the selected CMS page.","Пожалуйста, привяжите сайт к выбранной CMS странице."
 Title,Заголовок
@@ -7806,13 +7806,13 @@ Save,Сохранить
 "Redirect Type","Тип перенаправления"
 Description,Описание
 Store,Магазин
-"URL Rewrite Management","Управление правилами преобразования URL"
-"Add URL Rewrite","Добавить правило преобразования URL"
+"URL Rewrite Management","Управление правилами URL"
+"Add URL Rewrite","Добавить правило URL"
 Custom,Другой
 "For category","Для категории"
 "For product","Для товара"
 "For CMS page","Для текстовой страницы"
-"Create URL Rewrite:","Создать правило преобразования URL:"
+"Create URL Rewrite:","Создать правило URL:"
 "You deleted the URL rewrite.","Вы удалили правило URL."
 "We can\'t delete URL Rewrite right now.","Мы не можем удалить правило URL в данный момент."
 "URL Rewrites","Правила преобразования URL"
@@ -7832,14 +7832,14 @@ No,Нет
 "Custom storage message","Custom storage message"
 "Select Category","Выбрать категорию"
 Action,Действие
-Edit,Редактировать
+Edit,Изменить
 Back,Вернуться
 Reset,Сбросить
 "Delete Role","Удалить роль"
 "Are you sure you want to do this?","Вы действительно хотите это сделать?"
 "Save Role","Сохранить роль"
 Roles,Роли
-"Add New Role","Добавить новую роль"
+"Add New Role","Добавить роль"
 "Role Information","Информация о роли"
 "Role Users","Пользователи с этой ролью"
 "User ID","ИД пользователя"
@@ -8314,7 +8314,7 @@ Qty,Кол-во
 Availability,Доступность
 "In stock","Есть в наличии"
 "Out of stock","Нет в наличии"
-Edit,Редактировать
+Edit,Изменить
 "Remove Item","Удалить позицию"
 "Remove item","Удалить позицию"
 "Add to Compare","Добавить в сравнение"
@@ -8339,7 +8339,7 @@ Back,Вернуться
 "%customer_name wants to share this Wish List from %store_name with you:","Пользователь %customer_name магазина %store_name хочет поделиться с вами своим листом пожеланий:"
 "Message from %customer_name:","Сообщение от %customer_name:"
 "View all Wish List items","Просмотреть весь список в листе пожеланий"
-"Wish List Section","Wish List Section"
+"Wish List Section","Лист пожеланий"
 "Share Options","Параметры публикации"
 "Email Sender","Отправитель письма"
 "Email Template","Шаблон письма"
