@@ -56,7 +56,7 @@ Actions,Действия
 "We can\'t find the role for the user you wanted.","Мы не можем найти указанную вами роль для пользователя."
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Что-то пошло не так во время составления списка разрешенных ресурсов. Вы можете узнать подробности в журнале исключений (exceptions log)."
 "You created the order.","Вы создали заказ."
-"Order saving error: %1","Ошибка сохранения заказа: %1"
+"Order saving error: %1","Ошибка при сохранении заказа: %1"
 "Please choose a payment method.","Пожалуйста, выберите метод оплаты."
 "We can\'t process your order right now. Please try again later.","Мы не можем обработать ваш заказ в данный момент. Пожалуйста, повторите попытку позже."
 "An error occurred on the server. Please try to place the order again.","Произошла ошибка на сервере. Пожалуйста, попробуйте разместить заказ позже."
@@ -78,8 +78,8 @@ void,Аннулировать
 "Payment voiding error.","Ошибка аннулирования платежа."
 "Invalid amount for refund.","Неверная сумма для возврата."
 "Payment refunding error.","Ошибка возврата платежа."
-"The transaction was declined because the response hash validation failed.","The transaction was declined because the response hash validation failed."
-"This payment didn\'t work out because we can\'t find this order.","This payment didn\'t work out because we can\'t find this order."
+"The transaction was declined because the response hash validation failed.","Транзакция отклонена. Хэш ответа не прошёл проверку."
+"This payment didn\'t work out because we can\'t find this order.","Транзакция отклонена. Не найден заказ."
 "There was a payment authorization error.","There was a payment authorization error."
 "Please enter a transaction ID to authorize this payment.","Пожалуйста, введите ИД транзакции, чтобы авторизовать этот платёж."
 "Something went wrong: the paid amount doesn\'t match the order amount. Please correct this and try again.","Что-то пошло не так: оплаченная сумма не совпадает с суммой в заказе. Пожалуйста, исправьте это и попробуйте снова."
@@ -1031,14 +1031,14 @@ Stock,Склад
 "Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Shipping"
 "Use deferred Stock update","Use deferred Stock update"
 Quantity,Количество
-"Delete Rule","Удалить правило"
+"Delete Rule",Удалить
 "Are you sure you want to do this?","Вы действительно хотите это сделать?"
 Reset,Сбросить
 "Save and Apply","Сохранить и применить"
-"Save and Continue Edit","Сохранить и продолжить редактирование"
+"Save and Continue Edit","Сохранить и продолжить"
 Save,Сохранить
 "Catalog Price Rule","Ценовое правило для каталога"
-"Add New Rule","Добавить новое правило"
+"Add New Rule",Добавить
 "Apply Rules","Применить правила"
 Conditions,Условия
 "Conditions (don\'t add conditions if rule is applied to all products)","Условия (не добавляйте условия, если правило применимо ко всем товарам)"
@@ -1054,16 +1054,16 @@ Promotions,Маркетинг
 "We can\'t delete this rule right now. Please review the log and try again.","Мы не можем удалить правило в данный момент. Пожалуйста, проверьте журнал и попробуйте снова."
 "We can\'t find a rule to delete.","Мы не можем найти правило для удаления."
 "This rule no longer exists.","Это правило больше не существует."
-"New Catalog Price Rule","Новое ценовое правило для каталога"
-"Edit Rule","Изменить правило"
+"New Catalog Price Rule","Новое ценовое правило"
+"Edit Rule",Изменить
 "New Rule","Новое правило"
 Catalog,Каталог
 "You saved the rule.","Вы сохранили правило."
 "Something went wrong while saving the rule data. Please review the error log.","Что-то пошло не так во время сохранения правила. Пожалуйста, проверьте журнал ошибок."
-Promo,Реклама
-"Unable to save rule %1","Unable to save rule %1"
-"Rule with specified ID ""%1"" not found.","Rule with specified ID ""%1"" not found."
-"Unable to remove rule %1","Unable to remove rule %1"
+Promo,Маркетинг
+"Unable to save rule %1","Невозможно сохранить правило %1"
+"Rule with specified ID ""%1"" not found.","Невозможно найти правило с ИД %1"
+"Unable to remove rule %1","Невозможно удалить правило %1"
 "Could not rebuild index for empty products array","Невозможно пересоздать индекс для пустого массива товаров"
 "We can\'t rebuild the index for an undefined product.","Мы не можем обновить индекс для товара, который неопределён."
 "Percentage discount should be between 0 and 100.","Скидка в процентах должна быть между 0 и 100."
@@ -1088,10 +1088,10 @@ Yes,Да
 No,Нет
 "Updated rules applied.","Изменённые правила применены."
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","Вы отключили ценовые правила (%1 шт.) для каталога, использующие атрибут ""%2""."
-"Catalog Rule Product","Правила каталога. Правило - Товар"
-"Indexed rule/product association","Проиндексированные ассоциации правило/товар"
-"Catalog Product Rule","Правила каталога. Товар - Правило"
-"Indexed product/rule association","Проиндексированные ассоциации товар/правило"
+"Catalog Rule Product","Правило для каталога"
+"Indexed rule/product association","Проиндексированные связи правило/товар"
+"Catalog Product Rule","Правило для каталога"
+"Indexed product/rule association","Проиндексированные связи товар/правило"
 Rule,Правило
 Start,Пуск
 End,Окончание
@@ -2050,11 +2050,11 @@ Remove,Удалить
 "Cart Subtotal","Итог корзины"
 "No Payment Methods","Нет методов оплаты"
 "Payment Information","Информация об оплате"
-"No Payment method available.","No Payment method available."
+"No Payment method available.","Нет доступных методов оплаты"
 "You can track your order status by creating an account.","Вы сможете отслеживать статус Вашего заказа после создания учетной зиписи."
 "A letter with further instructions will be sent to your email.","Письмо с дальнейшими инструкциями будет отправлено на ваш адерс электронной почты."
 "Place Order","Оформить заказ"
-"Forgot an Item?","Forgot an Item?"
+"Forgot an Item?","Забыли добавить товар?"
 "Edit Your Cart","Изменить корзину"
 "Ship Here","Ship Here"
 "Ship To:",Получатель:
@@ -2062,7 +2062,7 @@ edit,Изменить
 "Shipping Address","Адрес доставки"
 "New Address","Новый адрес"
 "Shipping Methods","Методы доставки"
-"Select Method","Select Method"
+"Select Method","Выберите метод"
 "Method Title","Method Title"
 "Carrier Title","Carrier Title"
 Next,Следующий
@@ -2102,13 +2102,13 @@ Payment,Платёж
 "We received your order!","Мы получили ваш заказ!"
 "Thank you for your purchase!","Спасибо за покупку!"
 "Static Blocks","Статичные блоки"
-"Add New Block","Добавить новый блок"
+"Add New Block",Добавить
 Back,Вернуться
-"Delete Block","Удалить блок"
+"Delete Block",Удалить
 "Are you sure you want to do this?","Вы действительно хотите это сделать?"
 Reset,Сбросить
-"Save and Continue Edit","Сохранить и продолжить редактирование"
-"Save Block","Сохранить блок"
+"Save and Continue Edit","Сохранить и продолжить"
+"Save Block",Сохранить
 ID,ИД
 Title,Заголовок
 Identifier,Идентификатор
@@ -2116,12 +2116,12 @@ Status,Статус
 Disabled,Отключено
 Enabled,Включено
 "Manage Pages","Управление страницами"
-"Add New Page","Добавить новую страницу"
-"Delete Page","Удалить страницу"
-"Save Page","Сохранить страницу"
+"Add New Page",Добавить
+"Delete Page",Удалить
+"Save Page",Сохранить
 "URL Key",Адрес
 Layout,Макет
-"Store View","Представление магазина"
+"Store View",Витрина
 Created,Создано
 Modified,Изменено
 Action,Действие
@@ -2142,17 +2142,17 @@ CMS,CMS
 "You deleted the block.","Вы удалили блок."
 "We can\'t find a block to delete.","Мы не можем найти блок для удаления."
 "This block no longer exists.","Этот блок больше не существует."
-"Edit Block","Редактировать блок"
-"New Block","новый блок"
+"Edit Block",Изменить
+"New Block","Новый блок"
 Blocks,Блоки
 "Please correct the data sent.","Пожалуйста, исправьте отсылаемые данные."
 "A total of %1 record(s) have been deleted.","Удалено записей: %1."
 "You saved the block.","Вы сохранили блок."
-"Something went wrong while saving the block.","Something went wrong while saving the block."
+"Something went wrong while saving the block.","Что-то пошло не так во время сохранения блока."
 "The page has been deleted.","Страница удалена."
 "We can\'t find a page to delete.","Мы не можем найти страницу для удаления."
 "This page no longer exists.","Эта страница больше не существует."
-"Edit Page","Редактировать страницу"
+"Edit Page",Изменить
 "New Page","Новая страница"
 Pages,Страницы
 "Something went wrong while saving the page.","Что-то пошло не так во время сохранения страницы."
@@ -2167,9 +2167,9 @@ Pages,Страницы
 "Enabled by Default","Включено по умолчанию"
 "Disabled by Default","Отключено по умолчанию"
 "Disabled Completely","Отключено полностью"
-"Could not save the page: %1","Could not save the page: %1"
+"Could not save the page: %1","Не удалось сохранить страницу: %1"
 "CMS Page with id ""%1"" does not exist.","CMS страница с ид ""%1"" не существует."
-"Could not delete the page: %1","Could not delete the page: %1"
+"Could not delete the page: %1","Не удалось удалить страницу: %1"
 "A block identifier with the same properties already exists in the selected store.","Идентификатор блока с такими параметрами уже существует в выбранном магазине."
 "The page URL key contains capital letters or disallowed symbols.","Адрес страницы содержит большие буквы или запрещённые символы."
 "The page URL key cannot be made of only numbers.","URL ключ страницы не может быть создан только из цифр."
@@ -2199,7 +2199,7 @@ px.,пикс.
 "Expand All","Развернуть всё"
 "We could not detect a size.","Мы не можем определить размер."
 "Media Gallery","Media Gallery"
-"Content Management","Управление содержимым"
+"Content Management",Контент
 "CMS Home Page","CMS главная страница"
 "CMS No Route Page","CMS страница ""не найдено"""
 "CMS No Cookies Page","CMS страница ""Cookies не включены"""
@@ -2227,7 +2227,7 @@ Block,Блок
 "CMS Static Block Default Template","CMS статичный блок - шаблон по умолчанию"
 "General Information","Общая информация"
 "Enable Block","Включить блок"
-"Block Title","Заголовок блока"
+"Block Title",Заголовок
 "Delete items","Удалить позиции"
 "Are you sure you wan't to delete selected items?","Вы действительно хотите удалить выбранные позиции?"
 "Page Information","Информация о странице"
@@ -2498,25 +2498,25 @@ Comparable,Сравнимый
 "Write Us","Напишите нам"
 "Jot us a note and we’ll get back to you as quickly as possible.","Напишите нам и мы ответим так быстро, как только сможем."
 Name,Название
-Email,"Электронная почта"
-"Phone Number","Телефонный номер"
+Email,Email
+"Phone Number",Телефон
 "What’s on your mind?","Что вы хотите нам сказать?"
 Submit,Отправить
 "Name: %name","Имя: %name"
 "Email: %email","Email: %email"
-"Phone Number: %telephone","Номер телефона: %telephone"
+"Phone Number: %telephone","Телефон: %telephone"
 "Comment: %comment","Комментарий: %comment"
 "Contacts Section",Контакты
 Contacts,Контакты
 "Contact Us","свяжитесь с нами"
 "Enable Contact Us","Включить форму обратной связи"
-"Email Options","Параметры электронной почты (email)"
-"Send Emails To","Посылать письма (emails) получателям"
+"Email Options","Параметры Email"
+"Send Emails To","Посылать письма получателям"
 "Email Sender","Отправитель письма"
 "Email Template","Шаблон письма"
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Если выбрано значение по умолчанию, шаблон будет зависеть от используемой темы оформления."
-"Invalid domain name: %1","Недопустимое имя домена: %1"
-"Invalid cookie lifetime: %1","Invalid cookie lifetime: %1"
+"Invalid domain name: %1","Неверный домен: %1"
+"Invalid cookie lifetime: %1","Неверное время жизни cookie: %1"
 "Invalid cookie path","Неправильный путь cookie"
 "We use cookies to make your experience better.","Мы используем cookies, чтобы обеспечить наилучшее обслуживание."
 "To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","В соответствии с новой директивой электронной конфиденциальности, мы должны попросить вашего согласия, чтобы установить cookies."
@@ -2546,12 +2546,12 @@ Monthly,Ежемесячно
 "Success History Lifetime","Срок хранения истории успешных выполнений"
 "Failure History Lifetime","Срок хранения истории ошибок"
 "Use Separate Process","Использовать отдельный процесс"
-"Save Currency Rates","Сохранить курсы валют"
+"Save Currency Rates",Сохранить
 Reset,Сбросить
 Import,Импорт
-"Manage Currency Rates","Управление курсами валют"
+"Manage Currency Rates","Курсы валют"
 "Import Service","Сервис для импорта"
-"Save Currency Symbols","Сохранить символы валют"
+"Save Currency Symbols",Сохранить
 "Currency Symbols","Символы валют"
 "Use Standard","Использовать стандартный"
 "Please specify a correct Import Service.","Пожалуйста, укажите корректный сервис импорта."
@@ -2565,11 +2565,11 @@ System,Система
 "Old rate:","Старый курс:"
 Currency,Валюта
 "Please specify a website.","Пожалуйста, укажите сайт."
-"Please specify an email.","Пожалуйста, укажите адрес электронной почты."
+"Please specify an email.","Пожалуйста, укажите email."
 "We found an invalid value in a website column.","Мы обнаружили неверное значение в колонке сайта (website)."
-"Please enter a valid email.","Пожалуйста, введите правильный адрес электронной почты (email)."
+"Please enter a valid email.","Пожалуйста, введите корректный email."
 "Please make sure attribute ""%s"" is not empty.","Пожалуйста, убедитесь, что атрибут ""%s"" не пустой."
-"We can\'t find a customer who matches this email and website code.","Мы не можем найти клиента, которому соответствовал бы этот адрес электронной почты и код сайта."
+"We can\'t find a customer who matches this email and website code.","Мы не можем найти клиента, которому соответствовал бы этот email и код сайта."
 "Customer address id column is not specified","Не указан ид колонки адреса клиента"
 "We can\'t find that customer address.","Мы не можем найти этот адрес клиента."
 "Please enter a valid region.","Пожалуйста, введите правильный регион."
@@ -3206,7 +3206,7 @@ kgs,килограммы
 "Please correct the target currency.","Пожалуйста, исправьте целевую валюту."
 "Undefined rate from ""%1-%2"".","Неопределен курс для ""%1-%2""."
 label,заголовок
-"We can\'t retrieve a rate from %1 for %2.","We can\'t retrieve a rate from %1 for %2."
+"We can\'t retrieve a rate from %1 for %2.","Невозможно получить курс от %1 для %2."
 "We can\'t retrieve a rate from %1.","Невозможно получить курс от %1."
 "FATAL ERROR:","ФАТАЛЬНАЯ ОШИБКА:"
 "We can\'t initialize the import model.","Мы не можем инициализировать модель импорта."
@@ -3223,20 +3223,17 @@ Continue,Продолжить
 "Currency Setup","Настройки валюты"
 "Currency Options","Параметры валюты"
 "Base Currency","Основная валюта"
-"
-                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
-                    ","
-                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
-                    "
+"                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
+                    ","Основная валюта используется для всех платёжных транзакций. Область действия определена областью действия цены (""""Каталог"""" > """"Цена"""" > """"Область действия цен"""")."
 "Default Display Currency","Валюта по умолчанию"
 "Allowed Currencies","Разрешённые валюты"
 Webservicex,Webservicex
 "Connection Timeout in Seconds","Время жизни соединения в секундах"
 "Scheduled Import Settings","Настройки автоматического импорта"
 Enabled,Включено
-"Error Email Recipient","Письмо об ошибке. Получатель"
-"Error Email Sender","Письмо об ошибке. Отправитель"
-"Error Email Template","Письмо об ошибке. Шаблон"
+"Error Email Recipient","Получатель Email об ошибке"
+"Error Email Sender","Отправитель Email об ошибке"
+"Error Email Template","Шаблон Email об ошибке"
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Если выбрано значение по умолчанию, шаблон будет зависеть от используемой темы оформления."
 Frequency,Периодичность
 Service,Сервис
@@ -5763,11 +5760,11 @@ Category,Категория
 "There is no information about associated entity type ""%1"".","Нет информации о привязанном типе сущности ""%1""."
 "This won\'t take long . . .","Это не займёт много времени . . ."
 "Cart Price Rules","Ценовые правила для корзины"
-"Add New Rule","Добавить новое правило"
+"Add New Rule",Добавить
 Delete,Удалить
-"Are you sure you want to delete this?","Are you sure you want to delete this?"
+"Are you sure you want to delete this?","Вы уверены, что хотите удалить правило?"
 Reset,Сбросить
-"Save and Continue Edit","Сохранить и продолжить редактирование"
+"Save and Continue Edit","Сохранить и продолжить"
 Save,Сохранить
 Actions,Действия
 "Apply the rule only to cart items matching the following conditions (leave blank for all items).","Применить правило только для товаров в корзине, удовлетворяющим следующим условиям (оставьте пустым для всех товаров)."
@@ -5797,7 +5794,7 @@ Labels,Заголовки
 "Store View Specific Labels","Заголовки для представлений магазина"
 ID,ИД
 Rule,Правило
-Start,Пуск
+Start,Начало
 End,Окончание
 Status,Статус
 "%1 - Discounts and Coupons","%1 - Скидки и Купоны"
@@ -5847,7 +5844,7 @@ Subtotal,Итого
 "Shipping Method","Метод доставки"
 "Shipping Postcode","Почтовый индекс доставки"
 "Shipping Region","Регион доставки"
-"Shipping State/Province","Штат/Провинция доставки"
+"Shipping State/Province","Регион доставки"
 "Shipping Country","Страна доставки"
 "Product attribute combination","Комбинация атрибутов товара"
 "Products subselection","Группа товаров с отдельными условиями"
@@ -7211,14 +7208,14 @@ Country,Страна
 "Add New Tax Rate","Добавить налоговую ставку"
 Back,Вернуться
 Reset,Сбросить
-"Delete Rate","Удалить ставку"
+"Delete Rate",Удалить
 "Are you sure you want to do this?","Вы действительно хотите это сделать?"
-"Save Rate","Сохранить ставку"
+"Save Rate",Сохранить
 "Manage Tax Rules","Управление налоговыми правилами"
-"Add New Tax Rule","Добавить налоговое правило"
-"Save Rule","Сохранить правило"
-"Delete Rule","Удалить правило"
-"Save and Continue Edit","Сохранить и продолжить редактирование"
+"Add New Tax Rule",Добавить
+"Save Rule",Сохранить
+"Delete Rule",Удалить
+"Save and Continue Edit","Сохранить и продолжить"
 "Tax Rule Information","Информация о налоговом правиле"
 Name,Название
 "Customer Tax Class","Налоговый класс для клиента"
@@ -7256,7 +7253,7 @@ Tax,Налог
 "This rule no longer exists.","Это правило больше не существует."
 "Something went wrong deleting this tax rule.","Что-то пошло не так во время удаления этого налогового правила."
 "New Tax Rule","Новое налоговое правило"
-"Edit Rule","Изменить правило"
+"Edit Rule",Изменить
 "New Rule","Новое правило"
 "You saved the tax rule.","Вы сохранили налоговое правило."
 "We can\'t save this tax rule right now.","Мы не можем сохранить эту налоговую ставку в данный момент."
@@ -7344,7 +7341,7 @@ Taxes,Налоги
 "This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax."
 "Apply Customer Tax","Применить клиентский налог"
 "Apply Discount On Prices","Применить скидку на цены"
-"Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected."
+"Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","Скидка на цену с налогом рассчитывается на основе налога магазина, если выбрано """"Применить налог после скидки""""."
 "Apply Tax On","Применить налог к"
 "Enable Cross Border Trade","Включить Cross Border Trade"
 "When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate."
@@ -7363,7 +7360,7 @@ Taxes,Налоги
 "Display Full Tax Summary","Отображать полную сводку по налогам"
 "Display Zero Tax Subtotal","Отображать нулевой налог для предварительного итога"
 "Orders, Invoices, Credit Memos Display Settings","Настройки отображения заказов, счетов и возвратов"
-State/Region,Штат/Регион
+State/Region,Регион
 Rate,Курс
 "Subtotal Only","Только предварительный итог"
 "(Excl. Tax)","(Без налога)"
@@ -7839,14 +7836,14 @@ Reset,Сбросить
 "Are you sure you want to do this?","Вы действительно хотите это сделать?"
 "Save Role","Сохранить роль"
 Roles,Роли
-"Add New Role","Добавить роль"
+"Add New Role",Добавить
 "Role Information","Информация о роли"
 "Role Users","Пользователи с этой ролью"
 "User ID","ИД пользователя"
 "User Name","Имя пользователя"
 "First Name",Имя
 "Last Name",Фамилия
-Email,"Электронная почта"
+Email,Email
 Status,Статус
 Active,Активно
 Inactive,"Не активно"
@@ -7855,16 +7852,16 @@ Inactive,"Не активно"
 "Role Name","Название роли"
 "Current User Identity Verification","Проверка прав текущего пользователя"
 "Your Password","Ваш пароль"
-"Add New User","Добавить нового пользователя"
+"Add New User",Добавить
 Users,Пользователи
-"Save User","Сохранить пользователя"
-"Delete User","Удалить пользователя"
+"Save User",Сохранить
+"Delete User",Удалить
 "Are you sure you want to revoke the user\'s tokens?","Вы действительно хотите аннулировать токены пользователя?"
 "Force Sign-In","Force Sign-In"
 "Edit User '%1'","Редактировать пользователя '%1'"
 "New User","Новый пользователь"
 "Account Information","Данные учётной записи"
-"User Email","Email пользователя"
+"User Email",Email
 Password,Пароль
 "New Password","Новый пароль"
 "Password Confirmation","Подтверждение пароля"
@@ -7892,13 +7889,13 @@ Permissions,"Права доступа"
 "You deleted the user.","Вы удалили пользователя."
 "We can\'t find a user to delete.","Мы не можем найти пользователя для удаления."
 "This user no longer exists.","Этот пользователь больше не существует."
-"Edit User","Редактировать пользователя"
+"Edit User",Изменить
 "You have revoked the user\'s tokens.","Вы аннулировали токены пользователя."
 "We can\'t find a user to revoke.","Мы не можем найти пользователя для аннулирования."
 "You cannot delete self-assigned roles.","Вы не можете удалить назначенную себе роль."
 "You deleted the role.","Вы удалили роль."
 "An error occurred while deleting this role.","Ошибка при удалении роли."
-"Edit Role","Редактировать роль"
+"Edit Role",Изменить
 "New Role","Новая роль"
 "This role no longer exists.","Эта роль больше не существует."
 "You saved the role.","Вы сохранили роль."
@@ -7909,9 +7906,9 @@ Permissions,"Права доступа"
 Recommended,Рекомендуемая
 Forced,Forced
 "Sorry, but this password has already been used. Please create another.","Извините, но этот пароль уже использовался. Пожалуйста, создайте другой."
-email,"Электронная почта"
-password,Пароль
-username,"Имя пользователя"
+email,email
+password,пароль
+username,"имя пользователя"
 "You did not sign in correctly or your account is temporarily disabled.","Вы ввели некорректные данные или ваша учётная запись временно заблокирована."
 "You need more permissions to access this.","Вам нужно больше прав для доступа сюда."
 "Your account is temporarily disabled.","Your account is temporarily disabled."
@@ -8157,7 +8154,7 @@ FPT,FPT
 label_value,label_value
 frontend_label,frontend_label
 "Fixed Product Tax","Фиксированный налог товара (FPT)"
-Country/State,Страна/область
+Country/State,Страна/регион
 Tax,Налог
 Website,Сайт
 Action,Действие
@@ -8379,7 +8376,7 @@ Remove,Удалить
 "%name,","%name,"
 "Welcome to %store_name.","Добро пожаловать на сайт %store_name."
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Для авторизации на нашем сайте, используйте эти данные во время заказа или на странице <a href=""%customer_url"">Моя учётная запись</a>:"
-Email:,"Электронная почта (email):"
+Email:,Email:
 Password:,Пароль:
 "Password you set when creating account","Пароль вы указывали во время создания учётной записи"
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Забыли пароль? Нажмите <a href=""%reset_url"">сюда</a> для восстановления."
