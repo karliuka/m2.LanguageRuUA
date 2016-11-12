@@ -138,7 +138,7 @@ Customer,Клиент
 Guest,Гость
 Items,Позиции
 Total,Итого
-"Lifetime Sales","Оборот за весь период"
+"Lifetime Sales","Всего продаж"
 "Average Order","Средняя сумма заказа"
 Average,"В среднем"
 Product,Товар
@@ -154,7 +154,7 @@ Shipping,Доставка
 "Reset to Default",Восстановить
 "All Store Views","Все витрины"
 "What is this?","Что это?"
-"Save Account","Сохранить учётную запись"
+"Save Account",Сохранить
 "My Account","Моя учётная запись"
 "Account Information","Данные учётной записи"
 "User Name","Имя пользователя"
@@ -296,7 +296,7 @@ Error,Ошибка
 "Edit Store Design Change","Редактирование Изменения дизайна для магазина"
 "You saved the design change.","Вы сохранили Изменение дизайна."
 System,Система
-"Manage Stores","Управление магазинами"
+"Manage Stores",Магазины
 "The database was backed up.","Резервная копия базы данных создана."
 "We can\'t create a backup right now. Please try again later.","Мы не можем создать резервную копию в данный момент. Пожалуйста, повторите попытку позже."
 "Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1."
@@ -326,11 +326,11 @@ System,Система
 "Current Month","Текущий месяц"
 YTD,"С начала года"
 2YTD,"С начала прошлого года"
-"Authentication storage is incorrect.","Authentication storage is incorrect."
+"Authentication storage is incorrect.","Проверка магазина некорректна."
 "You did not sign in correctly or your account is temporarily disabled.","Вы ввели некорректные данные или ваша учётная запись временно заблокирована."
 "Authentication error occurred.","Ошибка аутентификации."
-"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","Admin session lifetime must be less than or equal to 31536000 seconds (one year)"
-"Admin session lifetime must be greater than or equal to 60 seconds","Admin session lifetime must be greater than or equal to 60 seconds"
+"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","Время сеанса администратора должно быть меньше или равна 31536000 секунд(год)"
+"Admin session lifetime must be greater than or equal to 60 seconds","ремя сеанса администратора должно быть больше или равна 60 секундам"
 Order,Заказ
 "Order #%1","Заказ #%1"
 "Access denied","Доступ запрещён"
@@ -357,7 +357,7 @@ password,Пароль
 Magento,Magento
 "Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Все права защищены."
 "ver. %1","вер. %1"
-"Magento Admin Panel","Панель администрирования Magento"
+"Magento Admin Panel","Панель администрирования"
 "Account Setting","Настройки учётной записи"
 "Customer View","Перейти на основной сайт"
 "Sign Out",Выйти
@@ -374,7 +374,7 @@ Minute,Минута
 "To use this website you must first enable JavaScript in your browser.","Чтобы использовать этот сайт, вы должны сначала включить JavaScript в вашем браузере."
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Это демонстрационный магазин. Любые заказы, оформленные на этом сайте, не будут обработаны или выполнены."
 "Report Bugs","Сообщайте об ошибках"
-"Store View:",Витрина:
+"Store View:","Область действия:"
 "Stores Configuration","Настройка магазинов"
 "Please confirm scope switching. All data that hasn\'t been saved will be lost.","Пожалуйста, подтвердите смену области действия. Все несохранённые данные будут утеряны."
 "Additional Cache Management","Дополнительное управление кэшем"
@@ -411,7 +411,7 @@ Loading...,Загружается...
 "We could not detect a size.","Мы не можем определить размер."
 "We don\'t recognize or support this file extension type.","Мы не распознали или не поддерживаем тип расширения этого файла."
 "Allow everything","Разрешить все"
-"Magento Admin","Панель администрирования Magento"
+"Magento Admin",Администратор
 "Global Search","Глобальный поиск"
 Marketing,Маркетинг
 "SEO & Search","SEO и Поиск"
@@ -533,9 +533,9 @@ Web,Веб
 "Base URL","Базовый URL"
 "Specify URL or {{base_url}} placeholder.","Specify URL or {{base_url}} placeholder."
 "Base Link URL","Базовый URL для ссылок"
-"Base URL for Static View Files","Base URL for Static View Files"
+"Base URL for Static View Files","Базовый URL для статических файлов"
 "May be empty or start with {{unsecure_base_url}} placeholder.","May be empty or start with {{unsecure_base_url}} placeholder."
-"Base URL for User Media Files","Base URL for User Media Files"
+"Base URL for User Media Files","Базовый URL для медиа"
 "Base URLs (Secure)","Базовые URLs (безопасные)"
 "Secure Base URL","Базовый защищённый URL"
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder."
@@ -543,7 +543,7 @@ Web,Веб
 "Secure Base URL for Static View Files","Secure Base URL for Static View Files"
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder."
 "Secure Base URL for User Media Files","Secure Base URL for User Media Files"
-"Use Secure URLs on Storefront","Use Secure URLs on Storefront"
+"Use Secure URLs on Storefront","Использовать защищённые URL в пользовательской части"
 "Use Secure URLs in Admin","Использовать защищённые URL в панели администрирования"
 "Enable HTTP Strict Transport Security (HSTS)","Enable HTTP Strict Transport Security (HSTS)"
 "Upgrade Insecure Requests","Upgrade Insecure Requests"
@@ -567,7 +567,7 @@ Tags,Метки
 "Applied Theme","Applied Theme"
 "If no value is specified, the system default is used. The system default may be modified by third party extensions.","If no value is specified, the system default is used. The system default may be modified by third party extensions."
 "Design Rule","Design Rule"
-"User Agent Rules","User Agent Rules"
+"User Agent Rules","Правила User Agent"
 Magento_Ui/js/dynamic-rows/record,Magento_Ui/js/dynamic-rows/record
 Pagination,"Переключение страниц"
 "Pagination Frame","Блок переключения страниц"
