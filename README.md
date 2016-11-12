@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8252 | 6684 | 1568 | ![Progress](http://progressed.io/bar/80) |
+| 8252 | 6690 | 1562 | ![Progress](http://progressed.io/bar/81) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -60,7 +60,7 @@ Russian (Ukraine) language.
 | module-downloadable-import-export | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-downloadable | 113 | 97 | 16 | ![Progress](http://progressed.io/bar/85) |
 | module-eav | 142 | 88 | 54 | ![Progress](http://progressed.io/bar/61) |
-| module-email | 97 | 80 | 17 | ![Progress](http://progressed.io/bar/82) |
+| module-email | 97 | 82 | 15 | ![Progress](http://progressed.io/bar/84) |
 | module-encryption-key | 14 | 13 | 1 | ![Progress](http://progressed.io/bar/92) |
 | module-fedex | 77 | 35 | 42 | ![Progress](http://progressed.io/bar/45) |
 | module-gift-message | 44 | 34 | 10 | ![Progress](http://progressed.io/bar/77) |
@@ -77,7 +77,7 @@ Russian (Ukraine) language.
 | module-msrp | 18 | 16 | 2 | ![Progress](http://progressed.io/bar/88) |
 | module-multishipping | 89 | 83 | 6 | ![Progress](http://progressed.io/bar/93) |
 | module-newsletter | 148 | 146 | 2 | ![Progress](http://progressed.io/bar/98) |
-| module-offline-payments | 24 | 22 | 2 | ![Progress](http://progressed.io/bar/91) |
+| module-offline-payments | 24 | 24 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-offline-shipping | 52 | 52 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-page-cache | 17 | 8 | 9 | ![Progress](http://progressed.io/bar/47) |
 | module-payment | 58 | 44 | 14 | ![Progress](http://progressed.io/bar/75) |
@@ -111,7 +111,7 @@ Russian (Ukraine) language.
 | module-usps | 132 | 44 | 88 | ![Progress](http://progressed.io/bar/33) |
 | module-variable | 21 | 21 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-webapi | 23 | 20 | 3 | ![Progress](http://progressed.io/bar/86) |
-| module-weee | 30 | 26 | 4 | ![Progress](http://progressed.io/bar/86) |
+| module-weee | 30 | 28 | 2 | ![Progress](http://progressed.io/bar/93) |
 | module-widget | 72 | 70 | 2 | ![Progress](http://progressed.io/bar/97) |
 | module-wishlist | 116 | 116 | 0 | ![Progress](http://progressed.io/bar/100) |
 | theme-frontend-blank | 7 | 7 | 0 | ![Progress](http://progressed.io/bar/100) |

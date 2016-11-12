@@ -2232,7 +2232,7 @@ Block,Блок
 "Are you sure you wan't to delete selected items?","Вы действительно хотите удалить выбранные позиции?"
 "Page Information","Информация о странице"
 "Enable Page","Enable Page"
-Content,Содержимое
+Content,Контент
 "Content Heading","Заголовок содержимого"
 "Search Engine Optimisation","Search Engine Optimisation"
 "Meta Keywords","Ключевые слова META"
@@ -3502,33 +3502,33 @@ hello,здравствуйте
 "The value of attribute not valid","The value of attribute not valid"
 "EAV types and attributes","EAV types and attributes"
 "Entity types declaration cache","Entity types declaration cache"
-"Add New Template","Добавить новый шаблон"
+"Add New Template",Добавить
 "Transactional Emails","Транзакционные письма"
 Back,Вернуться
 Reset,Сбросить
-"Delete Template","Удалить шаблон"
+"Delete Template",Удалить
 "Convert to Plain Text","Преобразовать в текст"
 "Return Html Version","Вернуть HTML версию"
 "Preview Template","Предварительный просмотр"
-"Save Template","Сохранить шаблон"
+"Save Template",Сохранить
 "Load Template","Загрузить шаблон"
 "Edit Email Template","Изменить шаблон письма"
 "New Email Template","Новый шаблон письма"
 "Default Config","Конфигурация по умолчанию"
 "Template Information","Информация о шаблоне"
 "Currently Used For","В настоящее время используется"
-"Template Name","Название шаблона"
+"Template Name",Название
 "Template Subject","Тема шаблона"
 "Insert Variable...","Вставить переменную..."
-"Template Content","Содержимое шаблона"
-"Template Styles","Стили шаблона"
+"Template Content",Содержимое
+"Template Styles",Стили
 Preview,"Предварительный просмотр"
 Unknown,Неизвестный
 "You deleted the email template.","Вы удалили шаблон письма."
 "The email template is currently being used.","Шаблон письма в данный момент используется."
-"We can\'t delete email template data right now. Please review log and try again.","We can\'t delete email template data right now. Please review log and try again."
+"We can\'t delete email template data right now. Please review log and try again.","Невозможно удалить шаблон письма."
 "We can\'t find an email template to delete.","Мы не можем найти шаблон письма для удаления."
-"Edit Template","Изменить шаблон"
+"Edit Template",Изменить
 "Edit System Template","Изменить системный шаблон"
 "New Template","Новый шаблон"
 "New System Template","Новый системный шаблон"
@@ -4381,7 +4381,7 @@ Store,Магазин
 "Make Check payable to","Чек выдан"
 "Send Check to","Отправить чек к"
 "Place Order","Оформить заказ"
-"Check / Money Order","Чек / Почтовый денежный перевод"
+"Check / Money Order","Чек или Почтовый перевод"
 Enabled,Включено
 "New Order Status","Статус нового заказа"
 "Sort Order","Порядок сортировки"
@@ -4391,12 +4391,12 @@ Title,Заголовок
 "Make Check Payable to","Чек выдан"
 "Minimum Order Total","Минимальная сумма заказа"
 "Maximum Order Total","Максимальная сумма заказа"
-"Purchase Order","Заявка на приобретение"
-"Bank Transfer Payment","Оплата перечислением"
+"Purchase Order","Оплата заказа"
+"Bank Transfer Payment","Банковский перевод"
 Instructions,Инструкции
 "Cash On Delivery Payment","Оплата при получении"
-"Zero Subtotal Checkout","Zero Subtotal Checkout"
-"Automatically Invoice All Items","Automatically Invoice All Items"
+"Zero Subtotal Checkout","Оплата не требуется"
+"Automatically Invoice All Items","Автоматически выписать счёт для всех товаров"
 Country,Страна
 Region/State,Регион
 "Zip/Postal Code","Почтовый индекс"
@@ -4526,7 +4526,7 @@ No,Нет
 "Payment Methods Section","Методы оплаты"
 "Payment Services","Payment Services"
 "Payment Methods","Методы оплаты"
-"Billing Agreements","Платёжные соглашения"
+"Billing Agreements",Соглашения
 ID,ИД
 Email,"Электронная почта"
 "First Name",Имя
@@ -5925,7 +5925,7 @@ Apply,Применить
 "Default Rule Label for All Store Views","Заголовок правила по умолчанию для всех представлений магазина"
 "Entity Sequence profile not added to meta active profile","Профиль последовательности сущности не добавлен в мета активного профиля"
 "Not enough arguments","Не достаточно аргументов"
-"Credit Memos","Возвраты платежей"
+"Credit Memos",Возвраты
 Orders,Заказы
 Invoices,Счета
 "We can\'t get the order instance right now.","Мы не можем получить экземпляр заказа в данный момент."
