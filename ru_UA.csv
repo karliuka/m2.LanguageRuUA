@@ -78,13 +78,13 @@ void,Аннулировать
 "Payment voiding error.","Ошибка аннулирования платежа."
 "Invalid amount for refund.","Неверная сумма для возврата."
 "Payment refunding error.","Ошибка возврата платежа."
-"The transaction was declined because the response hash validation failed.","Транзакция отклонена. Хэш ответа не прошёл проверку."
-"This payment didn\'t work out because we can\'t find this order.","Транзакция отклонена. Не найден заказ."
-"There was a payment authorization error.","There was a payment authorization error."
+"The transaction was declined because the response hash validation failed.","Транзакция была отклонена, поскольку не удалось проверить хэш."
+"This payment didn\'t work out because we can\'t find this order.","Транзакция была отклонена, поскольку не найден заказ."
+"There was a payment authorization error.","Возникла ошибка авторизации платежа."
 "Please enter a transaction ID to authorize this payment.","Пожалуйста, введите ИД транзакции, чтобы авторизовать этот платёж."
 "Something went wrong: the paid amount doesn\'t match the order amount. Please correct this and try again.","Что-то пошло не так: оплаченная сумма не совпадает с суммой в заказе. Пожалуйста, исправьте это и попробуйте снова."
-"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transaction %1 has been approved. Amount %2. Transaction status is ""%3"""
-"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3."
+"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","%1 транзакция одобрена. Сумма %2. Статус транзакции ""%3"""
+"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","%1 транзакция была пропущенна или отклонена. Статус транзакции ""%2"". Сумма %3."
 "Authorize Only","Только авторизовать"
 "Authorize and Capture","авторизовать и снять"
 "Unable to get transaction details. Try again later.","Невозможно получить подробности транзакции. Повторите попытку позже."
@@ -93,11 +93,11 @@ void,Аннулировать
 "Expiration Date","Дата окончания срока действия"
 "Card Verification Number","Проверочный код карты"
 "Fraud Detection ","Обнаружение мошенничества "
-"FDS Filter Action","FDS Filter Action"
-"AVS Response","AVS Response"
-"Card Code Response","Card Code Response"
-"CAVV Response","CAVV Response"
-"Fraud Filters","Fraud Filters"
+"FDS Filter Action","Действие фильтра FDS"
+"AVS Response","Ответ AVS"
+"Card Code Response","Ответ Card Code"
+"CAVV Response","Ответ CAVV"
+"Fraud Filters","фильтр мошенничества "
 "Place Order","Оформить заказ"
 "Authorize.net Direct Post","Authorize.net Direct Post"
 Enabled,Включено
@@ -105,11 +105,11 @@ Enabled,Включено
 Title,Заголовок
 "API Login ID","API Login ID"
 "Transaction Key","Ключ транзакции"
-"Merchant MD5","Merchant MD5"
+"Merchant MD5","MD5 кеш продавца"
 "New Order Status","Статус нового заказа"
 "Test Mode","Тестовый режим"
 "Gateway URL","URL шлюза"
-"Transaction Details URL","Transaction Details URL"
+"Transaction Details URL","URL описания транзакции"
 "Accepted Currency","Принимаемая валюта"
 Debug,Отладка
 "Email Customer","Оповестить клиента"
@@ -595,17 +595,17 @@ System,Система
 Tools,Иструменты
 Backup,"Резервная копия"
 "We can\'t delete one or more backups.","Мы не можем удалить одну или несколько резервных копий."
-failed,неудача
-successful,успех
+failed,"е удалось"
+successful,успешно
 "You deleted the selected backup(s).","Вы удалили выбранные резервные копии."
-"Can\'t load snapshot archive","Can\'t load snapshot archive"
+"Can\'t load snapshot archive","Мы не можем загрузить архив"
 "Please correct the password.","Пожалуйста, исправьте пароль."
 "To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","Для завершения отката, пожалуйста, снимите выбор с пункта ""Перевести магазин в режим обслуживания"" или обновите ваши права доступа."
 "We can\'t find the backup file.","Мы не можем найти файл резервной копии."
 "We can\'t connect to the FTP right now.","Мы не можем подключиться к FTP в данный момент."
-"Failed to validate FTP.","Failed to validate FTP."
+"Failed to validate FTP.","е удалось проверить FTP."
 "You need more permissions to perform a rollback.","Вам необходимо больше прав для выполнения отката."
-"Failed to rollback.","Откат не удался."
+"Failed to rollback.","Не удалось выполнить откат."
 Database,"База данных"
 "Database and Media","База данных и Медиа"
 "System (excluding Media)","Система (без Медиа)"
@@ -613,12 +613,12 @@ Database,"База данных"
 "You created the system backup (excluding media).","Вы создали резервную копию системы (без медиа)."
 "You created the database and media backup.","Вы создали резервную копию базы данных и медиа."
 "You created the database backup.","Вы создали резервную копию базы данных."
-"Please correct the order of creation for a new backup.","Please correct the order of creation for a new backup."
+"Please correct the order of creation for a new backup.","Пожалуйста, исправьте порядок создания новой резервной копии."
 "The backup file does not exist.","Файл резервной копии не существует."
 "The backup file path was not specified.","Не указан путь к файлу резервной копии."
 "The backup file ""%1"" does not exist.","Файл резервной копии ""%1"" не существует."
 "Sorry, but we cannot read from or write to backup file ""%1"".","Извините, невозможно прочитать или записать файл резервной копии ""%1""."
-"The backup file handler was unspecified.","The backup file handler was unspecified."
+"The backup file handler was unspecified.","Обработчик файла резервной копии не был определен."
 "Something went wrong while writing to the backup file ""%1"".","Что-то пошло не так во время записи в файл резервной копии ""%1""."
 "We can\'t save the Cron expression.","Мы не можем сохранить Cron выражение."
 "You will lose any data created since the backup was made, including admin users, customers and orders.","Вы потеряете любые данные, появившиеся после создания резервной копии, включая пользователей с доступом в панель администрирования, клиентов и заказы."
@@ -638,9 +638,9 @@ Exclude,Исключить
 FTP,FTP
 "Use FTP Connection","Использовать FTP подключение "
 "FTP credentials","Настройки FTP "
-"FTP Host","FTP. Хост"
-"FTP Login","FTP. Пользователь"
-"FTP Password","FTP. Пароль"
+"FTP Host","FTP хост"
+"FTP Login","FTP пользователь"
+"FTP Password","FTP пароль"
 "Magento root directory","Корневая папка Magento"
 "Create Backup","Создать резервную копию"
 Rollback,Откатить
@@ -1183,13 +1183,13 @@ Year,Год
 [WEBSITE],[Сайт]
 "[STORE VIEW]",[Витрина]
 "WYSIWYG Editor","Редактор WYSIWYG"
-"Add Product","Добавить товар"
+"Add Product",Добавить
 label,заголовок
 "Product Attributes","Атрибуты товаров"
-"Add New Attribute","Добавить новый атрибут"
+"Add New Attribute",Добавить
 "Save in New Attribute Set","Сохранить в новом наборе атрибутов"
 "Enter Name for New Attribute Set","введите название для нового набора атрибутов"
-"Save and Continue Edit","Сохранить и продолжить редактирование"
+"Save and Continue Edit","Сохранить и продолжить"
 "Save Attribute","Сохранить атрибут"
 "Delete Attribute","Удалить атрибут"
 "Edit Product Attribute ""%1""","Редактировать атрибут товара ""%1"""
@@ -1206,7 +1206,7 @@ label,заголовок
 "Select ""Yes"" to add this attribute to the list of column options in the product grid.","Select ""Yes"" to add this attribute to the list of column options in the product grid."
 "Use in Filter Options","Использовать для фильтрации"
 "Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Select ""Yes"" to add this attribute to the list of filter options in the product grid."
-"Store View","Представление магазина"
+"Store View",Витрина
 Website,Сайт
 Global,Глобально
 Scope,"Область действия"
@@ -1220,7 +1220,7 @@ Scope,"Область действия"
 "Allow HTML Tags on Storefront","Разрешить HTML в пользовательской части"
 "Visible on Catalog Pages on Storefront","Видимый на странице категории в пользовательской части"
 "Used in Product Listing","Использовать в списке товаров"
-"Depends on design theme.","Depends on design theme."
+"Depends on design theme.","Зависит от дизайна темы"
 "Used for Sorting in Product Listing","Использовать для сортировки в списке товаров"
 "Media Image","Медиа изображение"
 Gallery,Галерея
@@ -1229,7 +1229,7 @@ No,Нет
 Yes,Да
 "Data Type for Saving in Database","Тип данных для сохранение в базе данных"
 Text,Текст
-Varchar,"Строковая величина"
+Varchar,Строка
 Static,Статичный
 Datetime,"Дата и время"
 Decimal,Десятичное
@@ -1246,7 +1246,7 @@ Comparable,Сравнимый
 "Add New","Добавить новый"
 Back,Вернуться
 Reset,Сбросить
-"You are about to delete all products in this attribute set. Are you sure you want to do that?","You are about to delete all products in this attribute set. Are you sure you want to do that?"
+"You are about to delete all products in this attribute set. Are you sure you want to do that?","Все товары этого набора будут удалены. Вы действительно хотите удалить этот набор атрибутов?"
 "New Set Name","Название нового набора"
 "Edit Attribute Set '%1'","Редактирование набора атрибутов '%1'"
 Empty,Очистить
