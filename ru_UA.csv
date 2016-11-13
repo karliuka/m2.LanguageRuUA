@@ -2910,7 +2910,7 @@ Address,Адрес
 "VAT Number","Номер плательщика НДС"
 City,Город
 State/Province,Регион
-"Please select a region, state or province.","Пожалуйста, выберите регион, область или район."
+"Please select a region, state or province.","Пожалуйста, выберите регион"
 "Zip/Postal Code","Почтовый индекс"
 Country,Страна
 "It's a default billing address.","It's a default billing address."
@@ -2923,7 +2923,7 @@ Country,Страна
 Email,Email
 "Send confirmation link","Отправить ссылку подтверждения"
 "Back to Sign In","Вернуться на страницу авторизации"
-"Change Email","Change Email"
+"Change Email","Изменить email"
 "Change Email and Password","Change Email and Password"
 "Current Password","Текущий пароль"
 "New Password","Новый пароль"
@@ -3216,7 +3216,7 @@ WARNING:,ВНИМАНИЕ:
 "Please correct the country code: %1.","Пожалуйста, исправьте код страны: %1."
 "Country and Format Type combination should be unique","Сочетание страны и типа формата должно быть уникальным"
 "Please correct the rates received","Пожалуйста, исправьте полученные курсы"
-"Please select a region, state or province.","Пожалуйста, выберите регион, область или район."
+"Please select a region, state or province.","Пожалуйста, выберите регион"
 Currency,Валюта
 "Your current currency is: %1.","Текущая валюта: %1."
 Continue,Продолжить
@@ -6345,7 +6345,7 @@ Email,"Электронная почта"
 "Last Name",Фамилия
 State/Province,Регион
 "Street Address",Адрес
-"Phone Number","Телефонный номер"
+"Phone Number",Телефон
 "Zip/Postal Code","Почтовый индекс"
 "We can't save the address:\n%1","We can't save the address:\n%1"
 "Cannot save comment:\n%1","Невозможно сохранить комментарий:\n%1"
@@ -8411,3 +8411,6 @@ Password:,Пароль:
 "Placed on <span class=""no-link"">%created_at</span>","Создан <span class=""no-link"">%created_at</span>"
 "Your shipping confirmation is below. Thank you again for your business.","Информация о вашей доставке находится ниже."
 "Your Shipment #%shipment_id for Order #%order_id","Доставка #%shipment_id для заказа #%order_id"
+"You have no credit cards.","У вас пока нет кредитных карт."
+"Credit Card was successfully removed","Вы успешно удалили кредитную карту"
+"My Credit Cards","Мои кредитные карты"

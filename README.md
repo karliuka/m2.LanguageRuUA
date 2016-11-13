@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8252 | 6809 | 1443 | ![Progress](http://progressed.io/bar/82) |
+| 8255 | 6813 | 1442 | ![Progress](http://progressed.io/bar/82) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -53,7 +53,7 @@ Russian (Ukraine) language.
 | module-cron | 18 | 14 | 4 | ![Progress](http://progressed.io/bar/77) |
 | module-currency-symbol | 18 | 17 | 1 | ![Progress](http://progressed.io/bar/94) |
 | module-customer-import-export | 17 | 16 | 1 | ![Progress](http://progressed.io/bar/94) |
-| module-customer | 509 | 413 | 96 | ![Progress](http://progressed.io/bar/81) |
+| module-customer | 509 | 414 | 95 | ![Progress](http://progressed.io/bar/81) |
 | module-developer | 9 | 8 | 1 | ![Progress](http://progressed.io/bar/88) |
 | module-dhl | 83 | 44 | 39 | ![Progress](http://progressed.io/bar/53) |
 | module-directory | 45 | 45 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -116,3 +116,4 @@ Russian (Ukraine) language.
 | module-wishlist | 116 | 116 | 0 | ![Progress](http://progressed.io/bar/100) |
 | theme-frontend-blank | 7 | 7 | 0 | ![Progress](http://progressed.io/bar/100) |
 | theme-frontend-luma | 44 | 44 | 0 | ![Progress](http://progressed.io/bar/100) |
+| module-vault | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
