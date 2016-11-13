@@ -1203,10 +1203,10 @@ label,заголовок
 "Unique Value (not shared with other products)","Уникальное значение (не разделять с другими товарами)"
 "Not shared with other products.","Не разделять с другими товарами."
 "Input Validation for Store Owner","Проверка ввода для владельца магазина"
-"Add to Column Options","Add to Column Options"
-"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Select ""Yes"" to add this attribute to the list of column options in the product grid."
+"Add to Column Options","Добавить в менеджер колонок"
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Установите ""Да"" для добавления атрибута в панель фильтров над таблицей товаров."
 "Use in Filter Options","Использовать для фильтрации"
-"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Select ""Yes"" to add this attribute to the list of filter options in the product grid."
+"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Установите ""Да"" для добавления атрибута в панель фильтров над таблицей товаров."
 "Store View",Витрина
 Website,Сайт
 Global,Глобально
@@ -1275,8 +1275,8 @@ Websites,Сайты
 "Category Name","Название категории"
 "Parent Category","Родительская категория"
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>."
-"Price Alert Subscriptions","Price Alert Subscriptions"
-"Stock Alert Subscriptions","Stock Alert Subscriptions"
+"Price Alert Subscriptions","Уведомления об изменениях цены"
+"Stock Alert Subscriptions","Уведомления об появлении в продаже"
 "There are no customers for this alert.","Нет клиентов для этого оповещения."
 "First Name",Имя
 "Last Name",Фамилия
@@ -1334,9 +1334,9 @@ PM,PM
 None,Отсутствует
 "New Products from %1","Новые товары от %1"
 "New Products","Новые товары"
-"%1 - Special Products","%1 - Special Products"
+"%1 - Special Products","Специальные предложения"
 "Click for price","Узнать цену"
-"Special Expires On: %1","Special Expires On: %1"
+"Special Expires On: %1","Особое предложение истекает: %1"
 "Price: %1","Цена: %1"
 "Special Price: %1","Особое предложение: %1"
 "Special Products","Товары с особым предложением"
@@ -1345,7 +1345,7 @@ None,Отсутствует
 Categories,Категории
 "Manage Catalog Categories","Управление категориями каталога"
 "Manage Categories","Управление категориями"
-"Category is not available for requested store.","Category is not available for requested store."
+"Category is not available for requested store.","Категория недоступна для этого магазина."
 "There was a category move error.","Ошибка при перемещении категории."
 "There was a category move error. %1","Ошибка при перемещении категории. %1"
 "You moved the category","Вы переместили категорию"
@@ -1356,7 +1356,7 @@ Categories,Категории
 "Please make sure to define SKU values for all processed products.","Please make sure to define SKU values for all processed products."
 "A total of %1 record(s) were updated.","Обновлено записей: %1."
 "Something went wrong while updating the product(s) attributes.","Что-то пошло не так во время обновления атрибутов товара."
-"Please, specify attributes","Please, specify attributes"
+"Please, specify attributes","Пожалуйста, укажите обязательные атрибуты"
 Catalog,Каталог
 "Manage Product Attributes","Управление атрибутами товара"
 "We can\'t delete the attribute.","Мы не можем удалить атрибут."
@@ -1576,7 +1576,7 @@ To,По
 Cancel,Отменить
 Done,Обработано
 "Add Selected","Добавить выбранное"
-"Customizable Options","Customizable Options"
+"Customizable Options","Настраиваемые варианты"
 "Custom options let customers choose the product variations they want.","Custom options let customers choose the product variations they want."
 "Add Option","Добавить вариант"
 "New Option","Новый вариант"
@@ -1584,7 +1584,7 @@ Done,Обработано
 "Option Title","Заголовок варианта"
 "Add Value","Добавить значение"
 Title,Заголовок
-"Option Type","Option Type"
+"Option Type","Тип варианта"
 Required,Обязательно
 "Price Type","Тип цены"
 "Max Characters","Максимальное кол-во знаков"
@@ -1597,18 +1597,18 @@ Required,Обязательно
 "Set Product as New From","Set Product as New From"
 "Related Products, Up-Sells, and Cross-Sells","Related Products, Up-Sells, and Cross-Sells"
 "Related products are shown to customers in addition to the item the customer is looking at.","Related products are shown to customers in addition to the item the customer is looking at."
-"Add Related Products","Add Related Products"
+"Add Related Products","Добавить сопутствующие товары"
 "An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at."
-"Add Up-Sell Products","Add Up-Sell Products"
-"Up-Sell Products","Up-Sell Products"
+"Add Up-Sell Products","Добавить похожие товары"
+"Up-Sell Products","Похожие товары"
 "These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart."
-"Add Cross-Sell Products","Add Cross-Sell Products"
-"Cross-Sell Products","Cross-Sell Products"
+"Add Cross-Sell Products","Добавить перекрёстные продажи"
+"Cross-Sell Products","Перекрёстные продажи"
 "Add Selected Products","Добавить выбранные товары"
 Remove,Удалить
 Thumbnail,Мини-изображение
 Actions,Действия
-"Schedule Update From","Schedule Update From"
+"Schedule Update From","Обновление по расписанию с"
 "Product in Websites","Товар на сайтах"
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","If your Magento site has multiple views, you can set the scope to apply to a specific view."
 name,Название
@@ -1664,7 +1664,7 @@ Backorders,"Задолженные заказы"
 "Sort Custom Options","Сортировать настраиваемые варианты"
 "Input Type","Тип ввода"
 "%1 <span>x</span> %2 <span>px.</span>","%1 <span>x</span> %2 <span>px.</span>"
-"Sort Custom Option","Sort Custom Option"
+"Sort Custom Option","Сортировать настраиваемый вариант"
 "Item Price",Цена
 Action,Действие
 "and above","и больше"
@@ -1738,11 +1738,11 @@ Submit,Отправить
 "We don\'t recognize or support this file extension type.","Мы не распознали или не поддерживаем тип расширения этого файла."
 "Configure Product","Настроить товар"
 OK,ОК
-"Select type of option.","Select type of option."
+"Select type of option.","Выберите тип параметра."
 "Please add rows to option.","Пожалуйста, добавьте варианты."
 "Please select items.","Пожалуйста, выберите позиции."
 "Choose existing category.","Выберите существующую категорию."
-"Image Detail","Image Detail"
+"Image Detail","Описание изображения"
 Adding...,Добавляется...
 Added,Добавлено
 "unselect all","Снять все"
@@ -1789,9 +1789,9 @@ Comma-separated.,"Разделение запятыми."
 "Use Static URLs for Media Content in WYSIWYG for Catalog","Использовать в редакторе WYSIWYG статичные адреса (URLs) для медиа содержимого каталога"
 "This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Относится только к товарам каталога и категориям. Любые медиа данные будут вставлены в редактор в виде статичных ссылок (URL). Ссылки не будут обновлены при смене базового пути в конфигурации системы."
 "Top Level Category","Категория верхнего уровня"
-"Product Flat Data","Product Flat Data"
+"Product Flat Data","Горизонтальная структура товара"
 "Reorganize EAV product structure to flat structure","Реорганизовать EAV структуру товаров в горизонтальную структуру (flat)"
-"Category Flat Data","Category Flat Data"
+"Category Flat Data","Горизонтальная структура категории"
 "Reorganize EAV category structure to flat structure","Реорганизовать EAV структуру категорий в горизонтальную структуру (flat)"
 "Category Products","Товары категории"
 "Indexed category/products association","Проиндексированные ассоциации категория/товары"
@@ -1833,30 +1833,30 @@ Template,Шаблон
 "Category Link Block Template","Category Link Block Template"
 "Category Link Inline Template","Category Link Inline Template"
 Set,Набор
-"Category Information","Category Information"
+"Category Information",Описание
 "Enable Category","Включить категорию"
 "Include in Menu","Добавить в меню"
 Content,Содержимое
-"Category Image","Category Image"
+"Category Image",Изображение
 "Add CMS Block","Добавить CMS блок"
 "Display Settings","Настройки отображения"
-Anchor,Anchor
-"Sort Products By","Sort Products By"
+Anchor,"Многоуровневая навигация"
+"Sort Products By","Сортировать по"
 "Use All","Использовать все"
-"Default Product Sorting","Default Product Sorting"
-"Layered Navigation Price Step","Layered Navigation Price Step"
+"Default Product Sorting","Сортировка товара по умолчанию"
+"Layered Navigation Price Step","Шаг цен многоуровневой навигации"
 "URL Key",Адрес
 "Meta Title","Заголовок Meta"
 "Meta Keywords","Ключевые слова META"
 "Meta Description","Описание META"
-"Products in Category","Products in Category"
+"Products in Category","Товары категории"
 Design,Дизайн
-"Use Parent Category Settings","Use Parent Category Settings"
+"Use Parent Category Settings","Использовать настройки родительской категории"
 Theme,Тема
 Layout,Макет
 "Layout Update XML","XML обновления макета"
-"Apply Design to Products","Apply Design to Products"
-"Schedule Design Update","Schedule Design Update"
+"Apply Design to Products","Использовать дизайн на страницах товаров"
+"Schedule Design Update","Обновление дизайна по расписанию"
 AttributeSetText,AttributeSetText
 StatusText,StatusText
 "Product Image Watermarks","Водяные знаки изображения товара"
@@ -1865,7 +1865,7 @@ Image,Изображение
 "Allowed file types: jpeg, gif, png.","Разрешенные типы файлов: jpeg, gif, png."
 "Image Opacity","Прозрачность изображения"
 "Example format: 200x300.","Пример формата: 200x300."
-"Image Position","Image Position"
+"Image Position","Расположение изображения"
 Small,Small
 "Attribute Label","Заголовок атрибута"
 System,Система
