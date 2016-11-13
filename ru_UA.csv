@@ -2593,13 +2593,13 @@ CSV,"CSV (разделитель - запятые)"
 "Add New Address","Добавить новый адрес"
 region,регион
 "Create Order","Создать заказ"
-"Save Customer","Сохранить клиента"
-"Delete Customer","Удалить клиента"
+"Save Customer",Сохранить
+"Delete Customer",Удалить
 "Reset Password","Сброс пароля"
 "Are you sure you want to revoke the customer\'s tokens?","Вы действительно хотите аннулировать токены клиента?"
 "Force Sign-In","Force Sign-In"
 "New Customer","Новый клиент"
-"Save and Continue Edit","Сохранить и продолжить редактирование"
+"Save and Continue Edit","Сохранить и продолжить"
 Back,Вернуться
 "Please select",Выберите
 Reset,Сбросить
@@ -2664,7 +2664,7 @@ Download,Скачать
 "All countries","Все страны"
 "Customer Groups","Группы клиентов"
 "Add New Customer Group","Добавить новую Группу клиентов"
-"Save Customer Group","Сохранить Группу клиентов"
+"Save Customer Group",Сохранить
 "Delete Customer Group","Удалить Группу клиентов"
 "New Customer Group","Новая Группа клиентов"
 "Edit Customer Group ""%1""","Редактировать группу клиента ""%1"""
@@ -2684,7 +2684,7 @@ Download,Скачать
 "There was an error detecting Customer Group.","Ошибка во время определения группы клиента."
 "Validate VAT Number","Проверить номер плательщика НДС"
 "Customer Login","Вход в систему"
-"Create New Customer Account","Создать новую учётную запись клиента"
+"Create New Customer Account",Создать
 "Date of Birth","Дата рождения"
 "Bad request.","Неверный запрос."
 "This confirmation key is invalid or has expired.","Этот ключ подтверждения недействительный или устарел."
@@ -2694,7 +2694,7 @@ Download,Скачать
 "Thank you for registering with %1.","Благодарим за регистрацию на нашем сайте %1."
 "Please check your email for confirmation key.","Пожалуйста, проверьте вашу почту на наличие ключа подтверждения."
 "This email does not require confirmation.","Этот адрес электронной почты (email) не требует подтверждения."
-"Wrong email.","Указан неверный адрес электронной почты (email)."
+"Wrong email.","Указан email."
 "Your password reset link has expired.","Срок действия ссылки на изменение пароля истёк."
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link."
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Учётная запись с таким адресом электронной почты уже существует. Если вы уверены, что это ваш адрес, то <a href=""%1"">нажмите сюда</a> для получения пароля на email. С ним вы сможете получить доступ к вашей учётной записи."
@@ -2711,7 +2711,7 @@ Download,Скачать
 "We\'re unable to send the password reset email.","Мы не смогли отослать письмо сброса пароля."
 "Please enter your email.","Пожалуйста, введите ваш адрес электронной почты (email)."
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","Если на сайте существует учётная запись с адресом %1 вы получите письмо со ссылкой, позволяющей сменить пароль."
-"My Account","Моя учётная запись"
+"My Account","Учётная запись"
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Эта учётная запись не подтверждена. Нажмите <a href=""%1"">сюда</a> для повторной отсылки письма с кодом подтверждения."
 "Invalid login or password.","неправильный адрес электронной почты (email) или пароль."
 "An unspecified error occurred. Please contact us for assistance.","An unspecified error occurred. Please contact us for assistance."
@@ -2902,7 +2902,7 @@ or,или
 "You have no other address entries in your address book.","В вашей адресной книге нет других адресов."
 "* Required Fields","* Обязательные поля"
 Company,Компания
-"Phone Number","Телефонный номер"
+"Phone Number",Телефон
 Fax,Факс
 Address,Адрес
 "Street Address",Адрес
@@ -2920,7 +2920,7 @@ Country,Страна
 "Save Address","Сохранить адрес"
 "Go back",Назад
 "Please enter your email below and we will send you the confirmation link.","Пожалуйста, введите ваш адрес электронной почты (email) и мы отправим вам ссылку для подтверждения."
-Email,"Электронная почта"
+Email,Email
 "Send confirmation link","Отправить ссылку подтверждения"
 "Back to Sign In","Вернуться на страницу авторизации"
 "Change Email","Change Email"
@@ -2941,7 +2941,7 @@ Password,Пароль
 "Address Information","Информация об адресе"
 "Sign-in Information","Информация для авторизации"
 "Confirm Password","Подтвердите пароль"
-"Create an Account","Создать учётную запись"
+"Create an Account",Регистрация
 "Set a New Password","Установить новый пароль"
 "You have signed out and will go to our homepage in 5 seconds.","Вы успешно вышли из своей учётной записи и через 5 секунд будете перенаправлены на главную страницу сайта."
 "New Customers","Новые клиенты"
@@ -2952,7 +2952,7 @@ Name,Название
 "%name,","%name,"
 "Welcome to %store_name.","Добро пожаловать на сайт %store_name."
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Для авторизации на нашем сайте, используйте эти данные во время заказа или на странице <a href=""%customer_url"">Моя учётная запись</a>:"
-Email:,"Электронная почта (email):"
+Email:,Email:
 Password:,Пароль:
 "Password you set when creating account","Пароль вы указывали во время создания учётной записи"
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Забыли пароль? Нажмите <a href=""%reset_url"">сюда</a> для восстановления."
@@ -2981,7 +2981,7 @@ Password:,Пароль:
 "Track order history","Track order history"
 "Check out faster","Check out faster"
 "Checkout out using your account","Checkout out using your account"
-"Email Address","Адрес электронной почты (email)"
+"Email Address",Email
 "Are you sure you want to do this?","Вы действительно хотите это сделать?"
 "Are you sure you want to delete this address?","Вы действительно хотите удалить этот адрес?"
 "Guest checkout is disabled.","Оформление заказа для гостей отключено."
@@ -3099,7 +3099,7 @@ Addresses,Адреса
 "Account Dashboard","Панель управления"
 "Edit Account Information","Редактировать учётную запись"
 "Password forgotten","Забытый пароль"
-"My Dashboard","Моя панель управления"
+"My Dashboard","Панель управления"
 "You are signed out","You are signed out"
 "No Password","No Password"
 Weak,Weak
