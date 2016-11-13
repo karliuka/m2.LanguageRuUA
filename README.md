@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8252 | 6806 | 1446 | ![Progress](http://progressed.io/bar/82) |
+| 8252 | 6809 | 1443 | ![Progress](http://progressed.io/bar/82) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -34,7 +34,7 @@ Russian (Ukraine) language.
 | module-backend | 455 | 416 | 39 | ![Progress](http://progressed.io/bar/91) |
 | module-backup | 78 | 78 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-braintree | 145 | 118 | 27 | ![Progress](http://progressed.io/bar/81) |
-| module-bundle | 108 | 107 | 1 | ![Progress](http://progressed.io/bar/99) |
+| module-bundle | 108 | 108 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-captcha | 26 | 26 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-catalog-import-export | 19 | 9 | 10 | ![Progress](http://progressed.io/bar/47) |
 | module-catalog-inventory | 67 | 59 | 8 | ![Progress](http://progressed.io/bar/88) |
@@ -74,7 +74,7 @@ Russian (Ukraine) language.
 | module-layered-navigation | 29 | 29 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-marketplace | 13 | 13 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-media-storage | 25 | 21 | 4 | ![Progress](http://progressed.io/bar/84) |
-| module-msrp | 18 | 16 | 2 | ![Progress](http://progressed.io/bar/88) |
+| module-msrp | 18 | 18 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-multishipping | 89 | 83 | 6 | ![Progress](http://progressed.io/bar/93) |
 | module-newsletter | 148 | 146 | 2 | ![Progress](http://progressed.io/bar/98) |
 | module-offline-payments | 24 | 24 | 0 | ![Progress](http://progressed.io/bar/100) |

@@ -845,7 +845,7 @@ Separately,Отдельно
 N/A,Н/Д
 Percent,Процент
 "Ship Bundle Items","Доставить товары комплекта"
-"We can\'t save custom-defined options for bundles with dynamic pricing.","We can\'t save custom-defined options for bundles with dynamic pricing."
+"We can\'t save custom-defined options for bundles with dynamic pricing.","Мы не можем сохранить параметры комплекта с динамической ценой."
 Cancel,Отменить
 "Add Selected Products","Добавить выбранные товары"
 [GLOBAL],[Глобально]
@@ -4127,8 +4127,8 @@ Database,"База данных"
 "Use config","Использовать настройки конфигурации"
 "Click for price","Узнать цену"
 "What's this?","Что это?"
-"Order total will be displayed before you submit the order","Order total will be displayed before you submit the order"
-"You will see the order total before you submit the order.","You will see the order total before you submit the order."
+"Order total will be displayed before you submit the order","Конечная сумма заказа будет показана перед тем, как вы подтвердите заказ"
+"You will see the order total before you submit the order.","Конечная сумма заказа будет показана перед тем, как вы подтвердите заказ"
 Price,Цена
 "Actual Price","Текущая цена"
 "Add to Cart","Добавить в корзину"
