@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8252 | 6724 | 1528 | ![Progress](http://progressed.io/bar/81) |
+| 8252 | 6756 | 1496 | ![Progress](http://progressed.io/bar/81) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -33,20 +33,20 @@ Russian (Ukraine) language.
 | module-authorizenet | 66 | 66 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-backend | 455 | 416 | 39 | ![Progress](http://progressed.io/bar/91) |
 | module-backup | 78 | 78 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-braintree | 145 | 103 | 42 | ![Progress](http://progressed.io/bar/71) |
+| module-braintree | 145 | 118 | 27 | ![Progress](http://progressed.io/bar/81) |
 | module-bundle | 108 | 99 | 9 | ![Progress](http://progressed.io/bar/91) |
-| module-captcha | 26 | 25 | 1 | ![Progress](http://progressed.io/bar/96) |
+| module-captcha | 26 | 26 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-catalog-import-export | 19 | 9 | 10 | ![Progress](http://progressed.io/bar/47) |
 | module-catalog-inventory | 67 | 59 | 8 | ![Progress](http://progressed.io/bar/88) |
 | module-catalog-rule | 69 | 69 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-catalog-search | 36 | 34 | 2 | ![Progress](http://progressed.io/bar/94) |
+| module-catalog-search | 36 | 36 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-catalog-url-rewrite | 6 | 6 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-catalog-widget | 20 | 20 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-catalog | 716 | 600 | 116 | ![Progress](http://progressed.io/bar/83) |
-| module-checkout-agreements | 41 | 40 | 1 | ![Progress](http://progressed.io/bar/97) |
+| module-catalog | 716 | 602 | 114 | ![Progress](http://progressed.io/bar/84) |
+| module-checkout-agreements | 41 | 41 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-checkout | 182 | 162 | 20 | ![Progress](http://progressed.io/bar/89) |
 | module-cms | 152 | 143 | 9 | ![Progress](http://progressed.io/bar/94) |
-| module-config | 105 | 88 | 17 | ![Progress](http://progressed.io/bar/83) |
+| module-config | 105 | 92 | 13 | ![Progress](http://progressed.io/bar/87) |
 | module-configurable-product | 129 | 88 | 41 | ![Progress](http://progressed.io/bar/68) |
 | module-contact | 24 | 24 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-cookie | 13 | 13 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -61,7 +61,7 @@ Russian (Ukraine) language.
 | module-downloadable | 113 | 97 | 16 | ![Progress](http://progressed.io/bar/85) |
 | module-eav | 142 | 88 | 54 | ![Progress](http://progressed.io/bar/61) |
 | module-email | 97 | 82 | 15 | ![Progress](http://progressed.io/bar/84) |
-| module-encryption-key | 14 | 13 | 1 | ![Progress](http://progressed.io/bar/92) |
+| module-encryption-key | 14 | 14 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-fedex | 77 | 35 | 42 | ![Progress](http://progressed.io/bar/45) |
 | module-gift-message | 44 | 34 | 10 | ![Progress](http://progressed.io/bar/77) |
 | module-google-adwords | 13 | 13 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -71,7 +71,7 @@ Russian (Ukraine) language.
 | module-import-export | 114 | 82 | 32 | ![Progress](http://progressed.io/bar/71) |
 | module-indexer | 23 | 20 | 3 | ![Progress](http://progressed.io/bar/86) |
 | module-integration | 119 | 49 | 70 | ![Progress](http://progressed.io/bar/41) |
-| module-layered-navigation | 29 | 27 | 2 | ![Progress](http://progressed.io/bar/93) |
+| module-layered-navigation | 29 | 29 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-marketplace | 13 | 13 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-media-storage | 25 | 21 | 4 | ![Progress](http://progressed.io/bar/84) |
 | module-msrp | 18 | 16 | 2 | ![Progress](http://progressed.io/bar/88) |
@@ -104,7 +104,7 @@ Russian (Ukraine) language.
 | module-tax | 174 | 170 | 4 | ![Progress](http://progressed.io/bar/97) |
 | module-theme | 171 | 144 | 27 | ![Progress](http://progressed.io/bar/84) |
 | module-translation | 5 | 5 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-ui | 111 | 84 | 27 | ![Progress](http://progressed.io/bar/75) |
+| module-ui | 111 | 88 | 23 | ![Progress](http://progressed.io/bar/79) |
 | module-ups | 113 | 44 | 69 | ![Progress](http://progressed.io/bar/38) |
 | module-url-rewrite | 61 | 60 | 1 | ![Progress](http://progressed.io/bar/98) |
 | module-user | 135 | 126 | 9 | ![Progress](http://progressed.io/bar/93) |

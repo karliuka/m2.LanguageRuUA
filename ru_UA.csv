@@ -435,7 +435,7 @@ Communications,Коммуникации
 Services,Сервисы
 Advanced,Расширенные
 "Disable Modules Output","Отключение вывода модулей"
-"Store Email Addresses","Адреса электронной почты (email) магазина"
+"Store Email Addresses","Email адреса"
 "Custom Email 1","Дополнительный адрес 1"
 "Sender Email","Адрес отправителя (email)"
 "Sender Name","Имя отправителя"
@@ -478,9 +478,9 @@ Timezone,"Часовой пояс"
 Locale,Локализация
 "First Day of Week","Первый день недели"
 "Weekend Days","Выходные дни недели"
-"Store Name","Название магазина"
-"Store Phone Number","Телефонный номер магазина"
-"Store Hours of Operation","Время работы магазина"
+"Store Name",Название
+"Store Phone Number",Телефон
+"Store Hours of Operation","Время работы"
 Country,Страна
 Region/State,Регион
 "ZIP/Postal Code","Почтовый индекс"
@@ -489,7 +489,7 @@ City,Город
 "Street Address Line 2","Адрес строка 2"
 "VAT Number","Номер плательщика НДС"
 "Single-Store Mode","Упрощённый режим"
-"Enable Single-Store Mode","Включить упрощённый режим"
+"Enable Single-Store Mode",Включить
 "This setting will not be taken into account if system has more than one store view.","Эта настройка не будет учитываться, если в системе больше одной витрины."
 "Mail Sending Settings","Настройки отсылки электронных писем"
 "Disable Email Communications","Отключение сообщений электронной почты"
@@ -522,9 +522,9 @@ Web,Веб
 "Url Options","Параметры URL"
 "Add Store Code to Urls","Добавлять код магазина к ссылкам (URLs)"
 "
-                        <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
-                    ","
-                        <strong style=""color:red"">Внимание!</strong> При использовании кода магазина в URL, система может работать некорректно, если в сторонних сервисах (PayPal и т.п.) указан URL без кода магазина.
+                        <strong style=""""color:red"""">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
+                    
+                    ","<strong style=""color:red"">Внимание!</strong> При использовании кода магазина в URL, система может работать некорректно, если в сторонних сервисах (PayPal и т.п.) указан URL без кода магазина.
                     "
 "Auto-redirect to Base URL","Авто-перенаправление на базовый URL"
 "Search Engine Optimization","Оптимизация в поисковых системах (SEO)"
@@ -676,7 +676,7 @@ Year,Год
 "My Credit Cards","Мои кредитные карты"
 "New Credit Card","Новая кредитная карта"
 "There was error during saving card data","Ошибка во время сохранения данных карты"
-"We can\'t initialize checkout.","We can\'t initialize checkout."
+"We can\'t initialize checkout.","Мы не можем инициализировать оплату."
 "Please agree to all the terms and conditions before placing the order.","Перед оформлением заказа Вы должны принять все Условия и Соглашения."
 "We can\'t place the order.","Мы не можем создать заказ."
 "Incorrect payment method.","Неправильный метод оплаты."
@@ -916,7 +916,7 @@ Always,Всегда
 "Provided form does not exist","Указанная форма не существует"
 "Incorrect CAPTCHA","CAPTCHA введена неверно"
 "Incorrect CAPTCHA.","CAPTCHA введена неверно."
-"The account is locked. Please wait and try again or contact %1.","The account is locked. Please wait and try again or contact %1."
+"The account is locked. Please wait and try again or contact %1.","Ваш аккаунт заблокирован. Пожалуйста, повторите попытку позже или напишите %1."
 "Please enter the letters from the image","Пожалуйста, введите буквы с изображения"
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Внимание</strong>: Captcha регистрозависимая."
 "Reload captcha","Обновить captcha"
@@ -1119,7 +1119,7 @@ Relevance,Релевантность
 Category,Категория
 "%1 and above","%1 и больше"
 "%1 - %2","%1 - %2"
-"Bucket do not exists","Bucket do not exists"
+"Bucket do not exists","Поиск не дал результатов"
 Product,Товар
 "Search Settings","Настройки поиска"
 Search,Поиск
@@ -1127,7 +1127,8 @@ Search,Поиск
 "<strong>%1 item</strong> were found using the following search criteria","При использовании поискового критерия найдено позиций <strong>%1 шт.</strong>"
 "<strong>%1 items</strong> were found using the following search criteria","При использовании поискового критерия найдено позиций <strong>%1 шт.</strong>"
 "We can\'t find any items matching these search criteria.","Мы не можем найти позиции, соответствующие заданным условиям поиска."
-"Modify your search.","Modify your search."
+"Modify your search.","
+Измените критерии поиска."
 name,Название
 "Don't see what you're looking for?","Не нашли то, что искали?"
 "Your search returned no results.","Нет результатов по вашему запросу."
@@ -1710,7 +1711,7 @@ Role,Роль
 "Remove This Item","Удалить позицию"
 Compare,Сравнить
 "Clear All","Очистить все"
-Prev,Пред
+Prev,Предыдущий
 Next,Следующий
 "We can\'t find products matching the selection.","Мы не можем найти товары, соответствующие выбору."
 "Add to Compare","Добавить в сравнение"
@@ -1917,7 +1918,7 @@ Manually,Вручную
 "Unable to remove checkout agreement %1","Невозможно удалить соглашение при оформлении заказа %1"
 "Checkout agreement with specified ID ""%1"" not found.","Соглашение при оформлении заказа с указанным ИД ""%1"" не найдено."
 Close,закрыть
-"Terms & Conditions","Terms & Conditions"
+"Terms & Conditions","Условия и Соглашения"
 "Enable Terms and Conditions","Включить Условия и Соглашения"
 "Shopping Cart",Корзина
 "Invalid method: %1","Неправильный метод: %1"
@@ -2253,8 +2254,8 @@ Enable,Включить
 "Custom Theme","Настраиваемая тема"
 "Custom Layout","Настраиваемый макет"
 "Meta Title","Заголовок Meta"
-"Default Config","Конфигурация по умолчанию"
-"Save Config","Сохранить конфигурацию"
+"Default Config","Все витрины"
+"Save Config",Сохранить
 [GLOBAL],[Глобально]
 [WEBSITE],[Сайт]
 "[STORE VIEW]",[Витрина]
@@ -3514,7 +3515,7 @@ Reset,Сбросить
 "Load Template","Загрузить шаблон"
 "Edit Email Template","Изменить шаблон письма"
 "New Email Template","Новый шаблон письма"
-"Default Config","Конфигурация по умолчанию"
+"Default Config","Все витрины"
 "Template Information","Информация о шаблоне"
 "Currently Used For","В настоящее время используется"
 "Template Name",Название
@@ -3549,8 +3550,8 @@ Unknown,Неизвестный
 "Custom1 Contact Email","Другой1. Контактный email"
 "Custom2 Contact Name","Другой2. Контактное имя"
 "Custom2 Contact Email","Другой2. Контактный email"
-"Store Name","Название магазина"
-"Store Phone Number","Телефонный номер магазина"
+"Store Name",Название
+"Store Phone Number",Телефон
 "Store Hours","Время работы"
 Country,Страна
 Region/State,Регион
@@ -3611,7 +3612,7 @@ Yes,Да
 "Deployment configuration file is not writable.","Файл с настройками закрыт для записи."
 "Please enter an encryption key.","Пожалуйста, введите ключ шифрования."
 "The encryption key has been changed.","Ключ шифрования успешно изменён."
-"This is your new encryption key: %1. Be sure to write it down and take good care of it!","This is your new encryption key: %1. Be sure to write it down and take good care of it!"
+"This is your new encryption key: %1. Be sure to write it down and take good care of it!","Это ваш новый ключ шифрования: %1. Обязательно запишите его и храните в надежном месте!"
 "Manage Encryption Key","Управление ключом шифрования"
 "Europe First Priority","Europe First Priority"
 "1 Day Freight","1 Day Freight"
@@ -4052,15 +4053,15 @@ OAuth,OAuth
 "We couldn't find any records.","Мы не смогли найти никаких записей."
 Status,Статус
 "Filterable (with results)","Фильтруемый (с результатами)"
-"Filterable (no results)","Фильтруемый (нет результатов)"
+"Filterable (no results)","Фильтруемый (без результатов)"
 No,Нет
 "Use in Layered Navigation","Использовать в многоуровневой навигации"
-"Can be used only with catalog input type Dropdown, Multiple Select and Price","Может быть использовано только с типом ввода 'выпадающий список', 'множественный выбор' и 'цена'"
-"Can be used only with catalog input type Dropdown, Multiple Select and Price.","Can be used only with catalog input type Dropdown, Multiple Select and Price."
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Может быть использовано только с типом ввода выпадающий список, множественный выбор и цена"
+"Can be used only with catalog input type Dropdown, Multiple Select and Price.","Может быть использовано только с типом ввода выпадающий список, множественный выбор и цена"
 "Use in Search Results Layered Navigation","Использовать в результатах поиска (в многоуровневой навигации)"
 Position,Позиция
 "Position in Layered Navigation","Позиция в многоуровневой навигации"
-"Position of attribute in layered navigation block.","Position of attribute in layered navigation block."
+"Position of attribute in layered navigation block.","Позиция атрибута в многоуровневой навигации."
 item,Позиция
 items,Позиции
 "Now Shopping by","Выбранные параметры"
@@ -7564,7 +7565,7 @@ Assign,Assign
 Options,Варианты
 "records found","записей найдено"
 selected,выбрано
-Filters,Filters
+Filters,Фильтры
 Add,Добавить
 "Something went wrong.","Something went wrong."
 Yes,Да
@@ -7575,7 +7576,7 @@ Select...,Выберите...
 Selected,выбрано
 "Select All","Выбрать все"
 "Deselect All","Снять все"
-"Select All on This Page","Select All on This Page"
+"Select All on This Page","Выбрать все на этой странице"
 "Deselect All on This Page","Deselect All on This Page"
 On,On
 Off,Off
@@ -7585,8 +7586,8 @@ Off,Off
 "${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible"
 "You have successfully saved your edits.","You have successfully saved your edits."
 "You haven\'t selected any items!","You haven\'t selected any items!"
-"Search by keyword","Search by keyword"
-Keyword,Keyword
+"Search by keyword",Поиск
+Keyword,"Ключевое слово"
 "Please enter more or equal than {0} symbols.","Пожалуйста, введите не меньше {0} символов."
 "Please enter less or equal than {0} symbols.","Пожалуйста, введите не больше {0} символов."
 "Please enter {0} words or less.","Пожалуйста, введите не более {0} слов."
@@ -7654,7 +7655,7 @@ Ok,ОК
 "Log JS Errors to Session Storage","Log JS Errors to Session Storage"
 "Log JS Errors to Session Storage Key","Log JS Errors to Session Storage Key"
 Action,Действие
-CSV,"CSV (разделитель - запятые)"
+CSV,CSV
 "Excel XML","Excel XML"
 "UPS Next Day Air","UPS Next Day Air"
 "UPS Second Day Air","UPS Second Day Air"
