@@ -807,11 +807,11 @@ payerEmail,payerEmail
 "-- Select --","-- Выберите --"
 Dynamic,Динамический
 Fixed,Фиксированный
-"Create New Option","Создать новый вариант"
+"Create New Option","Создать новый параметр"
 "Bundle Items","Товары комплекта"
-"Add Products to Option","Добавить товары в вариант"
+"Add Products to Option","Добавить товары"
 Close,закрыть
-"Delete Option","Удалить вариант"
+"Delete Option","Удалить параметр"
 "What are you looking for?","Что вы ищете?"
 ID,ИД
 Product,Товар
@@ -819,27 +819,27 @@ SKU,Артикул
 Price,Цена
 Delete,Удалить
 "Use Default Value","Использовать значение по умолчанию"
-"There is no defined renderer for ""%1"" option type.","There is no defined renderer for ""%1"" option type."
+"There is no defined renderer for ""%1"" option type.","Для типа параметров ""%1"" нет отображения."
 "Only implemented for bundle product","Реализовано только для комплекта товаров"
 "Product with specified sku: ""%1"" is not a bundle product","Товар с указанным артикулом: ""%1"" не является комплектом товаров"
 "Bundle product could not contain another composite product","Комплект товаров не не может содержать другой составной товар"
 "Id field of product link is required","Поле ИД для ссылки товара является обязательным"
 "Can not find product link with id ""%1""","Невозможно найти ссылку товара с ид ""%1"""
-"Could not save child: ""%1""","Could not save child: ""%1"""
-"Product with specified sku: ""%1"" does not contain option: ""%2""","Товар с указанным артикулом: ""%1"" не содержит вариант: ""%2"""
+"Could not save child: ""%1""","Не удалось сохранить: ""%1"""
+"Product with specified sku: ""%1"" does not contain option: ""%2""","Товар с указанным артикулом: ""%1"" не содержит параметр: ""%2"""
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","Подтовар с указанным артикулом: ""%1"" уже присвоен товару: ""%2"""
 "Product with specified sku: %1 is not a bundle product","Товар с указанным артикулом: %1 не является комплектом товаров"
-"Requested bundle option product doesn\'t exist","Запрошенный вариант товара комплекта не существует"
-"Requested option doesn\'t exist","Запрошенный вариант не существует"
-"Cannot delete option with id %1","Невозможно удалить вариант с ид %1"
-"Could not save option","Невозможно сохранить вариант"
+"Requested bundle option product doesn\'t exist","Запрошенный параметр товара комплекта не существует"
+"Requested option doesn\'t exist","Запрошенный параметр не существует"
+"Cannot delete option with id %1","Невозможно удалить параметр с ид %1"
+"Could not save option","Невозможно сохранить параметр"
 "Price Range","Диапазон цен"
 "As Low as","Начиная с"
 Together,Вместе
 Separately,Отдельно
-"Please specify product option(s).","Укажите параметры товара."
-"The options you selected are not available.","Выбранный вами вариант недоступен."
-"The required options you selected are not available.","Выбранные вами обязательные варианты недоступны."
+"Please specify product option(s).","Укажите параметр товара."
+"The options you selected are not available.","Выбранный вами параметр недоступен."
+"The required options you selected are not available.","Выбранные вами обязательные параметры недоступны."
 "Please select all required options.","Пожалуйста, выберите все обязательные параметры."
 "We can\'t add this item to your shopping cart right now.","Мы не можем добавить эту позицию в вашу корзину покупок в данный момент."
 N/A,Н/Д
@@ -849,9 +849,9 @@ Percent,Процент
 Cancel,Отменить
 "Add Selected Products","Добавить выбранные товары"
 [GLOBAL],[Глобально]
-"Add Option","Добавить вариант"
-"New Option","Новый вариант"
-"Option Title","Заголовок варианта"
+"Add Option","Добавить параметр"
+"New Option","Новый параметр"
+"Option Title","Заголовок параметра"
 "Input Type","Тип ввода"
 Drop-down,"Выпадающий список"
 "Radio Buttons","Радио кнопки"
@@ -861,17 +861,17 @@ Required,Обязательно
 Default,"По умолчанию"
 Name,Название
 "Default Quantity","Количество по умолчанию"
-"User Defined","User Defined"
+"User Defined","Добавлено пользователем"
 "Price Type","Тип цены"
-"Dynamic Price","Dynamic Price"
-"Dynamic SKU","Dynamic SKU"
-"Dynamic Weight","Dynamic Weight"
+"Dynamic Price","Динамическая цена"
+"Dynamic SKU","Динамический артикул"
+"Dynamic Weight","Динамический вес"
 None,Отсутствует
 Quantity:,Количество:
 "Choose a selection...","Выбрать набор..."
 "Store View Title","Заголовок для витрины"
 Position,Позиция
-"There are no products in this option.","В этом варианте нет товаров."
+"There are no products in this option.","В этом параметре нет товаров."
 Ordered,Заказано
 Invoiced,Оплачено
 Shipped,Доставлено
@@ -894,7 +894,7 @@ Summary,Резюме
 Availability:,Доступность:
 Quantity,Количество
 "Customize %1","Настроить %1"
-"No options of this product are available.","Для этого товара варианты недоступны."
+"No options of this product are available.","Для этого товара параметры недоступны."
 "Gift Message","Поздравительное сообщение"
 From:,От:
 To:,До:
@@ -905,8 +905,8 @@ Subtotal,Итого
 "Row Total","Итог строки"
 "Qty Invoiced","Кол-во оплаченных"
 "Qty Shipped","Кол-во отправленных"
-"Add Products to New Option","Add Products to New Option"
-"Add Products to Option ""%1""","Add Products to Option ""%1"""
+"Add Products to New Option","Добавить товары в новый параметр"
+"Add Products to Option ""%1""","Добавить товары в параметр ""%1"""
 Select...,Выберите...
 Status,Статус
 Thumbnail,Мини-изображение
@@ -1581,7 +1581,7 @@ Done,Обработано
 "Add Option","Добавить вариант"
 "New Option","Новый вариант"
 "Select Product","Выберите товар"
-"Option Title","Заголовок варианта"
+"Option Title",Заголовок
 "Add Value","Добавить значение"
 Title,Заголовок
 "Option Type","Тип варианта"
