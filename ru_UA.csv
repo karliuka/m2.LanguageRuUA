@@ -5258,8 +5258,8 @@ Frequency,Периодичность
 "Error Email Recipient","Письмо об ошибке. Получатель"
 "Error Email Sender","Письмо об ошибке. Отправитель"
 "Error Email Template","Письмо об ошибке. Шаблон"
-"Notify me when the price drops","Notify me when the price drops"
-"Notify me when this product is in stock","Notify me when this product is in stock"
+"Notify me when the price drops","Сообщить об изменении цены"
+"Notify me when this product is in stock","Сообщить когда появится в продаже"
 Url,Ссылка
 Title,Заголовок
 Description,Описание
