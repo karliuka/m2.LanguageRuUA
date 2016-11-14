@@ -160,7 +160,7 @@ Shipping,Доставка
 "User Name","Имя пользователя"
 "First Name",Имя
 "Last Name",Фамилия
-Email,"Электронная почта"
+Email,Email
 "User Email","Email пользователя"
 "New Password","Новый пароль"
 "Password Confirmation","Подтверждение пароля"
@@ -188,7 +188,7 @@ Back,Вернуться
 Delete,Удалить
 "Are you sure?","Вы уверены?"
 Save,Сохранить
-"Edit Design Change","Редактирование Изменения дизайна"
+"Edit Design Change","Изменить Изменения дизайна"
 "New Store Design Change","Новое изменение дизайна для магазина"
 "General Settings","Основные настройки"
 Store,Магазин
@@ -672,7 +672,7 @@ Year,Год
 "Delete Credit Card","Удалить кредитную карту"
 "There was error deleting the credit card","Ошибка во время удаления кредитной карты"
 "Credit card successfully deleted","Кредитная карта успешно удалена"
-"Edit Credit Card","Редактировать кредитную карту"
+"Edit Credit Card","Изменить кредитную карту"
 "My Credit Cards","Мои кредитные карты"
 "New Credit Card","Новая кредитная карта"
 "There was error during saving card data","Ошибка во время сохранения данных карты"
@@ -787,7 +787,7 @@ Debug,Отладка
 "Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Allow to Edit Shipping Address Entered During Checkout on PayPal Side"
 "3D Secure Verification Settings","3D Secure Verification Settings"
 "3D Secure Verification","3D Secure Verification"
-"Edit My Credit Cards","Редактировать мои кредитные карты"
+"Edit My Credit Cards","Изменить мои кредитные карты"
 cc_type,cc_type
 cc_number,cc_number
 avsPostalCodeResponseCode,avsPostalCodeResponseCode
@@ -1280,7 +1280,7 @@ Websites,Сайты
 "There are no customers for this alert.","Нет клиентов для этого оповещения."
 "First Name",Имя
 "Last Name",Фамилия
-Email,"Электронная почта"
+Email,Email
 "Subscribe Date","Дата подписки"
 "Last Notified","Последнее уведомление"
 "Send Count","Отправить количество"
@@ -1907,7 +1907,7 @@ Sales,Продажи
 "This condition no longer exists.","Условие больше не существует."
 "You deleted the condition.","Вы удалили условие."
 "Something went wrong  while deleting this condition.","Что-то пошло не так во время удаления этого условия."
-"Edit Condition","Редактировать условие"
+"Edit Condition","Изменить условие"
 "New Condition","Новое условие"
 "You saved the condition.","Вы сохранили условие."
 "Something went wrong while saving this condition.","Что-то пошло не так во время сохранения этого условия."
@@ -2028,7 +2028,7 @@ Total:,Всего:
 "Payment Method:","Метод оплаты:"
 "Date & Time:","Дата и Время:"
 "Sign In",Войти
-"Email Address","Адрес электронной почты (email)"
+"Email Address",Email
 Password,Пароль
 "Forgot Your Password?","Забыли пароль?"
 "My billing and shipping address are the same","Мой платежный адрес и адрес доставки совпадают"
@@ -2667,7 +2667,7 @@ Download,Скачать
 "Save Customer Group",Сохранить
 "Delete Customer Group","Удалить Группу клиентов"
 "New Customer Group","Новая Группа клиентов"
-"Edit Customer Group ""%1""","Редактировать группу клиента ""%1"""
+"Edit Customer Group ""%1""","Изменить группу клиента ""%1"""
 "Group Information","Информация о группе"
 "Group Name","Название группы"
 "Maximum length must be less then %1 characters.","Maximum length must be less then %1 characters."
@@ -2734,7 +2734,7 @@ Customers,Клиенты
 "New Group","Новая группа"
 "New Customer Groups","Новые группы клиента"
 "Edit Group","Изменить группу"
-"Edit Customer Groups","Редактировать группы клиента"
+"Edit Customer Groups","Изменить группы клиента"
 "You saved the customer group.","Вы сохранили Группу клиентов."
 "Please select customer(s).","Пожалуйста, выберите клиентов."
 "Customer could not be deleted.","Клиент не может быть удалён."
@@ -3380,7 +3380,7 @@ System,Система
 None,Отсутствует
 "Decimal Number","Десятичное число"
 "Integer Number","Целое число"
-Email,"Электронная почта"
+Email,Email
 URL,Ссылка
 Letters,Буквы
 "Letters (a-z, A-Z) or Numbers (0-9)","Буквы (a-z, A-Z) или Цифры (0-9)"
@@ -3943,7 +3943,7 @@ Save,Сохранить
 "Integration Info","Integration Info"
 General,Основное
 Name,Название
-Email,"Электронная почта"
+Email,Email
 "Callback URL","URL обратного вызова"
 "Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.","Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://."
 "Identity link URL","Identity link URL"
@@ -4327,7 +4327,7 @@ Paused,Приостановлено
 " Copy"," Копировать"
 "Are you sure you want to delete this template?","Вы действительно хотите удалить этот шаблон?"
 "Sign Up for Our Newsletter:","Подписаться на нашу рассылку:"
-"Enter your email address","Введите адрес электронной почты (email)"
+"Enter your email address","Введите email"
 Subscribe,Подписаться
 "Thank you for subscribing to our newsletter.","Спасибо за подписку на нашу рассылку."
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Чтобы начать получать рассылку, необходимо сначала подтвердить подписку, перейдя по ссылке:"
@@ -4360,7 +4360,7 @@ Unsubscribe,Отказаться
 Delete,Удалить
 CSV,"CSV (разделитель - запятые)"
 "Excel XML","Excel XML"
-Email,"Электронная почта"
+Email,Email
 Type,Тип
 Guest,Гость
 Customer,Клиент
@@ -4529,7 +4529,7 @@ No,Нет
 "Payment Methods","Методы оплаты"
 "Billing Agreements",Соглашения
 ID,ИД
-Email,"Электронная почта"
+Email,Email
 "First Name",Имя
 "Last Name",Фамилия
 "Reference ID","Reference ID"
@@ -5263,7 +5263,7 @@ Frequency,Периодичность
 Url,Ссылка
 Title,Заголовок
 Description,Описание
-"Preview Image","Preview Image"
+"Preview Image",Предпросмотр
 "Get Video Information","Получить информацию о видео"
 "Hide from Product Page","Скрыть со страницы товара"
 Role,Роль
@@ -5278,7 +5278,7 @@ Hidden,Скрыт
 "Alt Text","Альтернативный текст (alt)"
 "Image Size","Размер изображения"
 {size},{size}
-"Image Resolution","Image Resolution"
+"Image Resolution","Разрешение изображения"
 "{width}^{height} px","{width}^{height} px"
 Title:,Название:
 Uploaded:,Закачано:
@@ -5302,7 +5302,7 @@ Delete,Удалить
 "Show related video","Показывать связанные видео"
 "Auto restart video","Автоматически перезапускать видео"
 "Images And Videos","Изображения и Видео"
-"Protocol isn't allowed","Protocol isn't allowed"
+"Protocol isn't allowed","Протокол запрещен"
 "Unable to save address. Please check input data.","Не удается сохранить адрес. Пожалуйста проверьте входные данные."
 "Cart %1 doesn\'t contain products","Корзина %1 не содержит товаров"
 "Could not apply coupon code","Невозможно применить код купона"
@@ -5446,7 +5446,7 @@ Carrier/Method,"Служба доставки/Метод"
 Rate,Курс
 "Tax Amount","Сумма налога"
 "Abandoned carts","Заброшенные корзины"
-Email,"Электронная почта"
+Email,Email
 Products,Товары
 Quantity,Количество
 "Applied Coupon","Применённый купон"
@@ -6340,7 +6340,7 @@ title,Заголовок
 City,Город
 Company,Компания
 Country,Страна
-Email,"Электронная почта"
+Email,Email
 "First Name",Имя
 "Last Name",Фамилия
 State/Province,Регион
@@ -6429,7 +6429,7 @@ Item,Позиция
 "Configure and Add to Order","Настроить и добавить к заказу"
 "No items","Нет позиций"
 "Append Comments","Добавить комментарии"
-"Email Order Confirmation","Письмо (email) с подтверждением заказа"
+"Email Order Confirmation","Письмо с подтверждением заказа"
 "Grand Total Excl. Tax","Итого без налога"
 "Grand Total Incl. Tax","Итого, включая налог"
 "Subtotal (Excl. Tax)","Итого (без налога)"
@@ -6838,7 +6838,7 @@ Exception.,Ошибка.
 "Remove Recipent","Удалить получателя"
 Remove,Удалить
 Name,Название
-Email,"Электронная почта"
+Email,Email
 "* Required Fields","* Обязательные поля"
 Sender,Отправитель
 Message,сообщение
@@ -7247,7 +7247,7 @@ Tax,Налог
 "You deleted the tax rate.","Вы удалили налоговую ставку."
 "We can\'t delete this rate because of an incorrect rate ID.","Мы не можем удалить эту ставку из-за неправильного идентификатора ставки."
 "Something went wrong deleting this rate.","Что-то пошло не так во время удаления этой ставки."
-"Edit Tax Rate","Редактировать налоговую ставку"
+"Edit Tax Rate","Изменить налоговую ставку"
 "You saved the tax rate.","Вы сохранили налоговую ставку."
 "Tax Rules","Налоговые правила"
 "The tax rule has been deleted.","Налоговое правило удалено."
@@ -7390,7 +7390,7 @@ Manage,Управление
 "Images Assets","Ресурсы изображений"
 "Upload Fonts","Закачать шрифты"
 "Fonts Assets","Ресурсы шрифтов"
-"Edit custom.css","Редактировать custom.css"
+"Edit custom.css","Изменить custom.css"
 "Allowed file types *.css.","Разрешённые типы файлов *.css."
 "This file will replace the current custom.css file and can\'t be more than 2 MB.","Этот файл заменит текущий файл custom.css. Он не может быть больше 2 MB."
 "Max file size to upload %1M","Максимальный размер файла для закачки %1M"
@@ -7925,8 +7925,8 @@ username,"имя пользователя"
 "It\'s time to <a href=""%1"">change your password</a>.","Пришло время <a href=""%1"">изменить ваш пароль</a>."
 "Your password has expired; please contact your administrator.","Ваш пароль устарел; пожалуйста, свяжитесь с вашим администратором."
 "Password Help","Password Help"
-"Enter your email address.  You will receive an email with a link to reset your password.","Введите адрес вашей электронной почты (email).  Вы получите письмо со ссылкой, позволяющей сменить пароль."
-"Email address","Адрес электронной почты (email)"
+"Enter your email address.  You will receive an email with a link to reset your password.","Введите email.  Вы получите письмо со ссылкой, позволяющей сменить пароль."
+"Email address",Email
 "Retrieve Password","Получить пароль"
 "Back to Sign in","Вернуться на страницу авторизации"
 "Forgot your password?","Забыли пароль?"
@@ -8133,7 +8133,7 @@ Message,сообщение
 "Soap fault reason.","Soap fault reason."
 "Manage Customers","Управление клиентами"
 "Create Customer","Создать клиента"
-"Edit Customer","Редактировать клиента"
+"Edit Customer","Изменить клиента"
 "Get Customer","Get Customer"
 "Delete Customer","Удалить клиента"
 "Magento Web API","Magento Веб API"
@@ -8327,7 +8327,7 @@ Back,Вернуться
 "Wish List is empty now.","Лист пожеланий очищен."
 "* Required Fields","* Обязательные поля"
 "Sharing Information","Информация для публикации"
-"Email addresses, separated by commas","Адреса электронной почты (emails), разделённые запятыми"
+"Email addresses, separated by commas","Email, разделённые запятыми"
 "Check here to link an RSS feed to your Wish List.","Нажмите сюда, если хотите добавить ссылку на RSS канал для вашего листа пожеланий."
 "Last Added Items","Последние добавленные позиции"
 "Remove This Item","Удалить позицию"

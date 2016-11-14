@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8263 | 6823 | 1440 | ![Progress](http://progressed.io/bar/82) |
+| 8263 | 6836 | 1427 | ![Progress](http://progressed.io/bar/82) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -53,7 +53,7 @@ Russian (Ukraine) language.
 | module-cron | 18 | 14 | 4 | ![Progress](http://progressed.io/bar/77) |
 | module-currency-symbol | 18 | 17 | 1 | ![Progress](http://progressed.io/bar/94) |
 | module-customer-import-export | 17 | 16 | 1 | ![Progress](http://progressed.io/bar/94) |
-| module-customer | 517 | 422 | 95 | ![Progress](http://progressed.io/bar/81) |
+| module-customer | 517 | 425 | 92 | ![Progress](http://progressed.io/bar/82) |
 | module-developer | 9 | 8 | 1 | ![Progress](http://progressed.io/bar/88) |
 | module-dhl | 83 | 44 | 39 | ![Progress](http://progressed.io/bar/53) |
 | module-directory | 45 | 45 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -67,7 +67,7 @@ Russian (Ukraine) language.
 | module-google-adwords | 13 | 13 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-google-analytics | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-google-optimizer | 7 | 7 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-grouped-product | 35 | 31 | 4 | ![Progress](http://progressed.io/bar/88) |
+| module-grouped-product | 35 | 33 | 2 | ![Progress](http://progressed.io/bar/94) |
 | module-import-export | 114 | 82 | 32 | ![Progress](http://progressed.io/bar/71) |
 | module-indexer | 23 | 20 | 3 | ![Progress](http://progressed.io/bar/86) |
 | module-integration | 119 | 49 | 70 | ![Progress](http://progressed.io/bar/41) |
@@ -81,11 +81,11 @@ Russian (Ukraine) language.
 | module-offline-shipping | 52 | 52 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-page-cache | 17 | 8 | 9 | ![Progress](http://progressed.io/bar/47) |
 | module-payment | 58 | 44 | 14 | ![Progress](http://progressed.io/bar/75) |
-| module-paypal | 576 | 279 | 297 | ![Progress](http://progressed.io/bar/48) |
+| module-paypal | 576 | 282 | 294 | ![Progress](http://progressed.io/bar/48) |
 | module-persistent | 18 | 15 | 3 | ![Progress](http://progressed.io/bar/83) |
 | module-product-alert | 35 | 35 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-product-video | 43 | 39 | 4 | ![Progress](http://progressed.io/bar/90) |
-| module-quote | 55 | 44 | 11 | ![Progress](http://progressed.io/bar/80) |
+| module-product-video | 43 | 42 | 1 | ![Progress](http://progressed.io/bar/97) |
+| module-quote | 55 | 46 | 9 | ![Progress](http://progressed.io/bar/83) |
 | module-reports | 225 | 204 | 21 | ![Progress](http://progressed.io/bar/90) |
 | module-review | 133 | 126 | 7 | ![Progress](http://progressed.io/bar/94) |
 | module-rss | 8 | 8 | 0 | ![Progress](http://progressed.io/bar/100) |
