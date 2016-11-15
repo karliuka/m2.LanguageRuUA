@@ -305,7 +305,7 @@ System,Система
 "You deleted the store.","Вы удалили магазин."
 "Unable to delete the store. Please try again later.","Unable to delete the store. Please try again later."
 "This store view cannot be deleted.","Невозможно удалить эту витрину."
-"Store View","Представление магазина"
+"Store View",Витрина
 "You deleted the store view.","Вы удалили витрину."
 "Unable to delete the store view. Please try again later.","Unable to delete the store view. Please try again later."
 "This website cannot be deleted.","Невозможно удалить этот сайт."
@@ -564,7 +564,7 @@ Tags,Метки
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Ошибка 404</h1><p>Страница не найдена.</p>"
 "Community Edition","Community Edition"
 "Default Theme","Шаблон по умолчанию"
-"Applied Theme","Applied Theme"
+"Applied Theme","Примененная тема"
 "If no value is specified, the system default is used. The system default may be modified by third party extensions.","If no value is specified, the system default is used. The system default may be modified by third party extensions."
 "Design Rule","Design Rule"
 "User Agent Rules","Правила User Agent"
@@ -1150,7 +1150,7 @@ SKU,Артикул
 "Add to Cart","Добавить в корзину"
 "In stock","Есть в наличии"
 "Out of stock","Нет в наличии"
-"Add to Wish List",Хочу!
+"Add to Wish List","Добавить в лист пожеланий"
 "Add to Compare","Добавить в сравнение"
 "Catalog Products List","Список товаров каталога"
 "List of Products","Список товаров"
@@ -1160,7 +1160,7 @@ Title,Заголовок
 "Number of Products to Display","Кол-во товаров для отображения"
 Template,Шаблон
 "Products Grid Template","Шаблон сетки товаров"
-"Cache Lifetime (Seconds)","Время жизни кэша (в секундах)"
+"Cache Lifetime (Seconds)","Время жизни кэша (секунд)"
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","Если не указано, то используется значение по умолчанию: 86400. Чтобы обновить сразу, очистите кэш Вывод HTML Блоков."
 Conditions,Условия
 Root,Корневая
@@ -1555,7 +1555,7 @@ Search,Поиск
 "Could not assign product ""%1"" to websites ""%2""","Could not assign product ""%1"" to websites ""%2"""
 "Could not save product ""%1"" with websites %2","Could not save product ""%1"" with websites %2"
 "We cannot determine the field name.","We cannot determine the field name."
-"Attribute \'%1\' is locked. %2","Attribute \'%1\' is locked. %2"
+"Attribute \'%1\' is locked. %2","Атрибут \'%1\' заблокирован. %2"
 "Do not change the scope. %1","Не меняйте область действия. %1"
 "A product type is not defined for the indexer.","Не указан тип товара для процесса индексации."
 "%1 doesn\'t extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 doesn\'t extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice"
@@ -1674,7 +1674,7 @@ Action,Действие
 "Browse to find or drag image here","Нажмите для поиска или перетяните сюда изображение"
 "Delete image","Удалить изображение"
 Hidden,Скрыт
-"Alt Text","Альтернативный текст (alt)"
+"Alt Text","Альтернативный текст"
 Role,Роль
 "Image Size","Размер изображения"
 {size},{size}
@@ -1706,7 +1706,7 @@ Role,Роль
 "Add to Cart","Добавить в корзину"
 "In stock","Есть в наличии"
 "Out of stock","Нет в наличии"
-"Add to Wish List",Хочу!
+"Add to Wish List","Добавить в лист пожеланий"
 "You have no items to compare.","Товары для сравнения не выбраны."
 "Remove This Item","Удалить позицию"
 Compare,Сравнить
@@ -1816,7 +1816,7 @@ Template,Шаблон
 "New Products Images and Names Template","New Products Images and Names Template"
 "New Products Names Only Template","New Products Names Only Template"
 "New Products Images Only Template","New Products Images Only Template"
-"Cache Lifetime (Seconds)","Время жизни кэша (в секундах)"
+"Cache Lifetime (Seconds)","Время жизни кэша (секунд)"
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","Если не указано, то используется значение по умолчанию: 86400. Чтобы обновить сразу, очистите кэш Вывод HTML Блоков."
 "Catalog Product Link","Ссылка на товар каталога"
 "Link to a Specified Product","Ссылка на указанный товар"
@@ -1894,7 +1894,7 @@ Disabled,Отключено
 Text,Текст
 HTML,HTML
 Applied,Применяется
-"Store View","Представление магазина"
+"Store View",Витрина
 "Checkbox Text","Текст для галочки"
 Content,Содержимое
 "Content Height (css)","Высота содержимого (CSS)"
@@ -1984,7 +1984,7 @@ Error!,Ошибка!
 "DB exception","DB exception"
 "Wrong minimum amount.","Неправильная минимальная сумма."
 Message,сообщение
-"<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Print receipt</a>"
+"<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Печать</a>"
 "Apply Discount Code","Применить код скидки"
 "Enter discount code","Введите код скидки"
 "Apply Discount","Применить скидку"
@@ -2313,7 +2313,7 @@ Optional,Необязательно
 Required,Обязательно
 Website,Сайт
 Store,Магазин
-"Store View","Представление магазина"
+"Store View",Витрина
 "HTTP (unsecure)","HTTP (небезопасно)"
 "HTTPS (SSL)","HTTPS (SSL)"
 "Yes (302 Found)","Да (302 найдено)"
@@ -2418,7 +2418,7 @@ Images,Изображения
 "Remove image","Удалить изображение"
 "Edit role","Редактировать роль"
 Hidden,Скрыт
-"Alt Text","Альтернативный текст (alt)"
+"Alt Text","Альтернативный текст"
 Role,Роль
 "Hide from Product Page","Скрыть со страницы товара"
 "Select attribute","Выберите атрибут"
@@ -2439,7 +2439,7 @@ Quantity,Количество
             You need to create a simple product for each configuration (Ex: a product for each color)."
 "Edit Configurations","Edit Configurations"
 "Create Configurations","Create Configurations"
-"Add Products Manually","Добавить товар вручную"
+"Add Products Manually","Добавить товары вручную"
 "Current Variations","Current Variations"
 Image,Изображение
 Name,Название
@@ -2870,7 +2870,7 @@ Customer,Клиент
 "Personal Information","Личная информация"
 "Last Logged In:","Последняя авторизация:"
 "Last Logged In (%1):","Последняя авторизация (%1):"
-"Account Lock:","Account Lock:"
+"Account Lock:","Аккаунт заблокирован:"
 "Confirmed email:","Подтвержденный email:"
 "Account Created:","Учётная запись создана:"
 "Account Created on (%1):","Учётная запись создана (%1):"
@@ -2880,7 +2880,7 @@ Customer,Клиент
 "Sales Statistics","Статистика продаж"
 "Web Site",Сайт
 Store,Магазин
-"Store View","Представление магазина"
+"Store View",Витрина
 "Lifetime Sales","Оборот за весь период"
 "Average Sale","Средние продажи"
 "All Store Views","Все витрины"
@@ -2924,7 +2924,7 @@ Email,Email
 "Send confirmation link","Отправить ссылку подтверждения"
 "Back to Sign In","Вернуться на страницу авторизации"
 "Change Email","Изменить email"
-"Change Email and Password","Change Email and Password"
+"Change Email and Password","Изменить email и пароль"
 "Current Password","Текущий пароль"
 "New Password","Новый пароль"
 "Confirm New Password","Подтвердите новый пароль"
@@ -3085,7 +3085,7 @@ ZIP,"Почтовый индекс"
 "Tax VAT Number","Номер плательщика НДС (ИНН)"
 "Billing Firstname","Имя плательщика"
 "Billing Lastname","Фамилия плательщика"
-"Account Lock","Account Lock"
+"Account Lock","Аккаунт заблокирован"
 "First Name",Имя
 "Last Name",Фамилия
 "Last Activity","Последняя активность"
@@ -3367,7 +3367,7 @@ Downloads,Скачивания
 "Attribute Code","Код атрибута"
 "This is used internally. Make sure you don\'t use spaces or more than %1 symbols.","Для внутреннего использования. Убедитесь, что не используете пробелы или больше %1 символов."
 "Catalog Input Type for Store Owner","Тип ввода каталога для владельца магазина"
-"Values Required","Требуются значения"
+"Values Required",Обязателен
 "Default Value","Значение по умолчанию"
 "Unique Value","Уникальное значение"
 "Unique Value (not shared with other products)","Уникальное значение (не разделять с другими товарами)"
@@ -3762,7 +3762,7 @@ Enable,Включить
 "Grouped Products","Сборные товары"
 "Please specify the quantity of product(s).","Пожалуйста, укажите количество товара."
 "Cannot process the item.","Невозможно обработать позицию."
-"Add Products to Group","Add Products to Group"
+"Add Products to Group","Добавить товары в группу"
 Cancel,Отменить
 "Add Selected Products","Добавить выбранные товары"
 "A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group."
@@ -3927,7 +3927,7 @@ Never,Никогда
 "State for the same view","State for the same view"
 "Some Exception Message","Какое-то сообщение об ошибке"
 "Test Phrase","Тестовая фраза"
-"Change indexer mode","Change indexer mode"
+"Change indexer mode","Изменить режим индексирования"
 Indexer,Индекс
 Description,Описание
 Mode,Режим
@@ -4372,7 +4372,7 @@ Unsubscribed,"Отказавшиеся от подписки"
 Unconfirmed,"Не подтверждено"
 "Web Site",Сайт
 Store,Магазин
-"Store View","Представление магазина"
+"Store View",Витрина
 "Newsletter Subscriptions","Подписка на новости"
 "Make Check payable to:","Чек выдан:"
 "Send Check to:","Отправить чек к:"
@@ -4641,7 +4641,7 @@ Auto,Авто
 "Ask Customer","Спросить клиента"
 Never,Никогда
 "IPN (Instant Payment Notification) Only","IPN (Instant Payment Notification) только"
-"API Signature","API подпись"
+"API Signature","API Signature"
 "API Certificate","API сертификат"
 "The ordering amount of %1 is pending approval on the payment gateway.","The ordering amount of %1 is pending approval on the payment gateway."
 "Ordered amount of %1","Ordered amount of %1"
@@ -4975,7 +4975,7 @@ Manage,Управление
 "Don't have a PayPal account? Simply enter your email address.","Нет учётной записи PayPal? Просто укажите ваш адрес электронной почты."
 "API Authentication Methods","API Authentication Methods"
 "API Username","API Username"
-"API Password","API пароль"
+"API Password","API Password"
 "Get Credentials from PayPal","Get Credentials from PayPal"
 "Sandbox Mode","Режим песочницы"
 "API Uses Proxy","API Uses Proxy"
@@ -5275,7 +5275,7 @@ Role,Роль
 "Delete video","Удалить видео"
 "Delete image","Удалить изображение"
 Hidden,Скрыт
-"Alt Text","Альтернативный текст (alt)"
+"Alt Text","Альтернативный текст"
 "Image Size","Размер изображения"
 {size},{size}
 "Image Resolution","Разрешение изображения"
@@ -5526,7 +5526,7 @@ Error,Ошибка
 "Add to Cart","Добавить в корзину"
 "In stock","Есть в наличии"
 "Out of stock","Нет в наличии"
-"Add to Wish List",Хочу!
+"Add to Wish List","Добавить в лист пожеланий"
 "Add to Compare","Добавить в сравнение"
 "Recently Compared","Недавно сравнивали"
 "Learn More","Узнать больше"
@@ -5792,7 +5792,7 @@ CSV,"CSV (разделитель - запятые)"
 "Excel XML","Excel XML"
 "Are you sure you want to delete the selected coupon(s)?","Вы действительно хотите удалить выбранные купоны?"
 Labels,Заголовки
-"Store View Specific Labels","Заголовки для представлений магазина"
+"Store View Specific Labels","Заголовки для витрин"
 ID,ИД
 Rule,Правило
 Start,Начало
@@ -5923,7 +5923,7 @@ Apply,Применить
 "Discount Qty Step (Buy X)","Шаг количества для скидки (купить X)"
 "Apply to Shipping Amount","Применить к сумме доставки"
 "Discard subsequent rules","Прекратить обработку последующих правил"
-"Default Rule Label for All Store Views","Заголовок правила по умолчанию для всех представлений магазина"
+"Default Rule Label for All Store Views","Базовый для всех витрин"
 "Entity Sequence profile not added to meta active profile","Профиль последовательности сущности не добавлен в мета активного профиля"
 "Not enough arguments","Не достаточно аргументов"
 "Credit Memos",Возвраты
@@ -5947,7 +5947,7 @@ Cancel,Отменить
 Coupons,Купоны
 "Please select a customer","Пожалуйста, выберите клиента"
 "Create New Customer","Создать нового клиента"
-"Account Information","Данные учётной записи"
+"Account Information","Данные аккаунта"
 From,С
 To,По
 Message,сообщение
@@ -6041,7 +6041,7 @@ Capture,снять
 "Order Status Information","Информация о статусе заказа"
 "Status Code","Код статуса"
 "Status Label","Заголовок статуса"
-"Store View Specific Labels","Заголовки для представлений магазина"
+"Store View Specific Labels","Заголовки для витрин"
 "Total Paid","Всего оплачено"
 "Total Refunded","Всего возвращено"
 "Total Due","Требуется получить"
@@ -6611,7 +6611,7 @@ Dashboard,"Панель управления"
 "Orders Cron Settings","Orders Cron Settings"
 "Pending Payment Order Lifetime (minutes)","Pending Payment Order Lifetime (minutes)"
 "Sales Emails","Письма о заказах"
-"Asynchronous sending","Asynchronous sending"
+"Asynchronous sending","Асинхронная отправка"
 Enabled,Включено
 "New Order Confirmation Email Sender","Письмо с подтверждением нового заказа. Отправитель"
 "New Order Confirmation Template","Письмо с подтверждением нового заказа. Шаблон"
@@ -6660,7 +6660,7 @@ Shipment,Доставка
 "PDF Print-outs","PDF документы"
 "Display Order ID in Header","Отображать ИД заказа в Хэдере"
 "Customer Order Status Notification","Уведомление о статусе заказа клиента"
-"Asynchronous indexing","Asynchronous indexing"
+"Asynchronous indexing","Асинхронное индексирование"
 "Orders and Returns Search Form","Заказы и возвраты. Форма поиска"
 "Anchor Custom Title","Заголовок ссылки"
 Template,Шаблон
@@ -7049,7 +7049,7 @@ Filename,"Имя файла"
 "example: sitemap.xml","пример: sitemap.xml"
 Path,Путь
 "example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","пример: ""/sitemap/"" или ""/"" для базового пути (должны быть права на запись)"
-"Store View","Представление магазина"
+"Store View",Витрина
 Generate,Сгенерировать
 "XML Sitemap","XML карта сайта"
 "Add Sitemap","Добавить карту сайта"
@@ -7375,7 +7375,7 @@ Save,Сохранить
 %1,%1
 Default,"По умолчанию"
 Themes,Темы
-"Save and Continue Edit","Сохранить и продолжить редактирование"
+"Save and Continue Edit","Сохранить и продолжить"
 "Are you sure you want to delete this theme?","Вы действительно хотите удалить эту тему?"
 "Theme: %1","Тема: %1"
 "New Theme","Новая тема"
@@ -7437,9 +7437,9 @@ Global,Глобально
 "Sorry, something went wrong. That\'s all we know.","Извините, что-то пошло не так. Это всё, что мы знаем."
 "Invalid type","Неправильный тип"
 "Invalid scope or scope id","Invalid scope or scope id"
-"%1 does not contain field \'%2\'","%1 does not contain field \'%2\'"
+"%1 does not contain field \'%2\'","%1 не содержит поле \'%2\'"
 "Invalid regular expression: ""%1"".","Неправильное регулярное выражение: ""%1""."
-"%1 does not contain field \'file\'","%1 does not contain field \'file\'"
+"%1 does not contain field \'file\'","%1 не содержит поле \'%2\'"
 "Backend model is not specified for %1","Backend model is not specified for %1"
 "Can not save empty config","Can not save empty config"
 label,заголовок
@@ -7525,7 +7525,7 @@ Configuration,Конфигурация
 "Display Demo Store Notice","Отображать уведомление о том, что это демонстрационный сайт"
 Header,Хэдер
 "Logo Image","Изображение логотипа"
-"Allowed file types: png, gif, jpg, jpeg, svg.","Allowed file types: png, gif, jpg, jpeg, svg."
+"Allowed file types: png, gif, jpg, jpeg, svg.","Разрешенные типы файлов: png, gif, jpg, jpeg, svg."
 "Logo Image Width","Ширина изображения логотипа"
 "Logo Image Height","Высота изображения логотипа"
 "Welcome Text","Текст приветствия"
@@ -7536,7 +7536,7 @@ Footer,Футер
 Copyright,"Авторские права (Copyright)"
 Website,Сайт
 Store,Магазин
-"Store View","Представление магазина"
+"Store View",Витрина
 "Skip to Content","Skip to Content"
 "2 columns with left bar","2 колонки с левой полосой"
 "2 columns with right bar","2 колонки с правой полосой"
@@ -7561,7 +7561,7 @@ Cancel,Отменить
 Back,Вернуться
 Next,Следующий
 "Changes have been made to this section that have not been saved.","В этой секции были сделаны изменения, которые ещё не сохранены."
-Assign,Assign
+Assign,Назначить
 Options,Варианты
 "records found","записей найдено"
 selected,выбрано
@@ -7789,7 +7789,7 @@ Status,Статус
 "Please assign a website to the selected CMS page.","Пожалуйста, привяжите сайт к выбранной CMS странице."
 Title,Заголовок
 "URL Key",Адрес
-"Store View","Представление магазина"
+"Store View",Витрина
 "Edit URL Rewrite","Редактировать правило URL"
 "Add New URL Rewrite","Добавление нового правила преобразования URL"
 Reset,Сбросить
@@ -7861,7 +7861,7 @@ Users,Пользователи
 "Force Sign-In","Force Sign-In"
 "Edit User '%1'","Редактировать пользователя '%1'"
 "New User","Новый пользователь"
-"Account Information","Данные учётной записи"
+"Account Information","Данные аккаунта"
 "User Email",Email
 Password,Пароль
 "New Password","Новый пароль"
@@ -8100,7 +8100,7 @@ Debug,Отладка
 "Sort Order","Порядок сортировки"
 "Custom Variables","Настраиваемые переменные"
 "Add New Variable","Добавить новую переменную"
-"Save and Continue Edit","Сохранить и продолжить редактирование"
+"Save and Continue Edit","Сохранить и продолжить"
 "Custom Variable ""%1""","Настраиваемая переменная ""%1"""
 "New Custom Variable","Новая настраиваемая переменная"
 Variable,Переменная
@@ -8183,7 +8183,7 @@ Widget,Виджет
 "-- Please Select --","-- Выберите --"
 "Manage Widget Instances","Управление экземплярами виджетов"
 "Add Widget","Добавить виджет"
-"Save and Continue Edit","Сохранить и продолжить редактирование"
+"Save and Continue Edit","Сохранить и продолжить"
 "Widget ""%1""","Виджет ""%1"""
 "New Widget Instance","Новый экземпляр виджета"
 "Custom Layouts","Настраиваемый макет"
@@ -8322,7 +8322,7 @@ Edit,Изменить
 "RSS link to %1's wishlist","RSS ссылка на лист пожеланий %1"
 "RSS Feed","RSS канал"
 Product,Товар
-"Add to Wish List",Хочу!
+"Add to Wish List","Добавить в лист пожеланий"
 Back,Вернуться
 "Wish List is empty now.","Лист пожеланий очищен."
 "* Required Fields","* Обязательные поля"
@@ -8362,7 +8362,7 @@ Delete,Удалить
 "Product Details and Comment","Информация о товаре и комментарии"
 Summary,Резюме
 "Account Dashboard","Панель управления"
-"Account Information","Данные учётной записи"
+"Account Information","Данные аккаунта"
 "Address Book","Адресная книга"
 Menu,Меню
 Account,Аккаунт
