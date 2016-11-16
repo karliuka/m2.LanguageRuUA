@@ -342,7 +342,7 @@ Username,"Имя пользователя"
 "user name","Имя пользователя"
 Password,Пароль
 password,Пароль
-"Sign in",Войти
+"Sign in",Вход
 "Select Range:","Выберите диапазон:"
 "No Data Found","Данные не найдены"
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Диаграмма отключена. Если вы хотите включить графики, нажмите <a href=""%1"">сюда</a>."
@@ -768,7 +768,7 @@ Debug,Отладка
 "Capture Action","Capture Action"
 "New Order Status","Статус нового заказа"
 "Use Vault","Use Vault"
-"Allow Duplicate Cards","Allow Duplicate Cards"
+"Allow Duplicate Cards","Разрешить дубликаты карт"
 "CVV Verification","CVV Verification"
 "Credit Card Types","Типы кредитных карт"
 "Enable Credit Card auto-detection on Storefront","Enable Credit Card auto-detection on Storefront"
@@ -899,7 +899,7 @@ Quantity,Количество
 From:,От:
 To:,До:
 Message:,Сообщение:
-"Product Name","Название товара"
+"Product Name",Название
 Subtotal,Итого
 "Discount Amount","Величина скидки"
 "Row Total","Итог строки"
@@ -998,7 +998,7 @@ Forms,Формы
 "%1 is available to buy in increments of %2","Товар %1 доступен для заказа только в количестве с шагом %2"
 "Only %1 left","Осталось только %1"
 "Product availability","Доступность товара"
-"Product Name","Название товара"
+"Product Name",Название
 Qty,Кол-во
 "Inventory Section",Склад
 Inventory,Склад
@@ -2011,7 +2011,7 @@ Edit,Изменить
 Loading...,Загружается...
 "Order #","Заказ #"
 "Proceed to Checkout","Перейти к оформлению заказа"
-"Product Name","Название товара"
+"Product Name",Название
 "Incl. Tax","Включая налог"
 "Your order number is: %1.","Номер вашего заказа: %1."
 "Your order # is: <span>%1</span>.","Номер вашего заказа: <span>%1</span>."
@@ -2027,7 +2027,7 @@ Total:,Всего:
 "Shipping Method:","Метод доставки:"
 "Payment Method:","Метод оплаты:"
 "Date & Time:","Дата и Время:"
-"Sign In",Войти
+"Sign In",Вход
 "Email Address",Email
 Password,Пароль
 "Forgot Your Password?","Забыли пароль?"
@@ -2038,7 +2038,7 @@ Cancel,Отменить
 "Estimated Total","Estimated Total"
 "You can create an account after checkout.","Вы можете создать учетную запись после оформления заказа."
 "You already have an account with us. Sign in or continue as guest.","You already have an account with us. Sign in or continue as guest."
-Login,Войти
+Login,Вход
 Close,закрыть
 item,Позиция
 items,Позиции
@@ -2265,7 +2265,7 @@ Add,Добавить
 "Delete File","Удалить файл"
 "Search String","Строка поиска"
 "Design Theme","Тема оформления"
-"Add \Exception","Добавить \Исключение"
+"Add \Exception","Добавить Исключение"
 "-- No Theme --","-- Нет темы --"
 Enable,Включить
 Disable,Отключить
@@ -2509,7 +2509,7 @@ Submit,Отправить
 "Comment: %comment","Комментарий: %comment"
 "Contacts Section",Контакты
 Contacts,Контакты
-"Contact Us","свяжитесь с нами"
+"Contact Us",Контакты
 "Enable Contact Us","Включить форму обратной связи"
 "Email Options","Параметры Email"
 "Send Emails To","Посылать письма получателям"
@@ -2583,7 +2583,7 @@ Currency,Валюта
 CSV,"CSV (разделитель - запятые)"
 "Excel XML","Excel XML"
 "Sign Out",Выйти
-"Sign In",Войти
+"Sign In",Вход
 "You subscribe to our newsletter.","Вы подписались на нашу рассылку."
 "You don\'t subscribe to our newsletter.","Вы ещё не подписаны на нашу рассылку."
 "You have not set a default shipping address.","Вы не указали адрес доставки по умолчанию."
@@ -2598,7 +2598,7 @@ region,регион
 "Reset Password","Сброс пароля"
 "Are you sure you want to revoke the customer\'s tokens?","Вы действительно хотите аннулировать токены клиента?"
 "Force Sign-In","Force Sign-In"
-"New Customer","Новый клиент"
+"New Customer",Регистрация
 "Save and Continue Edit","Сохранить и продолжить"
 Back,Вернуться
 "Please select",Выберите
@@ -3339,7 +3339,7 @@ download,Скачать
 From:,От:
 To:,До:
 Message:,Сообщение:
-"Product Name","Название товара"
+"Product Name",Название
 Qty,Кол-во
 Subtotal,Итого
 "Discount Amount","Величина скидки"
@@ -3779,7 +3779,7 @@ Actions,Действия
 "Associated Products","Объединённые товары"
 Availability:,Доступность:
 "Out of stock","Нет в наличии"
-"Product Name","Название товара"
+"Product Name",Название
 Qty,Кол-во
 "No options of this product are available.","Для этого товара варианты недоступны."
 "There are no grouped products.","Там нет товаров типа Группа товаров."
@@ -4028,7 +4028,7 @@ Reset,Сбросить
 "The integration you selected asks you to approve access to the following:","The integration you selected asks you to approve access to the following:"
 "No permissions requested","No permissions requested"
 "Are you sure ?","Вы уверены ?"
-"Are you sure you want to delete this integration? You can't undo this action.","Are you sure you want to delete this integration? You can't undo this action."
+"Are you sure you want to delete this integration? You can't undo this action.","Вы действительно хотите удалить эту интеграцию?"
 "Please setup or sign in into your 3rd party account to complete setup of this integration.","Please setup or sign in into your 3rd party account to complete setup of this integration."
 "Available APIs","Достпные API"
 "Resource Access","Доступ к ресурсу"
@@ -4193,7 +4193,7 @@ Change,Изменить
 "Other items in your order","Другие товары в вашем заказе"
 "Edit Items","Изменить товары"
 "Shipping is not applicable.","Shipping is not applicable."
-"Product Name","Название товара"
+"Product Name",Название
 "Check Out with Multiple Addresses","Оформить заказ на несколько адресов"
 "Address %1 <span>of %2</span>","Адрес %1 <span>из %2</span>"
 "Shipping To",Получатель
@@ -5071,7 +5071,7 @@ Enabled,Включено
 "Allow in Billing Agreement Wizard","Разрешить помощник в Платёжном соглашении"
 "Settlement Report Settings","Settlement Report Settings"
 "SFTP Credentials","SFTP Credentials"
-Login,Войти
+Login,Вход
 Password,Пароль
 "Custom Endpoint Hostname or IP-Address","Custom Endpoint Hostname or IP-Address"
 "By default it is ""reports.paypal.com"".","Значение по умолчанию ""reports.paypal.com""."
@@ -5682,7 +5682,7 @@ Pending,"В очереди"
 "Please specify a rating title for a store, or we\'ll just use the default value.","Пожалуйста, укажите заголовок параметра оценки для каждого магазина. В противном случае будет использовано значение по умолчанию."
 "Assigned Options","Присвоенные варианты"
 "Option Title:","Заголовок варианта:"
-"Product Name","Название товара"
+"Product Name",Название
 Rating,"Параметр оценки"
 Actions,Действия
 "See Details",Подробнее
@@ -6520,7 +6520,7 @@ Continue,Продолжить
 "Print All Refunds","Распечатать все возвраты"
 "Refund #","Возврат #"
 "Print Refund","Распечатать возврат"
-"Product Name","Название товара"
+"Product Name",Название
 "Order #","Заказ #"
 Date,Дата
 "Ship To","Доставка на имя"
@@ -6704,7 +6704,7 @@ Uses,"Кол-во использований"
 "New Synonym Group","Новая группа"
 Back,Вернуться
 "Delete Synonym Group",Удалить
-"Are you sure you want to delete this synonym group?","Are you sure you want to delete this synonym group?"
+"Are you sure you want to delete this synonym group?","Вы действительно хотите удалить эту группу синонимов?"
 Reset,Сбросить
 "Save and Continue Edit","Сохранить и продолжить"
 "Save Synonym Group",Сохранить
@@ -6735,7 +6735,7 @@ Marketing,Маркетинг
 "Edit Synonym Group",Изменить
 "Synonym Group","Synonym Group"
 "Failed to delete %1 synonym group(s).","Failed to delete %1 synonym group(s)."
-"A total of %1 synonym group(s) have been deleted.","A total of %1 synonym group(s) have been deleted."
+"A total of %1 synonym group(s) have been deleted.","Удалено записей: %1."
 "This synonym group no longer exists.","This synonym group no longer exists."
 "You saved the synonym group.","You saved the synonym group."
 "The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged."
@@ -6784,7 +6784,7 @@ Website,Сайт
 "Delete items",Удалить
 "Are you sure you want to delete the selected synonym groups?","Are you sure you want to delete the selected synonym groups?"
 "An error was encountered while performing delete operation.","An error was encountered while performing delete operation."
-"Account Activity","Account Activity"
+"Account Activity","Аккаунт активен"
 "All other open sessions for this account were terminated.","All other open sessions for this account were terminated."
 "We couldn't logout because of an error.","We couldn't logout because of an error."
 "Someone logged into this account from another device or browser. Your current session is terminated.","Someone logged into this account from another device or browser. Your current session is terminated."
@@ -6964,7 +6964,7 @@ Ship,Доставить
 "Email Copy of Shipment","Копия письма о доставке"
 "Invalid value(s) for Qty to Ship","Неверные значения для поля Кол-во к отправке"
 "Select All","Выбрать все"
-"Product Name","Название товара"
+"Product Name",Название
 Delete,Удалить
 "Create Packages","Создать пакеты"
 Cancel,Отменить
@@ -7003,7 +7003,7 @@ SKU,Артикул
 Carrier:,"Служба доставки:"
 Error:,Ошибка:
 "Tracking information is currently not available. Please ","Информация для отслеживания в настоящий момент недоступна. Пожалуйста "
-"contact us","свяжитесь с нами"
+"contact us",Контакты
 " for more information or "," для получения дополнительной информации или "
 "email us at ","напишите нам на "
 Info:,Информация:
@@ -7037,7 +7037,7 @@ City,Город
 "Street Address",Адрес
 "Street Address Line 2","Адрес строка 2"
 "Shipping Policy Parameters","Shipping Policy Parameters"
-"Apply custom Shipping Policy","Apply custom Shipping Policy"
+"Apply custom Shipping Policy","Использовать индивидуальную политутку доставки"
 "Shipping Policy","Shipping Policy"
 "Shipping Methods","Методы доставки"
 "Save & Generate","Сохранить и сгенерировать"
@@ -8350,7 +8350,7 @@ Enabled,Включено
 "Display Wish List Summary","Отображение резюме листа пожеланий"
 "Enable RSS","Включить RSS"
 "No Items Found","Позиции не найдены"
-"Product Name","Название товара"
+"Product Name",Название
 "User Description","Описание пользователя"
 Quantity,Количество
 "Add Locale",Добавлено

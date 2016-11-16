@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8263 | 6863 | 1400 | ![Progress](http://progressed.io/bar/83) |
+| 8263 | 6871 | 1392 | ![Progress](http://progressed.io/bar/83) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -33,7 +33,7 @@ Russian (Ukraine) language.
 | module-authorizenet | 66 | 66 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-backend | 455 | 417 | 38 | ![Progress](http://progressed.io/bar/91) |
 | module-backup | 78 | 78 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-braintree | 145 | 118 | 27 | ![Progress](http://progressed.io/bar/81) |
+| module-braintree | 145 | 119 | 26 | ![Progress](http://progressed.io/bar/82) |
 | module-bundle | 108 | 108 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-captcha | 26 | 26 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-catalog-import-export | 19 | 9 | 10 | ![Progress](http://progressed.io/bar/47) |
@@ -68,9 +68,9 @@ Russian (Ukraine) language.
 | module-google-analytics | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-google-optimizer | 7 | 7 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-grouped-product | 35 | 34 | 1 | ![Progress](http://progressed.io/bar/97) |
-| module-import-export | 114 | 82 | 32 | ![Progress](http://progressed.io/bar/71) |
+| module-import-export | 114 | 83 | 31 | ![Progress](http://progressed.io/bar/72) |
 | module-indexer | 23 | 21 | 2 | ![Progress](http://progressed.io/bar/91) |
-| module-integration | 119 | 50 | 69 | ![Progress](http://progressed.io/bar/42) |
+| module-integration | 119 | 51 | 68 | ![Progress](http://progressed.io/bar/42) |
 | module-layered-navigation | 29 | 29 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-marketplace | 13 | 13 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-media-storage | 25 | 21 | 4 | ![Progress](http://progressed.io/bar/84) |
@@ -93,10 +93,10 @@ Russian (Ukraine) language.
 | module-sales-rule | 156 | 147 | 9 | ![Progress](http://progressed.io/bar/94) |
 | module-sales-sequence | 2 | 2 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-sales | 762 | 659 | 103 | ![Progress](http://progressed.io/bar/86) |
-| module-search | 88 | 66 | 22 | ![Progress](http://progressed.io/bar/75) |
-| module-security | 29 | 3 | 26 | ![Progress](http://progressed.io/bar/10) |
+| module-search | 88 | 68 | 20 | ![Progress](http://progressed.io/bar/77) |
+| module-security | 29 | 4 | 25 | ![Progress](http://progressed.io/bar/13) |
 | module-send-friend | 46 | 46 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-shipping | 181 | 158 | 23 | ![Progress](http://progressed.io/bar/87) |
+| module-shipping | 181 | 159 | 22 | ![Progress](http://progressed.io/bar/87) |
 | module-sitemap | 65 | 65 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-store | 36 | 30 | 6 | ![Progress](http://progressed.io/bar/83) |
 | module-swatches | 35 | 19 | 16 | ![Progress](http://progressed.io/bar/54) |
@@ -104,7 +104,7 @@ Russian (Ukraine) language.
 | module-tax | 174 | 170 | 4 | ![Progress](http://progressed.io/bar/97) |
 | module-theme | 171 | 147 | 24 | ![Progress](http://progressed.io/bar/85) |
 | module-translation | 5 | 5 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-ui | 111 | 89 | 22 | ![Progress](http://progressed.io/bar/80) |
+| module-ui | 111 | 90 | 21 | ![Progress](http://progressed.io/bar/81) |
 | module-ups | 113 | 45 | 68 | ![Progress](http://progressed.io/bar/39) |
 | module-url-rewrite | 61 | 60 | 1 | ![Progress](http://progressed.io/bar/98) |
 | module-user | 135 | 126 | 9 | ![Progress](http://progressed.io/bar/93) |
