@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8263 | 6871 | 1392 | ![Progress](http://progressed.io/bar/83) |
+| 8263 | 6898 | 1365 | ![Progress](http://progressed.io/bar/83) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -53,7 +53,7 @@ Russian (Ukraine) language.
 | module-cron | 18 | 14 | 4 | ![Progress](http://progressed.io/bar/77) |
 | module-currency-symbol | 18 | 17 | 1 | ![Progress](http://progressed.io/bar/94) |
 | module-customer-import-export | 17 | 16 | 1 | ![Progress](http://progressed.io/bar/94) |
-| module-customer | 517 | 429 | 88 | ![Progress](http://progressed.io/bar/82) |
+| module-customer | 517 | 456 | 61 | ![Progress](http://progressed.io/bar/88) |
 | module-developer | 9 | 8 | 1 | ![Progress](http://progressed.io/bar/88) |
 | module-dhl | 83 | 44 | 39 | ![Progress](http://progressed.io/bar/53) |
 | module-directory | 45 | 45 | 0 | ![Progress](http://progressed.io/bar/100) |
