@@ -2559,7 +2559,7 @@ Import,Импорт
 "We can\'t initialize the import model.","Мы не можем инициализировать модель импорта."
 "Click ""Save"" to apply the rates we found.","Нажмите кнопку ""Сохранить"", чтобы применить найденные курсы."
 "Currency Rates","Курсы валют"
-"Please correct the input data for ""%1 => %2"" rate.","Please correct the input data for ""%1 => %2"" rate."
+"Please correct the input data for ""%1 => %2"" rate.","Пожалуйста, укажите корректные данные для получения курса  ""%1 => %2""."
 "All valid rates have been saved.","Все корректные значения были сохранены."
 System,Система
 "You applied the custom currency symbols.","Вы применили нестандартные символы валют."
@@ -2576,8 +2576,8 @@ Currency,Валюта
 "Please enter a valid region.","Пожалуйста, введите правильный регион."
 "We found another row with this email, website and address ID combination.","Мы обнаружили другую строку с комбинацией из этого адреса электронной почты, сайта и идентификатора адреса."
 "This email is found more than once in the import file.","Мы обнаружили, что в файле импорта этот адрес электронной почты повторяется несколько раз."
-"Orphan rows that will be skipped due default row errors","Orphan rows that will be skipped due default row errors"
-"Invalid value in Store column (store does not exists?)","Неверное значение в колонке магазин (store) (магазин не существует?)"
+"Orphan rows that will be skipped due default row errors","Пропущенные строки из за несоответствия с шаблоном."
+"Invalid value in Store column (store does not exists?)","Неверное значение в колонке магазин (магазин не существует?)"
 "We can\'t find that email and website combination.","Мы не можем найти комбинацию этого адреса электронной почты и сайта."
 "Please enter a password with a valid length.","Пожалуйста, укажите пароль требуемой длины."
 CSV,"CSV (разделитель - запятые)"
@@ -3110,7 +3110,7 @@ Strong,Надежный
 "Format for IDE '%1' is not supported","Формат для IDE '%1' не поддерживается"
 "Client side less compilation","Less компиляция на стороне клиента"
 "Server side less compilation","Less компиляция на стороне сервера"
-"Frontend Development Workflow","Frontend Development Workflow"
+"Frontend Development Workflow","Frontend процессы"
 "Workflow type","Тип рабочего процесса"
 "Not available in production mode","Не доступно в режиме реального сайта"
 "Developer Client Restrictions","Ограничения доступа разработчика (считать пользователя разработчиком, только если...)"
@@ -3759,16 +3759,16 @@ Enable,Включить
 "Experiment code should be added to the original page only.","Код эксперимента должен быть добавлен только на оригинальную страницу."
 "Enable Content Experiments","Включить Content Experiments"
 "Category View Optimization","Оптимизация просмотра категории"
-"Grouped Products","Сборные товары"
+"Grouped Products","Наборы товаров"
 "Please specify the quantity of product(s).","Пожалуйста, укажите количество товара."
 "Cannot process the item.","Невозможно обработать позицию."
-"Add Products to Group","Добавить товары в группу"
+"Add Products to Group","Добавить товары в набор"
 Cancel,Отменить
 "Add Selected Products","Добавить выбранные товары"
-"A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group."
+"A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","Набор товаров состоит из нескольких продуктов, сгруппированных по определенному принципу или теме."
 Remove,Удалить
 ID,ИД
-Thumbnail,Мини-изображение
+Thumbnail,Превью
 Name,Название
 "Attribute Set","Набор атрибутов"
 Status,Статус
@@ -3776,7 +3776,7 @@ SKU,Артикул
 Price,Цена
 "Default Quantity","Количество по умолчанию"
 Actions,Действия
-"Associated Products","Объединённые товары"
+"Associated Products","Связанные товары"
 Availability:,Доступность:
 "Out of stock","Нет в наличии"
 "Product Name",Название
@@ -3787,8 +3787,8 @@ Qty,Кол-во
 "Starting at","Начиная от"
 Availability,Доступность
 "In stock","Есть в наличии"
-"Grouped product items","Позиции сборного товара"
-"Grouped Product Image","Изображение сборного товара"
+"Grouped product items","Товары входящие в набор"
+"Grouped Product Image","Изображение набора"
 Select...,Выберите...
 Type,Тип
 Quantity,Количество

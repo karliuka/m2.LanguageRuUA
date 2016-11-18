@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8263 | 6908 | 1355 | ![Progress](http://progressed.io/bar/83) |
+| 8263 | 6912 | 1351 | ![Progress](http://progressed.io/bar/83) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -51,10 +51,10 @@ Russian (Ukraine) language.
 | module-contact | 24 | 24 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-cookie | 13 | 13 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-cron | 18 | 14 | 4 | ![Progress](http://progressed.io/bar/77) |
-| module-currency-symbol | 18 | 17 | 1 | ![Progress](http://progressed.io/bar/94) |
-| module-customer-import-export | 17 | 16 | 1 | ![Progress](http://progressed.io/bar/94) |
+| module-currency-symbol | 18 | 18 | 0 | ![Progress](http://progressed.io/bar/100) |
+| module-customer-import-export | 17 | 17 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-customer | 517 | 456 | 61 | ![Progress](http://progressed.io/bar/88) |
-| module-developer | 9 | 8 | 1 | ![Progress](http://progressed.io/bar/88) |
+| module-developer | 9 | 9 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-dhl | 83 | 44 | 39 | ![Progress](http://progressed.io/bar/53) |
 | module-directory | 45 | 45 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-downloadable-import-export | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -67,7 +67,7 @@ Russian (Ukraine) language.
 | module-google-adwords | 13 | 13 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-google-analytics | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-google-optimizer | 7 | 7 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-grouped-product | 35 | 34 | 1 | ![Progress](http://progressed.io/bar/97) |
+| module-grouped-product | 35 | 35 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-import-export | 114 | 83 | 31 | ![Progress](http://progressed.io/bar/72) |
 | module-indexer | 23 | 21 | 2 | ![Progress](http://progressed.io/bar/91) |
 | module-integration | 119 | 51 | 68 | ![Progress](http://progressed.io/bar/42) |
