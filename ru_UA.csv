@@ -5269,7 +5269,7 @@ Description,Описание
 Role,Роль
 "YouTube and Vimeo supported.","Поддерживаются YouTube и Vimeo."
 "Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Поддерживается Vimeo.<br />Для добавления видео с сервиса YouTube, пожалуйста, сначала <a href=""%1"">введите API ключ YouTube</a>."
-"Could not get preview image information. Please check your connection and try again.","Could not get preview image information. Please check your connection and try again."
+"Could not get preview image information. Please check your connection and try again.","Не удалось получить превью. Пожалуйста, проверьте подключение и повторите попытку."
 "Add Video","Добавить видео"
 "Browse to find or drag image here","Нажмите для поиска или перетяните сюда изображение"
 "Delete video","Удалить видео"
@@ -5287,7 +5287,7 @@ Duration:,Длительность:
 "Video Error","Ошибка видео"
 "Unknown video type","Неизвестный тип видео"
 "Invalid video url","Неправильная ссылка на видео"
-"Youtube API key is invalid","Youtube API ключ неправильный"
+"Youtube API key is invalid","Неверный Youtube API ключ"
 "Video cant be shown due to the following reason: ","Видео не может быть показано по следующим причинам: "
 "Video not found","Видео не найдено"
 "New Video","Новое видео"
@@ -7791,14 +7791,14 @@ Title,Заголовок
 "URL Key",Адрес
 "Store View",Витрина
 "Edit URL Rewrite","Редактировать правило URL"
-"Add New URL Rewrite","Добавление нового правила преобразования URL"
+"Add New URL Rewrite","Добавить правило URL"
 Reset,Сбросить
 Back,Вернуться
 Delete,Удалить
 "Are you sure you want to do this?","Вы действительно хотите это сделать?"
 Save,Сохранить
 "Block Information","Информация о блоке"
-"URL Rewrite Information","Информация о правиле преобразования URL"
+"URL Rewrite Information","Информация о правиле URL"
 "Request Path","Путь запроса"
 "Target Path","Целевой путь"
 "Redirect Type","Тип перенаправления"
@@ -7813,7 +7813,7 @@ Custom,Другой
 "Create URL Rewrite:","Создать правило URL:"
 "You deleted the URL rewrite.","Вы удалили правило URL."
 "We can\'t delete URL Rewrite right now.","Мы не можем удалить правило URL в данный момент."
-"URL Rewrites","Правила преобразования URL"
+"URL Rewrites","Правила URL"
 "The product you chose is not associated with the selected store or category.","Товар, который вы выбрали, не связан с выбранными магазином или категорией."
 "The category you chose is not associated with the selected store.","Категория, которую вы выбрали, не связана с выбранным магазином."
 "The URL Rewrite has been saved.","Правило URL сохранено."
@@ -7825,7 +7825,7 @@ Custom,Другой
 No,Нет
 "Temporary (302)","Временно (302)"
 "Permanent (301)","Постоянно (301)"
-"Request Path for Specified Store","Путь запроса для указанного магазина"
+"Request Path for Specified Store","Путь запроса для витрины"
 "URL key for specified store already exists.","Ключ URL для указанного магазина уже существует."
 "Custom storage message","Custom storage message"
 "Select Category","Выбрать категорию"
@@ -8235,8 +8235,8 @@ Page,Страница
 "Anchor Custom Title","Заголовок ссылки"
 "CMS Page Link Block Template","CMS ссылка на страницу. Block шаблон"
 "CMS Page Link Inline Template","CMS ссылка на страницу. Inline шаблон"
-"Display a Link to Loading a Spreadsheet","Display a Link to Loading a Spreadsheet"
-"Defines whether a link to My Account","Defines whether a link to My Account"
+"Display a Link to Loading a Spreadsheet","Отобразить ссылку при загрузке таблицы"
+"Defines whether a link to My Account","Добавить ссылку на мой аккаунт"
 "Link Text","Текст ссылки"
 "The text of the link to the My Account &gt; Order by SKU page","Текст ссылки на страницу Моя учетная запись &gt; Заказ по артикулу"
 "Load a list of SKUs","Загрузить список артикутов (sku)"

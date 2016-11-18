@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8263 | 6898 | 1365 | ![Progress](http://progressed.io/bar/83) |
+| 8263 | 6902 | 1361 | ![Progress](http://progressed.io/bar/83) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -84,7 +84,7 @@ Russian (Ukraine) language.
 | module-paypal | 576 | 288 | 288 | ![Progress](http://progressed.io/bar/50) |
 | module-persistent | 18 | 15 | 3 | ![Progress](http://progressed.io/bar/83) |
 | module-product-alert | 35 | 35 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-product-video | 43 | 42 | 1 | ![Progress](http://progressed.io/bar/97) |
+| module-product-video | 43 | 43 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-quote | 55 | 46 | 9 | ![Progress](http://progressed.io/bar/83) |
 | module-reports | 225 | 204 | 21 | ![Progress](http://progressed.io/bar/90) |
 | module-review | 133 | 127 | 6 | ![Progress](http://progressed.io/bar/95) |
@@ -106,13 +106,13 @@ Russian (Ukraine) language.
 | module-translation | 5 | 5 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-ui | 111 | 90 | 21 | ![Progress](http://progressed.io/bar/81) |
 | module-ups | 113 | 45 | 68 | ![Progress](http://progressed.io/bar/39) |
-| module-url-rewrite | 61 | 60 | 1 | ![Progress](http://progressed.io/bar/98) |
+| module-url-rewrite | 61 | 61 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-user | 135 | 126 | 9 | ![Progress](http://progressed.io/bar/93) |
 | module-usps | 132 | 44 | 88 | ![Progress](http://progressed.io/bar/33) |
 | module-variable | 21 | 21 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-webapi | 23 | 20 | 3 | ![Progress](http://progressed.io/bar/86) |
 | module-weee | 30 | 28 | 2 | ![Progress](http://progressed.io/bar/93) |
-| module-widget | 72 | 70 | 2 | ![Progress](http://progressed.io/bar/97) |
+| module-widget | 72 | 72 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-wishlist | 116 | 116 | 0 | ![Progress](http://progressed.io/bar/100) |
 | theme-frontend-blank | 7 | 7 | 0 | ![Progress](http://progressed.io/bar/100) |
 | theme-frontend-luma | 44 | 44 | 0 | ![Progress](http://progressed.io/bar/100) |
