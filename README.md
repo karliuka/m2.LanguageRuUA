@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8263 | 6927 | 1336 | ![Progress](http://progressed.io/bar/83) |
+| 8263 | 6945 | 1318 | ![Progress](http://progressed.io/bar/84) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -42,7 +42,7 @@ Russian (Ukraine) language.
 | module-catalog-search | 36 | 36 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-catalog-url-rewrite | 6 | 6 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-catalog-widget | 20 | 20 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-catalog | 716 | 646 | 70 | ![Progress](http://progressed.io/bar/90) |
+| module-catalog | 716 | 653 | 63 | ![Progress](http://progressed.io/bar/91) |
 | module-checkout-agreements | 41 | 41 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-checkout | 182 | 164 | 18 | ![Progress](http://progressed.io/bar/90) |
 | module-cms | 152 | 143 | 9 | ![Progress](http://progressed.io/bar/94) |
@@ -50,10 +50,10 @@ Russian (Ukraine) language.
 | module-configurable-product | 129 | 88 | 41 | ![Progress](http://progressed.io/bar/68) |
 | module-contact | 24 | 24 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-cookie | 13 | 13 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-cron | 18 | 14 | 4 | ![Progress](http://progressed.io/bar/77) |
+| module-cron | 18 | 16 | 2 | ![Progress](http://progressed.io/bar/88) |
 | module-currency-symbol | 18 | 18 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-customer-import-export | 17 | 17 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-customer | 517 | 456 | 61 | ![Progress](http://progressed.io/bar/88) |
+| module-customer | 517 | 465 | 52 | ![Progress](http://progressed.io/bar/89) |
 | module-developer | 9 | 9 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-dhl | 83 | 44 | 39 | ![Progress](http://progressed.io/bar/53) |
 | module-directory | 45 | 45 | 0 | ![Progress](http://progressed.io/bar/100) |
