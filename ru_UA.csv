@@ -491,8 +491,8 @@ City,Город
 "Single-Store Mode","Упрощённый режим"
 "Enable Single-Store Mode",Включить
 "This setting will not be taken into account if system has more than one store view.","Эта настройка не будет учитываться, если в системе больше одной витрины."
-"Mail Sending Settings","Настройки отсылки электронных писем"
-"Disable Email Communications","Отключение сообщений электронной почты"
+"Mail Sending Settings",Email
+"Disable Email Communications","Отключить email сообщения"
 Host,Хост
 "Port (25)","Порт (25)"
 "Set Return-Path","Установить Return-Path"
@@ -644,7 +644,7 @@ FTP,FTP
 "Magento root directory","Корневая папка Magento"
 "Create Backup","Создать резервную копию"
 Rollback,Откатить
-"Scheduled Backup Settings","Настройки резервного копирования по расписанию"
+"Scheduled Backup Settings","Резервное копирование"
 "Enable Scheduled Backup","Включить резервное копирование по расписанию"
 "Backup Type","Тип резервной копии"
 "Start Time","Время начала"
@@ -4114,7 +4114,7 @@ Database,"База данных"
 "File with an extension ""%value%"" is protected and cannot be uploaded","Файл с расширением ""%value%"" защищён и не может быть закачан"
 "Unable to create directory: %1","Невозможно создать папку: %1"
 "Unable to save file: %1","Невозможно сохранить файл: %1"
-"Storage Configuration for Media","Настройка хранилища для медиа"
+"Storage Configuration for Media","Медиа хранилище"
 "Media Storage","Медиа хранилище"
 "Select Media Database","Выберите медиа базу данных"
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","После выбора нового места хранения медиа, нажмите кнопку Синхронизировать, чтобы переместить медиа в новую директорию."
@@ -8135,7 +8135,7 @@ Message,сообщение
 "Create Customer","Создать клиента"
 "Edit Customer","Изменить клиента"
 "Get Customer","Get Customer"
-"Delete Customer","Удалить клиента"
+"Delete Customer",Удалить
 "Magento Web API","Magento Веб API"
 "SOAP Settings","SOAP настройки"
 "Default Response Charset","Кодировка ответа по умолчанию"
