@@ -2010,7 +2010,7 @@ Edit,Изменить
 "Excl. Tax","Без налога"
 Loading...,Загружается...
 "Order #","Заказ #"
-"Proceed to Checkout","Перейти к оформлению заказа"
+"Proceed to Checkout","Оформить заказ"
 "Product Name",Название
 "Incl. Tax","Включая налог"
 "Your order number is: %1.","Номер вашего заказа: %1."
@@ -2042,9 +2042,9 @@ Login,Вход
 Close,закрыть
 item,Позиция
 items,Позиции
-"Go to Checkout","Перейти к оформлению заказа"
+"Go to Checkout","Оформить заказ"
 "Recently added item(s)","Recently added item(s)"
-"View and edit cart","Просмотр и редактирование корзины"
+"View and edit cart","Корзина покупок"
 "See Details",Подробнее
 "Options Details",Параметры
 Remove,Удалить
@@ -2068,7 +2068,7 @@ edit,Изменить
 "Carrier Title","Carrier Title"
 Next,Следующий
 "Sorry, no quotes are available for this order at this time","К сожалению, для этого заказа нет доступных методов доставки"
-"Order Summary","Резюме заказа"
+"Order Summary",Итог
 "Item in Cart","шт. в корзине"
 "Items in Cart","шт. в корзине"
 "View Details",Подробнее
@@ -2098,7 +2098,7 @@ Shipping,Доставка
 "Send Payment Failed Email Copy Method","Способ отправки копии сообщения о неудавшемся платеже для доп. получателя"
 "Order Total","Сумма заказа"
 "We'll send your order confirmation here.","We'll send your order confirmation here."
-Payment,Платёж
+Payment,Оплата
 "Not yet calculated","Пока не рассчитано"
 "We received your order!","Мы получили ваш заказ!"
 "Thank you for your purchase!","Спасибо за покупку!"
