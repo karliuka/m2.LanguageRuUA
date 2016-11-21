@@ -2184,7 +2184,7 @@ Pages,Страницы
 LocalizedException,LocalizedException
 RuntimeException,RuntimeException
 Exception,Exception
-"Could not create a directory.","Could not create a directory."
+"Could not create a directory.","Невозможно создать директорию"
 "All Store Views","Все витрины"
 Edit,Изменить
 Delete,Удалить
@@ -2364,7 +2364,7 @@ Dashboard,"Панель управления"
 "New attribute set name","Название нового набора атрибутов"
 "Add configurable attributes to the existing Attribute Set","Add configurable attributes to the existing Attribute Set"
 "Choose existing Attribute Set","Выбрать существующий набор атрибутов"
-Configurations,Configurations
+Configurations,Конфигурация
 "Attribute Values","Значения атрибутов"
 "Bulk Images &amp; Price","Изображения &amp; Цена"
 "Create New Attribute","Создать новый атрибут"
@@ -7402,7 +7402,7 @@ Manage,Управление
 "Theme Title","Название темы"
 "Theme Preview Image","Предварительный просмотр темы (картинка)"
 General,Основное
-"Copy of %1","Copy of %1"
+"Copy of %1","Копировать %1"
 "Max image size %1M","Максимальный размер изображения %1M"
 "Theme JavaScript","JavaScript темы"
 "Select JS Files to Upload","Выберите JS файлы для закачки"
@@ -7446,7 +7446,7 @@ label,заголовок
 "-- Please Select --","-- Выберите --"
 "The start date can\'t follow the end date.","Дата начала не может быть после даты окончания."
 "The date range for this design change overlaps another design change for the specified store.","Диапазон дат для сохраняемого Изменения дизайна перекрывает другое Изменение дизайна для указанного магазина."
-Copy,Copy
+Copy,Копировать
 "Theme id should be set","ИД темы должен быть задан"
 "Circular-reference in theme inheritance detected for ""%1""","Circular-reference in theme inheritance detected for ""%1"""
 "The CSS file must be less than %1M.","CSS файл должен быть меньше %1M."

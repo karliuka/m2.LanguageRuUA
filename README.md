@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8263 | 6945 | 1318 | ![Progress](http://progressed.io/bar/84) |
+| 8263 | 6949 | 1314 | ![Progress](http://progressed.io/bar/84) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -45,9 +45,9 @@ Russian (Ukraine) language.
 | module-catalog | 716 | 653 | 63 | ![Progress](http://progressed.io/bar/91) |
 | module-checkout-agreements | 41 | 41 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-checkout | 182 | 164 | 18 | ![Progress](http://progressed.io/bar/90) |
-| module-cms | 152 | 143 | 9 | ![Progress](http://progressed.io/bar/94) |
+| module-cms | 152 | 144 | 8 | ![Progress](http://progressed.io/bar/94) |
 | module-config | 105 | 92 | 13 | ![Progress](http://progressed.io/bar/87) |
-| module-configurable-product | 129 | 88 | 41 | ![Progress](http://progressed.io/bar/68) |
+| module-configurable-product | 129 | 89 | 40 | ![Progress](http://progressed.io/bar/68) |
 | module-contact | 24 | 24 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-cookie | 13 | 13 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-cron | 18 | 16 | 2 | ![Progress](http://progressed.io/bar/88) |
@@ -102,7 +102,7 @@ Russian (Ukraine) language.
 | module-swatches | 35 | 19 | 16 | ![Progress](http://progressed.io/bar/54) |
 | module-tax-import-export | 19 | 19 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-tax | 174 | 170 | 4 | ![Progress](http://progressed.io/bar/97) |
-| module-theme | 171 | 147 | 24 | ![Progress](http://progressed.io/bar/85) |
+| module-theme | 171 | 149 | 22 | ![Progress](http://progressed.io/bar/87) |
 | module-translation | 5 | 5 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-ui | 111 | 90 | 21 | ![Progress](http://progressed.io/bar/81) |
 | module-ups | 113 | 45 | 68 | ![Progress](http://progressed.io/bar/39) |
