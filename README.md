@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8263 | 6983 | 1280 | ![Progress](http://progressed.io/bar/84) |
+| 8263 | 6986 | 1277 | ![Progress](http://progressed.io/bar/84) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -69,14 +69,14 @@ Russian (Ukraine) language.
 | module-google-optimizer | 7 | 7 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-grouped-product | 35 | 35 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-import-export | 114 | 83 | 31 | ![Progress](http://progressed.io/bar/72) |
-| module-indexer | 23 | 21 | 2 | ![Progress](http://progressed.io/bar/91) |
+| module-indexer | 23 | 22 | 1 | ![Progress](http://progressed.io/bar/95) |
 | module-integration | 119 | 52 | 67 | ![Progress](http://progressed.io/bar/43) |
 | module-layered-navigation | 29 | 29 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-marketplace | 13 | 13 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-media-storage | 25 | 25 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-msrp | 18 | 18 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-multishipping | 89 | 83 | 6 | ![Progress](http://progressed.io/bar/93) |
-| module-newsletter | 148 | 146 | 2 | ![Progress](http://progressed.io/bar/98) |
+| module-newsletter | 148 | 148 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-offline-payments | 24 | 24 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-offline-shipping | 52 | 52 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-page-cache | 17 | 8 | 9 | ![Progress](http://progressed.io/bar/47) |

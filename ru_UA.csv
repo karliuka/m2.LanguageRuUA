@@ -3923,7 +3923,7 @@ Never,Никогда
 "We couldn't change indexer(s)' mode because of an error.","Не получилось изменить режим создания индексов из-за ошибки."
 "%1 indexer(s) are in ""Update on Save"" mode.","Количество индексов, переключенных в режим ""Обновлять при сохранении"": %1 шт."
 "One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Один или несколько <a href=""%1"">индексов устарели</a>. Убедитесь, что <a href=""%2"" target=""_blank"">Планировщик задач (cron) Magento</a> выполняется."
-"State for the same indexer","State for the same indexer"
+"State for the same indexer","Состояние индекса"
 "State for the same view","State for the same view"
 "Some Exception Message","Какое-то сообщение об ошибке"
 "Test Phrase","Тестовая фраза"
@@ -4271,7 +4271,7 @@ Updated,Обновлено
 Sender,Отправитель
 "Template Type","Тип шаблона"
 Action,Действие
-"Queue Newsletter","Queue Newsletter"
+"Queue Newsletter","Очередь рассылки"
 "We unsubscribed the people you identified.","Мы отписали людей, которых вы указали."
 "The problems you identified have been deleted.","Проблемы, которые вы указали, удалены."
 "Newsletter Problems Report","Отчёт: проблемы с рассылкой"
@@ -4316,7 +4316,7 @@ Sending,Отправляется
 Paused,Приостановлено
 "There are no subscribers selected.","Нет выбранных подписчиков."
 "You selected an invalid queue.","Вы выбрали недействительную очередь."
-"We cannot mark as received subscriber.","We cannot mark as received subscriber."
+"We cannot mark as received subscriber.","Мы не можем отметить подписчика."
 "Duplicate template code","Дублировать код шаблона"
 "Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Перейдите по ссылке, чтобы отписаться <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>"
 "Choose Store View:","Выберите витрину:"
