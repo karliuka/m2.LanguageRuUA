@@ -303,14 +303,14 @@ System,Система
 "Something went wrong. Please try again.","Что-то пошло не так. Пожалуйста, попробуйте снова."
 "This store cannot be deleted.","Невозможно удалить этот магазин."
 "You deleted the store.","Вы удалили магазин."
-"Unable to delete the store. Please try again later.","Unable to delete the store. Please try again later."
+"Unable to delete the store. Please try again later.","Невозможно удалить магазин. Пожалуйста, повторите попытку позже."
 "This store view cannot be deleted.","Невозможно удалить эту витрину."
 "Store View",Витрина
 "You deleted the store view.","Вы удалили витрину."
-"Unable to delete the store view. Please try again later.","Unable to delete the store view. Please try again later."
+"Unable to delete the store view. Please try again later.","Невозможно удалить витрину. Пожалуйста, повторите попытку позже."
 "This website cannot be deleted.","Невозможно удалить этот сайт."
 "You deleted the website.","Вы удалили сайт."
-"Unable to delete the website. Please try again later.","Unable to delete the website. Please try again later."
+"Unable to delete the website. Please try again later.","Невозможно удалить сайт. Пожалуйста, повторите попытку позже."
 "The website does not exist.","Сайт не существует."
 "Before modifying the website code please make sure it is not used in index.php.","Перед изменением кода сайта убедитесь, что он не используется на в файле index.php."
 "The store does not exist","Магазин не существует"
@@ -773,7 +773,7 @@ Debug,Отладка
 "Credit Card Types","Типы кредитных карт"
 "Enable Credit Card auto-detection on Storefront","Enable Credit Card auto-detection on Storefront"
 "Advanced Fraud Protection","Расширенная защита от мошенничества"
-"Your Kount ID","Your Kount ID"
+"Your Kount ID","Ваш Kount ID"
 "Use Cache","Использовать кэш"
 "Sort Order","Порядок сортировки"
 "Country Specific Settings","Параметры для конкретной страны"
@@ -1483,7 +1483,7 @@ Category,Категория
 Enabled,Включено
 Disabled,Отключено
 "Attribute Set already exists.","Набор атрибутов уже существует."
-"We couldn\'t copy file %1. Please delete media with non-existing images and try again.","We couldn\'t copy file %1. Please delete media with non-existing images and try again."
+"We couldn\'t copy file %1. Please delete media with non-existing images and try again.","Мы не смогли скопировать файл %1."
 "The image content is not valid.","The image content is not valid."
 "Cannot save product.","Невозможно сохранить товар."
 "Failed to save new media gallery entry.","Failed to save new media gallery entry."
@@ -1554,7 +1554,7 @@ Search,Поиск
 "There are not websites for assign to product","There are not websites for assign to product"
 "Could not assign product ""%1"" to websites ""%2""","Не удалось разместить продукт ""%1"" на веб-сайт ""%2"""
 "Could not save product ""%1"" with websites %2","Could not save product ""%1"" with websites %2"
-"We cannot determine the field name.","We cannot determine the field name."
+"We cannot determine the field name.","Мы не можем определить название поля."
 "Attribute \'%1\' is locked. %2","Атрибут \'%1\' заблокирован. %2"
 "Do not change the scope. %1","Не меняйте область действия. %1"
 "A product type is not defined for the indexer.","Не указан тип товара для процесса индексации."
@@ -1592,9 +1592,9 @@ Required,Обязательно
 "Maximum Image Size","Максимальный размер изображения"
 "Please leave blank if it is not an image.","Пожалуйста, оставьте пустым, если это не изображение."
 %1,%1
-"This item has weight","This item has weight"
-"This item has no weight","This item has no weight"
-"Set Product as New From","Set Product as New From"
+"This item has weight","Товар имеет вес"
+"This item has no weight","Товар не имеет вес"
+"Set Product as New From","Новый с"
 "Related Products, Up-Sells, and Cross-Sells","Related Products, Up-Sells, and Cross-Sells"
 "Related products are shown to customers in addition to the item the customer is looking at.","Related products are shown to customers in addition to the item the customer is looking at."
 "Add Related Products","Добавить сопутствующие товары"
@@ -1866,7 +1866,7 @@ Image,Изображение
 "Image Opacity","Прозрачность изображения"
 "Example format: 200x300.","Пример формата: 200x300."
 "Image Position","Расположение изображения"
-Small,Small
+Small,Небольшой
 "Attribute Label","Заголовок атрибута"
 System,Система
 "All Store Views","Все витрины"
@@ -2890,7 +2890,7 @@ Change,Изменить
 "Contact Information","Контактная информация"
 "Change Password","Изменить пароль"
 Newsletters,"Подписка на новости"
-"You subscribe to ""General Subscription"".","You subscribe to ""General Subscription""."
+"You subscribe to ""General Subscription"".","Вы подписаны на основную рассылку."
 or,или
 "Default Addresses","Адреса по умолчанию"
 "Change Billing Address","Изменить адрес плательщика"
@@ -4022,7 +4022,7 @@ Reset,Сбросить
 "The integration \'%1\' has been deleted.","The integration \'%1\' has been deleted."
 "Uninstall the extension to remove integration \'%1\'.","Uninstall the extension to remove integration \'%1\'."
 "Integration with ID '%1' doesn't exist.","Integration with ID '%1' doesn't exist."
-"Your account is temporarily disabled.","Your account is temporarily disabled."
+"Your account is temporarily disabled.","Ваш аккаунт временно отключен."
 "You have entered an invalid password for current user.","Вы ввели неправильный пароль текущего пользователя."
 "A token with consumer ID 0 does not exist","A token with consumer ID 0 does not exist"
 "The integration you selected asks you to approve access to the following:","The integration you selected asks you to approve access to the following:"
@@ -5414,7 +5414,7 @@ Uses,"Кол-во использований"
 "Sales Discount",Скидка
 "Sales Total",Сумма
 Discount,Скидка
-"Total Invoiced vs. Paid Report","Total Invoiced vs. Paid Report"
+"Total Invoiced vs. Paid Report","Отчёт ""Выставлено счётов vs Оплачено"""
 Orders,Заказы
 "Invoiced Orders","Заказы, у которых есть счета"
 "Total Invoiced","Всего платежей"
@@ -5441,7 +5441,7 @@ Canceled,Отменено
 "Total Shipped Report","Отчёт ""Всего доставлено"""
 Carrier/Method,"Служба доставки/Метод"
 "Total Sales Shipping","Total Sales Shipping"
-"Total Shipping","Total Shipping"
+"Total Shipping","Итого за доставку"
 "Order Taxes Report Grouped by Tax Rate","Отчёт налоги в заказах (сгруппировано по налоговой ставке)"
 Rate,Курс
 "Tax Amount","Сумма налога"
@@ -5887,8 +5887,8 @@ Inactive,"Не активно"
 "Enter discount code","Введите код скидки"
 "Apply Discount","Применить скидку"
 "Cancel coupon","Отменить купон"
-"Your coupon was successfully removed.","Your coupon was successfully removed."
-"Your coupon was successfully applied.","Your coupon was successfully applied."
+"Your coupon was successfully removed.","Купон успешно удален."
+"Your coupon was successfully applied.","Купон успешно применен."
 Promotion,Promotion
 "Auto Generated Specific Coupon Codes","Автоматически созданные коды купонов"
 "Web Site",Сайт
@@ -6074,7 +6074,7 @@ Reorder,Перезаказать
 "Shipment #%1 comment added","Комментарий к доставке #%1 успешно добавлен"
 "Invoice #%1 created","Счёт #%1 создан"
 "Invoice #%1 comment added","Комментарий к счёту #%1 успешно добавлен"
-"Tracking number %1 for %2 assigned","Tracking number %1 for %2 assigned"
+"Tracking number %1 for %2 assigned","Номер отслеживания %1 назначен для %2"
 "Comments History","История комментариев"
 "Order History","История заказа"
 Information,Информация
@@ -6305,7 +6305,7 @@ Authorization,Авторизация
 "Ship to:",Получатель:
 "Payment Method:","Метод оплаты:"
 "Shipping Method:","Метод доставки:"
-"Total Shipping Charges","Итоговая сумма за доставку"
+"Total Shipping Charges","Итого за доставку"
 Title,Заголовок
 Number,Номер
 "We found an invalid renderer model.","We found an invalid renderer model."
@@ -6737,7 +6737,7 @@ Marketing,Маркетинг
 "Failed to delete %1 synonym group(s).","Failed to delete %1 synonym group(s)."
 "A total of %1 synonym group(s) have been deleted.","Удалено записей: %1."
 "This synonym group no longer exists.","This synonym group no longer exists."
-"You saved the synonym group.","You saved the synonym group."
+"You saved the synonym group.","Вы сохранили группу синонимов."
 "The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged."
 "The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged."
 "You deleted the search.","Вы удалили поиск."
@@ -6789,8 +6789,8 @@ Website,Сайт
 "We couldn't logout because of an error.","We couldn't logout because of an error."
 "Someone logged into this account from another device or browser. Your current session is terminated.","Someone logged into this account from another device or browser. Your current session is terminated."
 "Your current session is terminated by another user of this account.","Your current session is terminated by another user of this account."
-"Your account is temporarily disabled.","Your account is temporarily disabled."
-"Your current session has been expired.","Your current session has been expired."
+"Your account is temporarily disabled.","Ваш аккаунт временно отключен."
+"Your current session has been expired.","Ваш сеанс работы с сайтом завершен."
 "By IP and Email","По IP и Email"
 "By IP","По IP"
 "By Email","По Email"
@@ -6950,7 +6950,7 @@ message,сообщение
 "Payment Information","Информация об оплате"
 "The order was placed using %1.","Заказ был сделан с использованием %1."
 "Shipping Information","Информация о доставке"
-"Total Shipping Charges","Итоговая сумма за доставку"
+"Total Shipping Charges","Итого за доставку"
 "Incl. Tax","Включая налог"
 "Items to Ship","Позиций к отгрузке"
 "Qty to Ship","Кол-во к отправке"
@@ -7912,7 +7912,7 @@ password,пароль
 username,"имя пользователя"
 "You did not sign in correctly or your account is temporarily disabled.","Вы ввели некорректные данные или ваша учётная запись временно заблокирована."
 "You need more permissions to access this.","Вам нужно больше прав для доступа сюда."
-"Your account is temporarily disabled.","Your account is temporarily disabled."
+"Your account is temporarily disabled.","Ваш аккаунт временно отключен."
 "User Name is a required field.","Поле Имя пользователя является обязательным."
 "First Name is a required field.","Поле Имя является обязательным."
 "Last Name is a required field.","Поле Фамилия является обязательным."
