@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8263 | 6986 | 1277 | ![Progress](http://progressed.io/bar/84) |
+| 8263 | 6991 | 1272 | ![Progress](http://progressed.io/bar/84) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -81,7 +81,7 @@ Russian (Ukraine) language.
 | module-offline-shipping | 52 | 52 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-page-cache | 17 | 8 | 9 | ![Progress](http://progressed.io/bar/47) |
 | module-payment | 58 | 44 | 14 | ![Progress](http://progressed.io/bar/75) |
-| module-paypal | 576 | 288 | 288 | ![Progress](http://progressed.io/bar/50) |
+| module-paypal | 576 | 289 | 287 | ![Progress](http://progressed.io/bar/50) |
 | module-persistent | 18 | 15 | 3 | ![Progress](http://progressed.io/bar/83) |
 | module-product-alert | 35 | 35 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-product-video | 43 | 43 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -92,7 +92,7 @@ Russian (Ukraine) language.
 | module-rule | 34 | 34 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-sales-rule | 156 | 149 | 7 | ![Progress](http://progressed.io/bar/95) |
 | module-sales-sequence | 2 | 2 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-sales | 762 | 660 | 102 | ![Progress](http://progressed.io/bar/86) |
+| module-sales | 762 | 663 | 99 | ![Progress](http://progressed.io/bar/87) |
 | module-search | 88 | 69 | 19 | ![Progress](http://progressed.io/bar/78) |
 | module-security | 29 | 12 | 17 | ![Progress](http://progressed.io/bar/41) |
 | module-send-friend | 46 | 46 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -104,7 +104,7 @@ Russian (Ukraine) language.
 | module-tax | 174 | 170 | 4 | ![Progress](http://progressed.io/bar/97) |
 | module-theme | 171 | 149 | 22 | ![Progress](http://progressed.io/bar/87) |
 | module-translation | 5 | 5 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-ui | 111 | 90 | 21 | ![Progress](http://progressed.io/bar/81) |
+| module-ui | 111 | 91 | 20 | ![Progress](http://progressed.io/bar/81) |
 | module-ups | 113 | 56 | 57 | ![Progress](http://progressed.io/bar/49) |
 | module-url-rewrite | 61 | 61 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-user | 135 | 127 | 8 | ![Progress](http://progressed.io/bar/94) |

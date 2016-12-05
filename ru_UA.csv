@@ -901,8 +901,8 @@ To:,До:
 Message:,Сообщение:
 "Product Name",Название
 Subtotal,Итого
-"Discount Amount","Величина скидки"
-"Row Total","Итог строки"
+"Discount Amount",Дисконт
+"Row Total",Итого
 "Qty Invoiced","Кол-во оплаченных"
 "Qty Shipped","Кол-во отправленных"
 "Add Products to New Option","Добавить товары в новый параметр"
@@ -3342,8 +3342,8 @@ Message:,Сообщение:
 "Product Name",Название
 Qty,Кол-во
 Subtotal,Итого
-"Discount Amount","Величина скидки"
-"Row Total","Итог строки"
+"Discount Amount",Дисконт
+"Row Total",Итого
 "Qty Invoiced","Кол-во оплаченных"
 Ordered,Заказано
 Shipped,Доставлено
@@ -4733,7 +4733,7 @@ CPF,CPF
 "Note: %1","Note: %1"
 "IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4"
 "IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3."
-"You notified customer about invoice #%1.","You notified customer about invoice #%1."
+"You notified customer about invoice #%1.","Вы оповестили клиента о выставлении счета #%1."
 "IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4"""
 "You notified customer about creditmemo #%1.","Вы оповестили клиента о возврате платежа #%1."
 "IPN ""%1""","IPN ""%1"""
@@ -5444,7 +5444,7 @@ Carrier/Method,"Служба доставки/Метод"
 "Total Shipping","Итого за доставку"
 "Order Taxes Report Grouped by Tax Rate","Отчёт налоги в заказах (сгруппировано по налоговой ставке)"
 Rate,Курс
-"Tax Amount","Сумма налога"
+"Tax Amount",Налог
 "Abandoned carts","Заброшенные корзины"
 Email,Email
 Products,Товары
@@ -5918,7 +5918,7 @@ From,С
 To,По
 "Public In RSS Feed","Опубликовать в RSS канале"
 Apply,Применить
-"Discount Amount","Величина скидки"
+"Discount Amount",Дисконт
 "Maximum Qty Discount is Applied To","Размер максимальной скидки применяется к"
 "Discount Qty Step (Buy X)","Шаг количества для скидки (купить X)"
 "Apply to Shipping Amount","Применить к сумме доставки"
@@ -6149,7 +6149,7 @@ Sales,Продажи
 "The order no longer exists.","Заказ больше не существует."
 "We can\'t create credit memo for the order.","Мы не можем создать возврат платежа для заказа."
 "Edit Order","Редактировать заказ"
-"You sent the order email.","You sent the order email."
+"You sent the order email.","Вы отправили письмо о заказе."
 "We can\'t send the email order right now.","Мы не можем отправить письмо с заказом в данный момент."
 "You have not put the order on hold.","You have not put the order on hold."
 "You put the order on hold.","You put the order on hold."
@@ -6441,9 +6441,9 @@ Item,Позиция
 "Items to Refund","Позиций к возврату"
 "Return to Stock","Вернуть на склад"
 "Qty to Refund","Кол-во к возврату"
-"Tax Amount","Сумма налога"
-"Discount Amount","Величина скидки"
-"Row Total","Итог строки"
+"Tax Amount",Налог
+"Discount Amount",Дисконт
+"Row Total",Итого
 "No Items To Refund","Нет позиций для возврата"
 "Credit Memo Comments","Комментарии к возврату платежа"
 "Refund Totals","Итоги по возврату"
@@ -6483,7 +6483,7 @@ Status,Статус
 Comment,Комментарий
 "Notification Not Applicable","Notification Not Applicable"
 "Order & Account Information","Информация о Заказе и Учётной записи"
-"The order confirmation email was sent","письмо с информацией о заказе было послано"
+"The order confirmation email was sent","письмо с информацией о заказе отправлено"
 "The order confirmation email is not sent","письмо с информацией о заказе НЕ было послано"
 "Order Date","Дата заказа"
 "Order Date (%1)","Дата заказа (%1)"
@@ -7290,7 +7290,7 @@ Code,Код
 "Subtotal (Incl. Tax)","Итого (включая налог)"
 Subtotal,Итого
 "Unit Price","Цена за шт."
-"Row Total","Итог строки"
+"Row Total",Итого
 Total,Итого
 "Before Discount","До скидки"
 "After Discount","После скидки"
@@ -7584,7 +7584,7 @@ Off,Off
 "New View","New View"
 "Default View","Default View"
 "${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible"
-"You have successfully saved your edits.","You have successfully saved your edits."
+"You have successfully saved your edits.","Вы успешно сохранили ваши изменения."
 "You haven\'t selected any items!","You haven\'t selected any items!"
 "Search by keyword",Поиск
 Keyword,"Ключевое слово"
