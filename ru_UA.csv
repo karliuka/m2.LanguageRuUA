@@ -1484,7 +1484,7 @@ Enabled,Включено
 Disabled,Отключено
 "Attribute Set already exists.","Набор атрибутов уже существует."
 "We couldn\'t copy file %1. Please delete media with non-existing images and try again.","Мы не смогли скопировать файл %1."
-"The image content is not valid.","The image content is not valid."
+"The image content is not valid.","Изображение некорректно."
 "Cannot save product.","Невозможно сохранить товар."
 "Failed to save new media gallery entry.","Failed to save new media gallery entry."
 "There is no image with provided ID.","Нет изображения с предоставленным ИД."
