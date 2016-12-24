@@ -23,7 +23,7 @@ Russian (Ukraine) language.
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8263 | 6993 | 1270 | ![Progress](http://progressed.io/bar/84) |
+| 8263 | 6996 | 1267 | ![Progress](http://progressed.io/bar/84) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -36,13 +36,13 @@ Russian (Ukraine) language.
 | module-braintree | 145 | 120 | 25 | ![Progress](http://progressed.io/bar/82) |
 | module-bundle | 108 | 108 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-captcha | 26 | 26 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-catalog-import-export | 19 | 9 | 10 | ![Progress](http://progressed.io/bar/47) |
+| module-catalog-import-export | 19 | 10 | 9 | ![Progress](http://progressed.io/bar/52) |
 | module-catalog-inventory | 67 | 59 | 8 | ![Progress](http://progressed.io/bar/88) |
 | module-catalog-rule | 69 | 69 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-catalog-search | 36 | 36 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-catalog-url-rewrite | 6 | 6 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-catalog-widget | 20 | 20 | 0 | ![Progress](http://progressed.io/bar/100) |
-| module-catalog | 716 | 661 | 55 | ![Progress](http://progressed.io/bar/92) |
+| module-catalog | 716 | 663 | 53 | ![Progress](http://progressed.io/bar/92) |
 | module-checkout-agreements | 41 | 41 | 0 | ![Progress](http://progressed.io/bar/100) |
 | module-checkout | 182 | 164 | 18 | ![Progress](http://progressed.io/bar/90) |
 | module-cms | 152 | 144 | 8 | ![Progress](http://progressed.io/bar/94) |
